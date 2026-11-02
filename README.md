@@ -10,7 +10,9 @@ over time.
 .
 ├── logitech/
 │   └── mx-creative-console/
-│       └── keypad/          # Logi Options+ keypad profiles (.lp5), one per app
+│       ├── keypad/          # Logi Options+ keypad profiles (.lp5), one per app
+│       ├── plugins/         # Logi Plugin Service plugins those profiles depend on
+│       └── sync-plugins.sh  # backup / install the plugins
 └── README.md
 ```
 
@@ -27,11 +29,15 @@ restore its config.
 2. Install the tools you need (see each folder's README).
 3. Import the configs for that tool.
 
+On a Mac behind a corporate proxy where Logi Options+ can't fetch plugins, run
+`logitech/mx-creative-console/sync-plugins.sh install` first, then import the profiles.
+
 ## Contents
 
 | Folder | What it is | Docs |
 | --- | --- | --- |
 | `logitech/mx-creative-console/keypad` | Per-app button layouts for the MX Creative Console keypad | [README](logitech/mx-creative-console/keypad/README.md) |
+| `logitech/mx-creative-console/plugins` | The Logi plugins behind those layouts, for Macs that can't download them (Zscaler etc.) | [README](logitech/mx-creative-console/plugins/README.md) |
 
 ## Backing up changes
 

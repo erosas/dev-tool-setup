@@ -1,0 +1,14 @@
+# Default event source of the plugin: the haptic events raised by HapticNotifier
+# (src/Helpers/HapticNotifier.cs). Event names must match the constants of
+# HapticNotifier and the keys of extra/eventMapping.yaml exactly.
+# The events are also registered in code (HapticNotifier.Init), where their
+# display names come from Resources/Strings.xml; the texts below are the
+# English defaults required by the file format.
+
+events:
+    - name: workflowSucceeded
+      displayName: Workflow succeeded
+      description: A watched workflow run has just finished successfully (1 vibration)
+    - name: workflowFailed
+      displayName: Workflow failed or cancelled
+      description: A watched workflow run has just failed or been cancelled (2 vibrations)

@@ -1,0 +1,240 @@
+{
+    "languages": [
+        "en-US",
+        "!en-US",
+        "de-DE",
+        "!de-DE",
+        "fr-FR",
+        "!fr-FR",
+        "en-GB",
+        "!en-GB",
+        "ja-JP",
+        "!ja-JP"
+    ],
+    "primaryOperatingSystem": "Win",
+    "secondaryOperatingSystem": "Mac",
+    "groupNames": [],
+    "commands": [
+        {
+            "fullName": "VirtualCommand___4D33089935BB4DC88C305FFE7595E18F",
+            "shortcuts": {
+                "en-US": "ControlOrCommand+Shift+KeyN",
+                "!en-US": "Command+Shift+KeyN",
+                "de-DE": "ControlOrCommand+Shift+KeyN",
+                "!de-DE": "Command+Shift+KeyN",
+                "fr-FR": "ControlOrCommand+Shift+KeyN",
+                "!fr-FR": "Command+Shift+KeyN",
+                "!ja-JP": "Command+Shift+KeyN",
+                "ja-JP": "ControlOrCommand+Shift+KeyN",
+                "en-GB": "ControlOrCommand+Shift+KeyN",
+                "!en-GB": "Command+Shift+KeyN"
+            },
+            "name": "4D33089935BB4DC88C305FFE7595E18F",
+            "displayName": "Open Chat",
+            "description": "Open the Teams chat panel",
+            "groupName": "",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___A952E0B1DDD64F7DAC404204EE3A27B8",
+            "shortcuts": {
+                "en-US": "ControlOrCommand+Shift+KeyE",
+                "!en-US": "Command+Shift+KeyE",
+                "de-DE": "ControlOrCommand+Shift+KeyE",
+                "!de-DE": "Command+Shift+KeyE",
+                "fr-FR": "ControlOrCommand+Shift+KeyE",
+                "!fr-FR": "Command+Shift+KeyE",
+                "!ja-JP": "Command+Shift+KeyE",
+                "ja-JP": "ControlOrCommand+Shift+KeyE",
+                "en-GB": "ControlOrCommand+Shift+KeyE",
+                "!en-GB": "Command+Shift+KeyE"
+            },
+            "name": "A952E0B1DDD64F7DAC404204EE3A27B8",
+            "displayName": "Share Screen",
+            "description": "Share your screen in Teams",
+            "groupName": "",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___BD4369D114634D7A8CA7DB322BD5FF3E",
+            "shortcuts": {
+                "en-US": "ControlOrCommand+Shift+KeyO",
+                "!en-US": "Command+Shift+KeyO",
+                "de-DE": "ControlOrCommand+Shift+KeyO",
+                "!de-DE": "Command+Shift+KeyO",
+                "fr-FR": "ControlOrCommand+Shift+KeyO",
+                "!fr-FR": "Command+Shift+KeyO",
+                "!ja-JP": "Command+Shift+KeyO",
+                "ja-JP": "ControlOrCommand+Shift+KeyO",
+                "en-GB": "ControlOrCommand+Shift+KeyO",
+                "!en-GB": "Command+Shift+KeyO"
+            },
+            "name": "BD4369D114634D7A8CA7DB322BD5FF3E",
+            "displayName": "Toggle Video",
+            "description": "Turn your camera on or off",
+            "groupName": "",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___209C42B17C814135964B9474AF01B507",
+            "shortcuts": {
+                "en-US": "ControlOrCommand+Shift+KeyM",
+                "!en-US": "Command+Shift+KeyM",
+                "de-DE": "ControlOrCommand+Shift+KeyM",
+                "!de-DE": "Command+Shift+KeyM",
+                "fr-FR": "ControlOrCommand+Shift+KeyM",
+                "!fr-FR": "Command+Shift+KeyM",
+                "!ja-JP": "Command+Shift+KeyM",
+                "ja-JP": "ControlOrCommand+Shift+KeyM",
+                "en-GB": "ControlOrCommand+Shift+KeyM",
+                "!en-GB": "Command+Shift+KeyM"
+            },
+            "name": "209C42B17C814135964B9474AF01B507",
+            "displayName": "Toggle Mute",
+            "description": "Mute or unmute your microphone",
+            "groupName": "",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___D2C2F962AD0949439C4FB58071C4224D",
+            "shortcuts": {
+                "en-US": "ControlOrCommand+Shift+KeyK",
+                "!en-US": "ControlOrCommand+Shift+KeyK",
+                "de-DE": "ControlOrCommand+Shift+KeyK",
+                "!de-DE": "Command+Shift+KeyK",
+                "fr-FR": "ControlOrCommand+Shift+KeyK",
+                "!fr-FR": "Command+Shift+KeyK",
+                "!ja-JP": "Command+Shift+KeyK",
+                "ja-JP": "ControlOrCommand+Shift+KeyK",
+                "en-GB": "ControlOrCommand+Shift+KeyK",
+                "!en-GB": "Command+Shift+KeyK"
+            },
+            "name": "D2C2F962AD0949439C4FB58071C4224D",
+            "displayName": "Raise Hand",
+            "description": "Raise or lower your hand in meeting",
+            "groupName": "",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___385EE56DFA3B4CD69462745A72627B95",
+            "shortcuts": {
+                "en-US": "Control+Shift+KeyA",
+                "!en-US": "Command+Shift+KeyV",
+                "de-DE": "Control+Shift+KeyA",
+                "!de-DE": "Command+Shift+KeyV",
+                "!fr-FR": "Command+Shift+KeyV",
+                "!en-GB": "Command+Shift+KeyV",
+                "!ja-JP": "Command+Shift+KeyV",
+                "fr-FR": "Control+Shift+KeyA",
+                "en-GB": "Control+Shift+KeyA",
+                "ja-JP": "Control+Shift+KeyA"
+            },
+            "name": "385EE56DFA3B4CD69462745A72627B95",
+            "displayName": "Accept Video Call",
+            "description": "Join the incoming video call",
+            "groupName": "",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___BA2F9B7BF2684A04BD43824285D95CDD",
+            "shortcuts": {
+                "en-US": "Control+Shift+KeyD",
+                "!en-US": "Command+Shift+KeyD",
+                "de-DE": "Control+Shift+KeyD",
+                "!de-DE": "Command+Shift+KeyD",
+                "!fr-FR": "Command+Shift+KeyD",
+                "!en-GB": "Command+Shift+KeyD",
+                "!ja-JP": "Command+Shift+KeyD",
+                "fr-FR": "Control+Shift+KeyD",
+                "en-GB": "Control+Shift+KeyD",
+                "ja-JP": "Control+Shift+KeyD"
+            },
+            "name": "BA2F9B7BF2684A04BD43824285D95CDD",
+            "displayName": "Decline Call",
+            "description": "Dismiss the incoming call",
+            "groupName": "",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___A69B4B2410484AC88DC96B3E65E4E1FA",
+            "shortcuts": {
+                "en-US": "Control+Shift+KeyH",
+                "!en-US": "Command+Shift+KeyH",
+                "de-DE": "Control+Shift+KeyH",
+                "!de-DE": "Command+Shift+KeyH",
+                "!fr-FR": "Command+Shift+KeyH",
+                "!en-GB": "Command+Shift+KeyH",
+                "!ja-JP": "Command+Shift+KeyH",
+                "fr-FR": "Control+Shift+KeyH",
+                "en-GB": "Control+Shift+KeyH",
+                "ja-JP": "Control+Shift+KeyH"
+            },
+            "name": "A69B4B2410484AC88DC96B3E65E4E1FA",
+            "displayName": "Leave Meeting or Call",
+            "description": "Exit the current meeting or call",
+            "groupName": "",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___0F8C6D5F564C46A9AB0DC2B2A659156F",
+            "shortcuts": {
+                "!en-US": "Command+AltOrOption+KeyS",
+                "en-US": "AltOrOption+Shift+KeyA",
+                "de-DE": "AltOrOption+Shift+KeyA",
+                "!de-DE": "Command+AltOrOption+KeyS",
+                "!fr-FR": "Command+AltOrOption+KeyS",
+                "!en-GB": "Command+AltOrOption+KeyS",
+                "!ja-JP": "Command+AltOrOption+KeyS",
+                "fr-FR": "AltOrOption+Shift+KeyA",
+                "en-GB": "AltOrOption+Shift+KeyA",
+                "ja-JP": "AltOrOption+Shift+KeyA"
+            },
+            "name": "0F8C6D5F564C46A9AB0DC2B2A659156F",
+            "displayName": "Start Audio Call",
+            "description": "Start a call with audio only",
+            "groupName": "",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___2E323F870E2343A784272FE6E78D0F69",
+            "shortcuts": {
+                "!en-US": "Command+Shift+KeyS",
+                "en-US": "AltOrOption+Shift+KeyV",
+                "de-DE": "AltOrOption+Shift+KeyV",
+                "!de-DE": "Command+Shift+KeyS",
+                "!fr-FR": "Command+Shift+KeyS",
+                "!en-GB": "Command+Shift+KeyS",
+                "!ja-JP": "Command+Shift+KeyS",
+                "fr-FR": "AltOrOption+Shift+KeyV",
+                "en-GB": "AltOrOption+Shift+KeyV",
+                "ja-JP": "AltOrOption+Shift+KeyV"
+            },
+            "name": "2E323F870E2343A784272FE6E78D0F69",
+            "displayName": "Start Video Call",
+            "description": "Start a call with video on",
+            "groupName": "",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___6F1D2898DE054D5692DC8F90B954B606",
+            "shortcuts": {
+                "!en-US": "Command+Shift+KeyA",
+                "en-US": "AltOrOption+Shift+KeyC",
+                "de-DE": "AltOrOption+Shift+KeyC",
+                "!de-DE": "Command+Shift+KeyA",
+                "!fr-FR": "Command+Shift+KeyA",
+                "!en-GB": "Command+Shift+KeyA",
+                "!ja-JP": "Command+Shift+KeyA",
+                "fr-FR": "AltOrOption+Shift+KeyC",
+                "en-GB": "AltOrOption+Shift+KeyC",
+                "ja-JP": "AltOrOption+Shift+KeyC"
+            },
+            "name": "6F1D2898DE054D5692DC8F90B954B606",
+            "displayName": "Toggle Live Captions",
+            "description": "Turn live captions on or off",
+            "groupName": "",
+            "operatingSystem": 3
+        }
+    ],
+    "adjustments": []
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Declares French as a language of the plugin: Logi Plugin Service lists the
+  languages of the .xliff files of this folder (their target-language), and
+  Logi Options+ only lets the user pick one of them ("Plugin language" in the
+  plugin settings). The texts themselves are NOT here: they all live in
+  src/Resources/Strings.xml and are read by PluginStrings. Adding a language
+  means a <text lang="xx"> per string there, plus a copy of this file with
+  its target-language.
+-->
+<xliff version="1.2">
+  <file original="$GitHubActions___@general" source-language="en-US" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <group id="@general">
+        <trans-unit id="$GitHubActions___General___ResetDisplayNameTemplate" translate="yes" approved="yes">
+          <source>Reset %</source>
+          <target state="final">Restaurer %</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

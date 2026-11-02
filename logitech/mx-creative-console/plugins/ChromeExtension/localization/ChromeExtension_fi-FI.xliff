@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2">
+  <file original="$ChromeExtension___@general" source-language="en-US" target-language="fi-FI" datatype="plaintext">
+    <body>
+      <group id="@general">
+        <trans-unit id="$ChromeExtension___General___ResetDisplayNameTemplate" translate="yes" approved="yes">
+          <source>Reset %</source>
+          <target state="final">Palauta %</target>
+        </trans-unit>
+      </group>
+      <group id="@modes">
+        <trans-unit id="$ChromeExtension___ModeName___main" translate="yes" approved="yes">
+          <source>Main</source>
+          <target state="final">Pää</target>
+        </trans-unit>
+      </group>
+      <group id="@resources">
+        <trans-unit id="$ChromeExtension___@resources___Action_ForwardHistoryCommand_DisplayName" translate="yes" approved="yes">
+          <source>Forward (History)</source>
+          <target state="final">Eteenpäin (Historia)</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Info_ManifestInstallationStarted" translate="yes" approved="yes">
+          <source>=== MANIFEST INSTALLATION STARTED ===</source>
+          <target state="final">=== MANIFESTIN ASENNUS ALKOI ===</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_UnsupportedPlatform" translate="yes" approved="yes">
+          <source>Unsupported platform: {0}</source>
+          <target state="final">Alustaa ei tueta: {0}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Link_InstallFromChromeWebStore" translate="yes" approved="yes">
+          <source>Install from Chrome Web Store</source>
+          <target state="final">Asenna Chrome Web Storesta</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Info_ExtensionFoundInRegistry" translate="yes" approved="yes">
+          <source>Extension {0} found in registry but not in Chrome preferences - Chrome may not have processed the installation yet</source>
+          <target state="final">Laajennus {0} löytyi rekisteristä, mutta ei Chrome-asetuksista - Chrome ei ehkä ole vielä käsitellyt asennusta</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_PreviousTabSkipped" translate="yes" approved="yes">
+          <source>Previous tab command skipped - Chrome extension not available</source>
+          <target state="final">Edellisen välilehden komento ohitettu - Chrome-laajennus ei ole käytettävissä</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewTabCommand_Placeholder" translate="yes" approved="yes">
+          <source>Type or paste URL</source>
+          <target state="final">Kirjoita tai liitä URL-osoite</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NextTabCommand_DisplayName" translate="yes" approved="yes">
+          <source>Next Tab</source>
+          <target state="final">Seuraava välilehti</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NewPrivateWindowCommand_Description" translate="yes" approved="yes">
+          <source>Open a new private window</source>
+          <target state="final">Avaa uusi yksityinen ikkuna</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_TogglingBookmarksVisibility" translate="yes" approved="yes">
+          <source>Error while toggling bookmarks visibility. Failed to send command to native messaging host.</source>
+          <target state="final">Virhe kirjanmerkkien näkyvyyden vaihtamisessa. Komennon lähettäminen paikalliselle viestintäisännälle epäonnistui.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_CommunicationError" translate="yes" approved="yes">
+          <source>Communication Error: Failed to send message to browser extension</source>
+          <target state="final">Viestintävirhe: Viestin lähettäminen selainlaajennukseen epäonnistui</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Group_TabsAndWindows" translate="yes" approved="yes">
+          <source>Tabs and Windows</source>
+          <target state="final">Välilehdet ja ikkunat</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_WebDeveloperToolsSkipped" translate="yes" approved="yes">
+          <source>Web developer tools command skipped - Chrome extension not available</source>
+          <target state="final">Verkkokehittäjätyökalujen komentoa ohitettu - Chrome-laajennus ei ole käytettävissä</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ShowHideBookmarksCommand_Description" translate="yes" approved="yes">
+          <source>Show the current bookmarks</source>
+          <target state="final">Näytä nykyiset kirjanmerkit</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Warning_ExternalExtensionsNotSupported" translate="yes" approved="yes">
+          <source>External Extensions directory approach not supported on Windows for extension: {0}</source>
+          <target state="final">Ulkoisten laajennusten hakemistoa ei tueta Windowsissa laajennukselle: {0}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_StatusUpdateFailed" translate="yes" approved="yes">
+          <source>Status Update Failed: Failed to update plugin status</source>
+          <target state="final">Tilapäivitys epäonnistui: Laajennuksen tilan päivittäminen epäonnistui</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ShowHistoryCommand_DisplayName" translate="yes" approved="yes">
+          <source>Show History</source>
+          <target state="final">Näytä historia</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NewBrowserTabCommand_DisplayName" translate="yes" approved="yes">
+          <source>New Browser Tab</source>
+          <target state="final">Uusi välilehti selaimessa</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_RegistryKeyCreationFailed" translate="yes" approved="yes">
+          <source>Failed to create or open the registry key</source>
+          <target state="final">Rekisteriavainta ei voitu luoda tai avata</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_SavePageAsCommand_DisplayName" translate="yes" approved="yes">
+          <source>Save Page As</source>
+          <target state="final">Tallenna sivu nimellä</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ShowPluginsCommand_Description" translate="yes" approved="yes">
+          <source>Show installed extensions</source>
+          <target state="final">Näytä asennetut laajennukset</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_PermissionDenied" translate="yes" approved="yes">
+          <source>Permission denied accessing file: {0}</source>
+          <target state="final">Käyttöoikeus estetty tiedostoon: {0}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PreviousTabCommand_DisplayName" translate="yes" approved="yes">
+          <source>Previous Tab</source>
+          <target state="final">Edellinen välilehti</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewTabCommand_ValidationError" translate="yes" approved="yes">
+          <source>Please enter a URL.</source>
+          <target state="final">Syötä URL-osoite.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_StatusCheckFailed" translate="yes" approved="yes">
+          <source>Status Check Failed: Failed to check extension status</source>
+          <target state="final">Tilatarkistus epäonnistui: Laajennuksen tilan tarkistaminen epäonnistui</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_SettingsCommand_Description" translate="yes" approved="yes">
+          <source>Open browser settings</source>
+          <target state="final">Avaa selainasetukset</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_PluginInitializationFailed" translate="yes" approved="yes">
+          <source>Plugin initialization failed - extension detection error.</source>
+          <target state="final">Laajennuksen alustaminen epäonnistui - laajennuksen havaitsemisvirhe.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PreviousTabCommand_Description" translate="yes" approved="yes">
+          <source>Switch to the previous tab</source>
+          <target state="final">Vaihda edelliseen välilehteen</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewTabCommand_DisplayName" translate="yes" approved="yes">
+          <source>Open Link in New Tab</source>
+          <target state="final">Avaa linkki uudessa välilehdessä</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PageSourceCommand_DisplayName" translate="yes" approved="yes">
+          <source>Page Source</source>
+          <target state="final">Sivun lähde</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ZoomInOutOfPageCommand_Description" translate="yes" approved="yes">
+          <source>Adjust page zoom level</source>
+          <target state="final">Säädä sivun zoomaustasoa</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Warning_GhostExtensionDetected" translate="yes" approved="yes">
+          <source>Ghost extension detected: Extension {0} found in preferences but missing from filesystem</source>
+          <target state="final">Aavelaajennus havaittu: Laajennusta {0} löytyi asetuksista, mutta se puuttuu tiedostojärjestelmästä</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ShowPluginsCommand_DisplayName" translate="yes" approved="yes">
+          <source>Show Extensions</source>
+          <target state="final">Näytä laajennukset</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_ChromeNotRunning" translate="yes" approved="yes">
+          <source>Open Chrome browser to use the plugin.</source>
+          <target state="final">Avaa Chrome-selain käyttääksesi laajennusta.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Info_ManifestInstallationSucceeded" translate="yes" approved="yes">
+          <source>=== MANIFEST INSTALLATION SUCCEEDED ===</source>
+          <target state="final">=== MANIFESTIN ASENNUS ONNISTUI ===</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_ExtensionIdNullOrEmpty" translate="yes" approved="yes">
+          <source>Extension ID cannot be null or empty</source>
+          <target state="final">Laajennuksen tunnus ei voi olla tyhjä</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PrintPageCommand_Description" translate="yes" approved="yes">
+          <source>Print the current page</source>
+          <target state="final">Tulosta nykyinen sivu</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_BookmarkCurrentTabCommand_DisplayName" translate="yes" approved="yes">
+          <source>Bookmark Current Tab</source>
+          <target state="final">Lisää nykyinen välilehti kirjanmerkiksi</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PageSourceCommand_Description" translate="yes" approved="yes">
+          <source>View the page source</source>
+          <target state="final">Näytä sivun lähde</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewTabCommand_LinkAddressDescription" translate="yes" approved="yes">
+          <source>Enter a pre-configured link to navigate to.</source>
+          <target state="final">Syötä esiasetettu linkki, johon navigoidaan.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NewBrowserWindowCommand_DisplayName" translate="yes" approved="yes">
+          <source>New Browser Window</source>
+          <target state="final">Uusi ikkuna selaimessa</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_MacOSRegistryNotAvailable" translate="yes" approved="yes">
+          <source>macOS registry not available</source>
+          <target state="final">macOS-rekisteri ei ole käytettävissä</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_ExtensionDetectionFailed" translate="yes" approved="yes">
+          <source>Extension detection failed - some features may not work properly.</source>
+          <target state="final">Laajennuksen havaitseminen epäonnistui. Jotkin ominaisuudet eivät ehkä toimi oikein.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewWindowCommand_Description" translate="yes" approved="yes">
+          <source>Open a preconfigured link in a new window</source>
+          <target state="final">Avaa esiasetettu linkki uudessa ikkunassa</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_BookmarkCurrentTabCommand_Description" translate="yes" approved="yes">
+          <source>Bookmark the current tab</source>
+          <target state="final">Lisää nykyinen välilehti kirjanmerkiksi</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_RefreshPageCommand_DisplayName" translate="yes" approved="yes">
+          <source>Refresh Page</source>
+          <target state="final">Päivitä sivu</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_PlatformNotSupported" translate="yes" approved="yes">
+          <source>Platform {0} is not supported</source>
+          <target state="final">Alustaa {0} ei tueta</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ClearRecentHistoryCommand_DisplayName" translate="yes" approved="yes">
+          <source>Clear Recent History</source>
+          <target state="final">Tyhjennä viimeaikainen historia</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_BackHistoryCommand_Description" translate="yes" approved="yes">
+          <source>Go to the previous page</source>
+          <target state="final">Siirry edelliselle sivulle</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Group_SettingsAndTools" translate="yes" approved="yes">
+          <source>Settings and Tools</source>
+          <target state="final">Asetukset ja työkalut</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PasswordsCommand_DisplayName" translate="yes" approved="yes">
+          <source>Passwords</source>
+          <target state="final">Salasanat</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_FindInPageCommand_DisplayName" translate="yes" approved="yes">
+          <source>Find in Page</source>
+          <target state="final">Etsi sivulta</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_WebDeveloperToolsCommand_DisplayName" translate="yes" approved="yes">
+          <source>Web Developer Tools</source>
+          <target state="final">Verkkokehittäjän työkalut</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Link_OpenChromeExtensions" translate="yes" approved="yes">
+          <source>Open Chrome Extensions</source>
+          <target state="final">Avaa Chrome-laajennukset</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewTabCommand_Description" translate="yes" approved="yes">
+          <source>Open a preconfigured link in a new tab</source>
+          <target state="final">Avaa esiasetettu linkki uudessa välilehdessä</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ShowHistoryCommand_Description" translate="yes" approved="yes">
+          <source>Show browsing history</source>
+          <target state="final">Näytä selaushistoria</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewTabCommand_LinkAddressLabel" translate="yes" approved="yes">
+          <source>Link address</source>
+          <target state="final">Linkin osoite</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Group_PageActions" translate="yes" approved="yes">
+          <source>Page Actions</source>
+          <target state="final">Sivutoiminnot</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_PluginLoadFailed" translate="yes" approved="yes">
+          <source>Plugin failed to load properly - restart may be required.</source>
+          <target state="final">Laajennus ei latautunut oikein - saattaa edellyttää uudelleenkäynnistystä.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_RefreshPageCommand_Description" translate="yes" approved="yes">
+          <source>Refresh the page</source>
+          <target state="final">Päivitä sivu</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_FindInPageSkipped" translate="yes" approved="yes">
+          <source>Find in page command skipped - Chrome extension not available</source>
+          <target state="final">Etsi sivulta -komento ohitettiin - Chrome-laajennus ei ole käytettävissä</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Warning_ChromeNativeMessagingNotFound" translate="yes" approved="yes">
+          <source>ChromeNativeMessaging.exe not found in any expected location, using production path</source>
+          <target state="final">ChromeNativeMessaging.exe ei löytynyt mistään odotetusta sijainnista, käytetään tuotantopolkua</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_ExtensionBlacklisted" translate="yes" approved="yes">
+          <source>Extension Blacklisted: The Logi Web Extension has been blacklisted by Chrome. Please contact support.</source>
+          <target state="final">Laajennus kielletty: Logi Web -laajennus on kielletty Chromessa. Ota yhteyttä tukeen.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_SavePageAsSkipped" translate="yes" approved="yes">
+          <source>Save page as command skipped - Chrome extension not available</source>
+          <target state="final">Tallenna sivu nimellä -komento ohitettiin - Chrome-laajennus ei ole käytettävissä</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PrintPageCommand_DisplayName" translate="yes" approved="yes">
+          <source>Print Page</source>
+          <target state="final">Tulosta sivu</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_UnknownRegistryHive" translate="yes" approved="yes">
+          <source>Unknown registry hive: {0}</source>
+          <target state="final">Tuntematon rekisteriryhmä: {0}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_WindowsRegistryNotAvailable" translate="yes" approved="yes">
+          <source>Windows registry not available on this platform</source>
+          <target state="final">Windows rekisteri ei ole käytettävissä tällä alustalla</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_ShowHideBookmarksSkipped" translate="yes" approved="yes">
+          <source>Show/Hide bookmarks command skipped - Chrome extension not available or Chrome not running</source>
+          <target state="final">Näytä/Piilota kirjanmerkit -komento ohitettu - Chrome-laajennus ei ole saatavilla tai Chrome ei ole käynnissä</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_WindowsIntegrationNotAvailable" translate="yes" approved="yes">
+          <source>Windows Chrome integration not available on this platform</source>
+          <target state="final">Windows Chrome -integraatio ei ole käytettävissä tällä alustalla</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_MacOSIntegrationNotAvailable" translate="yes" approved="yes">
+          <source>macOS Chrome integration not available</source>
+          <target state="final">macOS Chrome -integraatio ei ole käytettävissä</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_SettingsCommand_DisplayName" translate="yes" approved="yes">
+          <source>Settings</source>
+          <target state="final">Asetukset</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewWindowCommand_DisplayName" translate="yes" approved="yes">
+          <source>Open Link in New Window</source>
+          <target state="final">Avaa linkki uudessa ikkunassa</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_MacOSFileManagerNotAvailable" translate="yes" approved="yes">
+          <source>macOS file manager not available</source>
+          <target state="final">macOS-tiedostonhallinta ei ole saatavilla</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ReOpenClosedTabCommand_DisplayName" translate="yes" approved="yes">
+          <source>Re-Open Closed Tab</source>
+          <target state="final">Avaa uudelleen suljettu välilehti</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ZoomInOutOfPageCommand_DisplayName" translate="yes" approved="yes">
+          <source>Zoom in/out of page</source>
+          <target state="final">Zoomaa lähemmäs/kauemmas sivulla</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_FindInPageCommand_Description" translate="yes" approved="yes">
+          <source>Find text on the page</source>
+          <target state="final">Etsi tekstiä sivulta</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NextTabCommand_Description" translate="yes" approved="yes">
+          <source>Switch to the next tab</source>
+          <target state="final">Vaihda seuraavaan välilehteen</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_ExtensionDetectionError" translate="yes" approved="yes">
+          <source>Extension Detection Error: Detection result is null</source>
+          <target state="final">Laajennuksen tunnistusvirhe: Tunnistuksen tulos on tyhjä</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PasswordsCommand_Description" translate="yes" approved="yes">
+          <source>Manage saved passwords</source>
+          <target state="final">Hallitse tallennettuja salasanoja</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_BackHistoryCommand_DisplayName" translate="yes" approved="yes">
+          <source>Back (History)</source>
+          <target state="final">Takaisin (Historia)</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_WindowsFileManagerNotAvailable" translate="yes" approved="yes">
+          <source>Windows file manager not available on this platform</source>
+          <target state="final">Windows-tiedostonhallinta ei ole käytettävissä tällä alustalla</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_WindowsTypesNotCompiled" translate="yes" approved="yes">
+          <source>{0} type not found - Windows types may not be compiled in</source>
+          <target state="final">{0} tyyppiä ei löytynyt - Windows-tyyppejä ei ehkä ole käännetty</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_ExtensionInstallationRequired" translate="yes" approved="yes">
+          <source>Extension Installation Required: Please install the Logi Web Extension manually from the Chrome Web Store to enable browser interaction functionality.</source>
+          <target state="final">Vaatii laajennuksen asennuksen: Asenna Logi Web -laajennus manuaalisesti Chrome Web Storesta, jotta selaimen vuorovaikutusominaisuus voidaan ottaa käyttöön.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_TypeNotFound" translate="yes" approved="yes">
+          <source>{0} type not found</source>
+          <target state="final">{0} tyyppiä ei löytynyt</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_StatusRefreshFailed" translate="yes" approved="yes">
+          <source>Status Refresh Failed: Failed to refresh extension status</source>
+          <target state="final">Tilapäivitys epäonnistui: Laajennuksen tilan päivittäminen epäonnistui</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_WebDeveloperToolsCommand_Description" translate="yes" approved="yes">
+          <source>Open or close web developer tools</source>
+          <target state="final">Avaa tai sulje verkkokehittäjän työkalut</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_DownloadsCommand_Description" translate="yes" approved="yes">
+          <source>Open the downloads manager</source>
+          <target state="final">Avaa lataushallinta</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_SavePageAsCommand_Description" translate="yes" approved="yes">
+          <source>Save the page as a file</source>
+          <target state="final">Tallenna sivu tiedostona</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_WebExtensionNotInitialized" translate="yes" approved="yes">
+          <source>Web Extension Not Initialized: Web extension functionality not properly initialized</source>
+          <target state="final">Web-laajennusta ei aloitettu: Web-laajennuksen toiminnallisuutta ei ole aloitettu oikein</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Warning_UnsupportedPlatformForDetection" translate="yes" approved="yes">
+          <source>Unsupported platform for Chrome detection: {0}</source>
+          <target state="final">Tuettu alusta Chrome-tunnistukseen: {0}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ShowHideBookmarksCommand_DisplayName" translate="yes" approved="yes">
+          <source>Show Bookmarks</source>
+          <target state="final">Näytä kirjanmerkit</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NewBrowserWindowCommand_Description" translate="yes" approved="yes">
+          <source>Open a new browser window</source>
+          <target state="final">Avaa uusi selainikkuna</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_RegistryKeyNotWritable" translate="yes" approved="yes">
+          <source>Registry key is not writable</source>
+          <target state="final">Rekisterin avain ei ole kirjoitettavissa</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NewPrivateWindowCommand_DisplayName" translate="yes" approved="yes">
+          <source>New Private Window</source>
+          <target state="final">Uusi yksityinen ikkuna</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_ZoomInOutSkipped" translate="yes" approved="yes">
+          <source>Zoom in/out command skipped - Chrome extension not available</source>
+          <target state="final">Zoomaa lähemmäs/kauemmas -komento ohitettu - Chrome-laajennusta ei ole saatavilla</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_NextTabSkipped" translate="yes" approved="yes">
+          <source>Next tab command skipped - Chrome extension not available</source>
+          <target state="final">Seuraava välilehti -komento ohitettu - Chrome-laajennusta ei ole saatavilla</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_FileNotFound" translate="yes" approved="yes">
+          <source>File not found: {0}</source>
+          <target state="final">Tiedostoa ei löytynyt: {0}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ClearRecentHistoryCommand_Description" translate="yes" approved="yes">
+          <source>Clear recent history</source>
+          <target state="final">Tyhjennä viimeaikainen historia</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NewBrowserTabCommand_Description" translate="yes" approved="yes">
+          <source>Open a new browser tab</source>
+          <target state="final">Avaa uusi selainvälilehti</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_FileLockedAfterRetries" translate="yes" approved="yes">
+          <source>File remains locked after {0} attempts: {1}</source>
+          <target state="final">Tiedosto pysyy lukittuna {0} yrityksen jälkeen: {1}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ForwardHistoryCommand_Description" translate="yes" approved="yes">
+          <source>Go forward to a previously visited page</source>
+          <target state="final">Siirry eteenpäin aiemmin avatulle sivulle</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_DownloadsCommand_DisplayName" translate="yes" approved="yes">
+          <source>Downloads</source>
+          <target state="final">Lataukset</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_ExtensionIdTooShort" translate="yes" approved="yes">
+          <source>Extension ID '{0}' is too short or contains no valid characters</source>
+          <target state="final">Laajennuksen tunnus ”{0}” on liian lyhyt tai se ei sisällä sopivia merkkejä</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Group_HistoryAndBookmarks" translate="yes" approved="yes">
+          <source>History and Bookmarks</source>
+          <target state="final">Historia ja kirjanmerkit</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_ExtensionDisabled" translate="yes" approved="yes">
+          <source>Extension Disabled: The Logi Web Extension is installed but disabled. Please enable it in Chrome extensions.</source>
+          <target state="final">Laajennus poistettu käytöstä: Logi Web -laajennus on asennettu mutta poistettu käytöstä. Ota se käyttöön Chromen laajennuksissa.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ReOpenClosedTabCommand_Description" translate="yes" approved="yes">
+          <source>Re-open a previously closed browser tab</source>
+          <target state="final">Avaa uudelleen aiemmin suljettu selaimen välilehti</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file original="$ChromeExtension___main" source-language="en-US" target-language="fi-FI" datatype="plaintext">
+    <body>
+      <group id="@commands">
+        <trans-unit id="$ChromeExtension___ResetLoupedeck.ChromeExtensionPlugin.Actions.ZoomInOutOfPageCommand" translate="yes" approved="yes">
+          <source>Reset Zoom in/out of page</source>
+          <target state="final">Nollaa zoomaus sivulla</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___#DynamicFolder" translate="yes" approved="yes">
+          <source>Dynamic Folder</source>
+          <target state="final">Dynaaminen kansio</target>
+        </trans-unit>
+      </group>
+      <group id="@adjustments"/>
+      <group id="@groups"/>
+    </body>
+  </file>
+</xliff>

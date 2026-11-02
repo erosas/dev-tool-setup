@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2">
+  <file original="$ChromeExtension___@general" source-language="en-US" target-language="da-DK" datatype="plaintext">
+    <body>
+      <group id="@general">
+        <trans-unit id="$ChromeExtension___General___ResetDisplayNameTemplate" translate="yes" approved="yes">
+          <source>Reset %</source>
+          <target state="final">Nulstil %</target>
+        </trans-unit>
+      </group>
+      <group id="@modes">
+        <trans-unit id="$ChromeExtension___ModeName___main" translate="yes" approved="yes">
+          <source>Main</source>
+          <target state="final">Hoved</target>
+        </trans-unit>
+      </group>
+      <group id="@resources">
+        <trans-unit id="$ChromeExtension___@resources___Action_ForwardHistoryCommand_DisplayName" translate="yes" approved="yes">
+          <source>Forward (History)</source>
+          <target state="final">Fremad (Historik)</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Info_ManifestInstallationStarted" translate="yes" approved="yes">
+          <source>=== MANIFEST INSTALLATION STARTED ===</source>
+          <target state="final">=== MANIFESTINSTALLATION STARTET ===</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_UnsupportedPlatform" translate="yes" approved="yes">
+          <source>Unsupported platform: {0}</source>
+          <target state="final">Platformen understøttes ikke: {0}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Link_InstallFromChromeWebStore" translate="yes" approved="yes">
+          <source>Install from Chrome Web Store</source>
+          <target state="final">Installér fra Chrome Web Store</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Info_ExtensionFoundInRegistry" translate="yes" approved="yes">
+          <source>Extension {0} found in registry but not in Chrome preferences - Chrome may not have processed the installation yet</source>
+          <target state="final">Udvidelsen {0} blev fundet i registreringsdatabasen, men ikke i Chrome-præferencer – Chrome har muligvis ikke behandlet installationen endnu</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_PreviousTabSkipped" translate="yes" approved="yes">
+          <source>Previous tab command skipped - Chrome extension not available</source>
+          <target state="final">Forrige fane-kommando blev sprunget over – Chrome-udvidelsen er ikke tilgængelig</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewTabCommand_Placeholder" translate="yes" approved="yes">
+          <source>Type or paste URL</source>
+          <target state="final">Skriv eller indsæt URL-adresse</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NextTabCommand_DisplayName" translate="yes" approved="yes">
+          <source>Next Tab</source>
+          <target state="final">Næste fane</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NewPrivateWindowCommand_Description" translate="yes" approved="yes">
+          <source>Open a new private window</source>
+          <target state="final">Åbn et nyt privat vindue</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_TogglingBookmarksVisibility" translate="yes" approved="yes">
+          <source>Error while toggling bookmarks visibility. Failed to send command to native messaging host.</source>
+          <target state="final">Fejl ved skift af bogmærkers synlighed. Kunne ikke sende kommando til vært for oprindelig meddelelse.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_CommunicationError" translate="yes" approved="yes">
+          <source>Communication Error: Failed to send message to browser extension</source>
+          <target state="final">Kommunikationsfejl: Kunne ikke sende besked til browserudvidelse</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Group_TabsAndWindows" translate="yes" approved="yes">
+          <source>Tabs and Windows</source>
+          <target state="final">Faner og vinduer</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_WebDeveloperToolsSkipped" translate="yes" approved="yes">
+          <source>Web developer tools command skipped - Chrome extension not available</source>
+          <target state="final">Webudviklerværktøjer-kommando blev sprunget over – Chrome-udvidelsen er ikke tilgængelig</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ShowHideBookmarksCommand_Description" translate="yes" approved="yes">
+          <source>Show the current bookmarks</source>
+          <target state="final">Vis de aktuelle bogmærker</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Warning_ExternalExtensionsNotSupported" translate="yes" approved="yes">
+          <source>External Extensions directory approach not supported on Windows for extension: {0}</source>
+          <target state="final">Tilgang via ekstern udvidelsesmappe understøttes ikke på Windows for udvidelsen: {0}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_StatusUpdateFailed" translate="yes" approved="yes">
+          <source>Status Update Failed: Failed to update plugin status</source>
+          <target state="final">Statusopdatering mislykkedes: Kunne ikke opdatere pluginstatus</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ShowHistoryCommand_DisplayName" translate="yes" approved="yes">
+          <source>Show History</source>
+          <target state="final">Vis historik</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NewBrowserTabCommand_DisplayName" translate="yes" approved="yes">
+          <source>New Browser Tab</source>
+          <target state="final">Ny browserfane</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_RegistryKeyCreationFailed" translate="yes" approved="yes">
+          <source>Failed to create or open the registry key</source>
+          <target state="final">Kunne ikke oprette eller åbne registreringsnøglen</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_SavePageAsCommand_DisplayName" translate="yes" approved="yes">
+          <source>Save Page As</source>
+          <target state="final">Gem side som</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ShowPluginsCommand_Description" translate="yes" approved="yes">
+          <source>Show installed extensions</source>
+          <target state="final">Vis installerede udvidelser</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_PermissionDenied" translate="yes" approved="yes">
+          <source>Permission denied accessing file: {0}</source>
+          <target state="final">Adgang nægtet til filen: {0}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PreviousTabCommand_DisplayName" translate="yes" approved="yes">
+          <source>Previous Tab</source>
+          <target state="final">Forrige fane</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewTabCommand_ValidationError" translate="yes" approved="yes">
+          <source>Please enter a URL.</source>
+          <target state="final">Indtast en URL-adresse.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_StatusCheckFailed" translate="yes" approved="yes">
+          <source>Status Check Failed: Failed to check extension status</source>
+          <target state="final">Statuskontrol mislykkedes: Kunne ikke kontrollere udvidelsens status</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_SettingsCommand_Description" translate="yes" approved="yes">
+          <source>Open browser settings</source>
+          <target state="final">Åbn browserindstillinger</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_PluginInitializationFailed" translate="yes" approved="yes">
+          <source>Plugin initialization failed - extension detection error.</source>
+          <target state="final">Plugininitialisering mislykkedes – fejl ved registrering af udvidelse.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PreviousTabCommand_Description" translate="yes" approved="yes">
+          <source>Switch to the previous tab</source>
+          <target state="final">Skift til den forrige fane</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewTabCommand_DisplayName" translate="yes" approved="yes">
+          <source>Open Link in New Tab</source>
+          <target state="final">Åbn link i ny fane</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PageSourceCommand_DisplayName" translate="yes" approved="yes">
+          <source>Page Source</source>
+          <target state="final">Sidekilde</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ZoomInOutOfPageCommand_Description" translate="yes" approved="yes">
+          <source>Adjust page zoom level</source>
+          <target state="final">Juster zoomniveau på siden</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Warning_GhostExtensionDetected" translate="yes" approved="yes">
+          <source>Ghost extension detected: Extension {0} found in preferences but missing from filesystem</source>
+          <target state="final">Skyggeudvidelse opdaget: Udvidelsen {0} blev fundet i indstillinger, men mangler i filsystemet</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ShowPluginsCommand_DisplayName" translate="yes" approved="yes">
+          <source>Show Extensions</source>
+          <target state="final">Vis udvidelser</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_ChromeNotRunning" translate="yes" approved="yes">
+          <source>Open Chrome browser to use the plugin.</source>
+          <target state="final">Åbn Chrome-browseren for at bruge plugin.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Info_ManifestInstallationSucceeded" translate="yes" approved="yes">
+          <source>=== MANIFEST INSTALLATION SUCCEEDED ===</source>
+          <target state="final">=== MANIFESTINSTALLATION LYKKEDES ===</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_ExtensionIdNullOrEmpty" translate="yes" approved="yes">
+          <source>Extension ID cannot be null or empty</source>
+          <target state="final">Udvidelses-ID kan ikke være null eller tomt</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PrintPageCommand_Description" translate="yes" approved="yes">
+          <source>Print the current page</source>
+          <target state="final">Udskriv den aktuelle side</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_BookmarkCurrentTabCommand_DisplayName" translate="yes" approved="yes">
+          <source>Bookmark Current Tab</source>
+          <target state="final">Tilføj aktuelle fane som bogmærke</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PageSourceCommand_Description" translate="yes" approved="yes">
+          <source>View the page source</source>
+          <target state="final">Vis sidekilden</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewTabCommand_LinkAddressDescription" translate="yes" approved="yes">
+          <source>Enter a pre-configured link to navigate to.</source>
+          <target state="final">Indtast et forudkonfigureret link, der skal navigeres til.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NewBrowserWindowCommand_DisplayName" translate="yes" approved="yes">
+          <source>New Browser Window</source>
+          <target state="final">Nyt browservindue</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_MacOSRegistryNotAvailable" translate="yes" approved="yes">
+          <source>macOS registry not available</source>
+          <target state="final">macOS-registreringsdatabase er ikke tilgængelig</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_ExtensionDetectionFailed" translate="yes" approved="yes">
+          <source>Extension detection failed - some features may not work properly.</source>
+          <target state="final">Registrering af udvidelse mislykkedes – nogle funktioner fungerer muligvis ikke korrekt.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewWindowCommand_Description" translate="yes" approved="yes">
+          <source>Open a preconfigured link in a new window</source>
+          <target state="final">Åbn et forudkonfigureret link i et nyt vindue</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_BookmarkCurrentTabCommand_Description" translate="yes" approved="yes">
+          <source>Bookmark the current tab</source>
+          <target state="final">Tilføj den aktuelle fane som bogmærke</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_RefreshPageCommand_DisplayName" translate="yes" approved="yes">
+          <source>Refresh Page</source>
+          <target state="final">Opdater side</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_PlatformNotSupported" translate="yes" approved="yes">
+          <source>Platform {0} is not supported</source>
+          <target state="final">Platformen {0} understøttes ikke</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ClearRecentHistoryCommand_DisplayName" translate="yes" approved="yes">
+          <source>Clear Recent History</source>
+          <target state="final">Ryd seneste historik</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_BackHistoryCommand_Description" translate="yes" approved="yes">
+          <source>Go to the previous page</source>
+          <target state="final">Gå til den forrige side</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Group_SettingsAndTools" translate="yes" approved="yes">
+          <source>Settings and Tools</source>
+          <target state="final">Indstillinger og værktøjer</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PasswordsCommand_DisplayName" translate="yes" approved="yes">
+          <source>Passwords</source>
+          <target state="final">Adgangskoder</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_FindInPageCommand_DisplayName" translate="yes" approved="yes">
+          <source>Find in Page</source>
+          <target state="final">Find på siden</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_WebDeveloperToolsCommand_DisplayName" translate="yes" approved="yes">
+          <source>Web Developer Tools</source>
+          <target state="final">Webudviklingsværktøjer</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Link_OpenChromeExtensions" translate="yes" approved="yes">
+          <source>Open Chrome Extensions</source>
+          <target state="final">Åbn Chrome-udvidelser</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewTabCommand_Description" translate="yes" approved="yes">
+          <source>Open a preconfigured link in a new tab</source>
+          <target state="final">Åbn et forudkonfigureret link i en ny fane</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ShowHistoryCommand_Description" translate="yes" approved="yes">
+          <source>Show browsing history</source>
+          <target state="final">Vis browserhistorik</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewTabCommand_LinkAddressLabel" translate="yes" approved="yes">
+          <source>Link address</source>
+          <target state="final">Linkadresse</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Group_PageActions" translate="yes" approved="yes">
+          <source>Page Actions</source>
+          <target state="final">Sidehandlinger</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_PluginLoadFailed" translate="yes" approved="yes">
+          <source>Plugin failed to load properly - restart may be required.</source>
+          <target state="final">Plugin kunne ikke indlæses korrekt – genstart kan være nødvendig.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_RefreshPageCommand_Description" translate="yes" approved="yes">
+          <source>Refresh the page</source>
+          <target state="final">Opdater siden</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_FindInPageSkipped" translate="yes" approved="yes">
+          <source>Find in page command skipped - Chrome extension not available</source>
+          <target state="final">Find på side-kommando blev sprunget over – Chrome-udvidelsen er ikke tilgængelig</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Warning_ChromeNativeMessagingNotFound" translate="yes" approved="yes">
+          <source>ChromeNativeMessaging.exe not found in any expected location, using production path</source>
+          <target state="final">ChromeNativeMessaging.exe blev ikke fundet på nogen forventet placering – produktionsstien anvendes</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_ExtensionBlacklisted" translate="yes" approved="yes">
+          <source>Extension Blacklisted: The Logi Web Extension has been blacklisted by Chrome. Please contact support.</source>
+          <target state="final">Udvidelse på sortliste: Logi Web Extension er blevet sortlistet af Chrome. Kontakt supportafdelingen.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_SavePageAsSkipped" translate="yes" approved="yes">
+          <source>Save page as command skipped - Chrome extension not available</source>
+          <target state="final">Gem side som-kommando blev sprunget over – Chrome-udvidelsen er ikke tilgængelig</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PrintPageCommand_DisplayName" translate="yes" approved="yes">
+          <source>Print Page</source>
+          <target state="final">Udskriv side</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_UnknownRegistryHive" translate="yes" approved="yes">
+          <source>Unknown registry hive: {0}</source>
+          <target state="final">Ukendt registreringsdatabase-hive: {0}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_WindowsRegistryNotAvailable" translate="yes" approved="yes">
+          <source>Windows registry not available on this platform</source>
+          <target state="final">Windows-registreringsdatabase er ikke tilgængelig på denne platform</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_ShowHideBookmarksSkipped" translate="yes" approved="yes">
+          <source>Show/Hide bookmarks command skipped - Chrome extension not available or Chrome not running</source>
+          <target state="final">Vis/skjul bogmærker-kommando blev sprunget over – Chrome-udvidelsen er ikke tilgængelig, eller Chrome kører ikke</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_WindowsIntegrationNotAvailable" translate="yes" approved="yes">
+          <source>Windows Chrome integration not available on this platform</source>
+          <target state="final">Windows Chrome-integration er ikke tilgængelig på denne platform</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_MacOSIntegrationNotAvailable" translate="yes" approved="yes">
+          <source>macOS Chrome integration not available</source>
+          <target state="final">macOS Chrome-integration er ikke tilgængelig</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_SettingsCommand_DisplayName" translate="yes" approved="yes">
+          <source>Settings</source>
+          <target state="final">Indstillinger</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewWindowCommand_DisplayName" translate="yes" approved="yes">
+          <source>Open Link in New Window</source>
+          <target state="final">Åbn link i nyt vindue</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_MacOSFileManagerNotAvailable" translate="yes" approved="yes">
+          <source>macOS file manager not available</source>
+          <target state="final">macOS-filhåndtering er ikke tilgængelig</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ReOpenClosedTabCommand_DisplayName" translate="yes" approved="yes">
+          <source>Re-Open Closed Tab</source>
+          <target state="final">Åbn lukket fane igen</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ZoomInOutOfPageCommand_DisplayName" translate="yes" approved="yes">
+          <source>Zoom in/out of page</source>
+          <target state="final">Zoom ind/ud på siden</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_FindInPageCommand_Description" translate="yes" approved="yes">
+          <source>Find text on the page</source>
+          <target state="final">Find tekst på siden</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NextTabCommand_Description" translate="yes" approved="yes">
+          <source>Switch to the next tab</source>
+          <target state="final">Skift til den næste fane</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_ExtensionDetectionError" translate="yes" approved="yes">
+          <source>Extension Detection Error: Detection result is null</source>
+          <target state="final">Fejl ved registrering af udvidelse: Registreringsresultatet er null</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PasswordsCommand_Description" translate="yes" approved="yes">
+          <source>Manage saved passwords</source>
+          <target state="final">Administrer gemte adgangskoder</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_BackHistoryCommand_DisplayName" translate="yes" approved="yes">
+          <source>Back (History)</source>
+          <target state="final">Tilbage (Historik)</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_WindowsFileManagerNotAvailable" translate="yes" approved="yes">
+          <source>Windows file manager not available on this platform</source>
+          <target state="final">Windows-filhåndtering er ikke tilgængelig på denne platform</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_WindowsTypesNotCompiled" translate="yes" approved="yes">
+          <source>{0} type not found - Windows types may not be compiled in</source>
+          <target state="final">{0}-typen blev ikke fundet – Windows-typer er muligvis ikke kompileret</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_ExtensionInstallationRequired" translate="yes" approved="yes">
+          <source>Extension Installation Required: Please install the Logi Web Extension manually from the Chrome Web Store to enable browser interaction functionality.</source>
+          <target state="final">Udvidelsesinstallation påkrævet: Installér Logi Web Extension manuelt fra Chrome Web Store for at aktivere browserinteraktionsfunktionalitet.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_TypeNotFound" translate="yes" approved="yes">
+          <source>{0} type not found</source>
+          <target state="final">{0}-typen blev ikke fundet</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_StatusRefreshFailed" translate="yes" approved="yes">
+          <source>Status Refresh Failed: Failed to refresh extension status</source>
+          <target state="final">Statusopdatering mislykkedes: Kunne ikke opdatere udvidelsens status</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_WebDeveloperToolsCommand_Description" translate="yes" approved="yes">
+          <source>Open or close web developer tools</source>
+          <target state="final">Åbn eller luk webudviklingsværktøjer</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_DownloadsCommand_Description" translate="yes" approved="yes">
+          <source>Open the downloads manager</source>
+          <target state="final">Åbn downloadstyring</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_SavePageAsCommand_Description" translate="yes" approved="yes">
+          <source>Save the page as a file</source>
+          <target state="final">Gem siden som en fil</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_WebExtensionNotInitialized" translate="yes" approved="yes">
+          <source>Web Extension Not Initialized: Web extension functionality not properly initialized</source>
+          <target state="final">Webudvidelse ikke initialiseret: Webudvidelsesfunktionalitet er ikke korrekt initialiseret</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Warning_UnsupportedPlatformForDetection" translate="yes" approved="yes">
+          <source>Unsupported platform for Chrome detection: {0}</source>
+          <target state="final">Platformen understøttes ikke til Chrome-registrering: {0}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ShowHideBookmarksCommand_DisplayName" translate="yes" approved="yes">
+          <source>Show Bookmarks</source>
+          <target state="final">Vis bogmærker</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NewBrowserWindowCommand_Description" translate="yes" approved="yes">
+          <source>Open a new browser window</source>
+          <target state="final">Åbn et nyt browservindue</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_RegistryKeyNotWritable" translate="yes" approved="yes">
+          <source>Registry key is not writable</source>
+          <target state="final">Registreringsnøgle er ikke skrivbar</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NewPrivateWindowCommand_DisplayName" translate="yes" approved="yes">
+          <source>New Private Window</source>
+          <target state="final">Nyt privat vindue</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_ZoomInOutSkipped" translate="yes" approved="yes">
+          <source>Zoom in/out command skipped - Chrome extension not available</source>
+          <target state="final">Zoom ind/ud-kommando blev sprunget over – Chrome-udvidelsen er ikke tilgængelig</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_NextTabSkipped" translate="yes" approved="yes">
+          <source>Next tab command skipped - Chrome extension not available</source>
+          <target state="final">Næste fane-kommando blev sprunget over – Chrome-udvidelsen er ikke tilgængelig</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_FileNotFound" translate="yes" approved="yes">
+          <source>File not found: {0}</source>
+          <target state="final">Filen blev ikke fundet: {0}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ClearRecentHistoryCommand_Description" translate="yes" approved="yes">
+          <source>Clear recent history</source>
+          <target state="final">Ryd seneste historik</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NewBrowserTabCommand_Description" translate="yes" approved="yes">
+          <source>Open a new browser tab</source>
+          <target state="final">Åbn en ny browserfane</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_FileLockedAfterRetries" translate="yes" approved="yes">
+          <source>File remains locked after {0} attempts: {1}</source>
+          <target state="final">Filen forbliver låst efter {0} forsøg: {1}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ForwardHistoryCommand_Description" translate="yes" approved="yes">
+          <source>Go forward to a previously visited page</source>
+          <target state="final">Gå frem til en tidligere besøgt side</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_DownloadsCommand_DisplayName" translate="yes" approved="yes">
+          <source>Downloads</source>
+          <target state="final">Downloads</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_ExtensionIdTooShort" translate="yes" approved="yes">
+          <source>Extension ID '{0}' is too short or contains no valid characters</source>
+          <target state="final">Udvidelses-ID ”{0}” er for kort eller indeholder ingen gyldige tegn</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Group_HistoryAndBookmarks" translate="yes" approved="yes">
+          <source>History and Bookmarks</source>
+          <target state="final">Historik og bogmærker</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_ExtensionDisabled" translate="yes" approved="yes">
+          <source>Extension Disabled: The Logi Web Extension is installed but disabled. Please enable it in Chrome extensions.</source>
+          <target state="final">Udvidelse deaktiveret: Logi Web Extension er installeret, men deaktiveret. Slå den til i Chrome-udvidelser.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ReOpenClosedTabCommand_Description" translate="yes" approved="yes">
+          <source>Re-open a previously closed browser tab</source>
+          <target state="final">Åbn en tidligere lukket browserfane igen</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file original="$ChromeExtension___main" source-language="en-US" target-language="da-DK" datatype="plaintext">
+    <body>
+      <group id="@commands">
+        <trans-unit id="$ChromeExtension___ResetLoupedeck.ChromeExtensionPlugin.Actions.ZoomInOutOfPageCommand" translate="yes" approved="yes">
+          <source>Reset Zoom in/out of page</source>
+          <target state="final">Nulstil zoom ind/ud på siden</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___#DynamicFolder" translate="yes" approved="yes">
+          <source>Dynamic Folder</source>
+          <target state="final">Dynamisk mappe</target>
+        </trans-unit>
+      </group>
+      <group id="@adjustments"/>
+      <group id="@groups"/>
+    </body>
+  </file>
+</xliff>

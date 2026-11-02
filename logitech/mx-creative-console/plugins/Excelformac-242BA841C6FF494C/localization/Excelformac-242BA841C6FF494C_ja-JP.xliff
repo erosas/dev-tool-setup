@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2">
+  <file original="$Excelformac-242BA841C6FF494C___@general" source-language="en-US" target-language="ja-JP" datatype="plaintext">
+    <body>
+      <group id="@general">
+        <trans-unit id="$Excelformac-242BA841C6FF494C___General___ResetDisplayNameTemplate" translate="yes" approved="yes">
+          <source>Reset %</source>
+          <target state="final">リセット %</target>
+        </trans-unit>
+      </group>
+      <group id="@modes">
+        <trans-unit id="$Excelformac-242BA841C6FF494C___ModeName___main" translate="yes" approved="yes">
+          <source>Main</source>
+          <target state="final">メイン</target>
+        </trans-unit>
+      </group>
+      <group id="@resources">
+        <trans-unit id="$Excelformac-242BA841C6FF494C___@resources___The following application profiles has been moved to system profiles" translate="yes" approved="yes">
+          <source>The following application profiles has been moved to system profiles</source>
+          <target state="final">以下のアプリケーションプロファイルはシステムプロファイルに移動しました</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file original="$Excelformac-242BA841C6FF494C___main" source-language="en-US" target-language="ja-JP" datatype="plaintext">
+    <body>
+      <group id="@commands">
+        <group id="$Excelformac-242BA841C6FF494C___VirtualCommand">
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___0ACD88912E1148D0BCED8113FBEFD98D" translate="yes" approved="yes">
+            <source>Next Sheet</source>
+            <target state="final">次のシート</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___0ACD88912E1148D0BCED8113FBEFD98D###description" translate="yes" approved="yes">
+            <source>Move to the next sheet</source>
+            <target state="final">次のシートに移動します</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___3935CEF68FA54513B7FB78C766C01F37" translate="yes" approved="yes">
+            <source>Previous Sheet</source>
+            <target state="final">前のシート</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___3935CEF68FA54513B7FB78C766C01F37###description" translate="yes" approved="yes">
+            <source>Move to the previous sheet</source>
+            <target state="final">前のシートに移動します</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___BF93AD37FF1740B8ABFCE26D221D69E3" translate="yes" approved="yes">
+            <source>Go to Top of Data Region</source>
+            <target state="final">データ領域の先頭に移動</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___BF93AD37FF1740B8ABFCE26D221D69E3###description" translate="yes" approved="yes">
+            <source>Jump to the top of the data region</source>
+            <target state="final">データ領域の先頭にジャンプ</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___0D2D3479E4D5489CA237756132912B6F" translate="yes" approved="yes">
+            <source>Go to Bottom of Data Region</source>
+            <target state="final">データ領域の下部に移動</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___0D2D3479E4D5489CA237756132912B6F###description" translate="yes" approved="yes">
+            <source>Jump to the bottom of the data region</source>
+            <target state="final">データ領域の下部にジャンプ</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___4215B43F22874731A11D940BED507392" translate="yes" approved="yes">
+            <source>Paste Special</source>
+            <target state="final">特別な貼り付け</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___4215B43F22874731A11D940BED507392###description" translate="yes" approved="yes">
+            <source>Open the Paste Special menu</source>
+            <target state="final">特別な貼り付けメニューを開きます</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___D630B4C27F67461AA372C415823F861B" translate="yes" approved="yes">
+            <source>Undo</source>
+            <target state="final">取り消し</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___D630B4C27F67461AA372C415823F861B###description" translate="yes" approved="yes">
+            <source>Reverse the last action to restore the previous state</source>
+            <target state="final">最後の操作を元に戻して前の状態を復元</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___A61A262599894A3C9A8C2596F6FDC573" translate="yes" approved="yes">
+            <source>Redo</source>
+            <target state="final">やり直し</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___A61A262599894A3C9A8C2596F6FDC573###description" translate="yes" approved="yes">
+            <source>Reapply the last undone action</source>
+            <target state="final">最後の取り消し操作を再実行します</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___76894209E9204BB097E3633CE096DC71" translate="yes" approved="yes">
+            <source>Cut</source>
+            <target state="final">カット</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___76894209E9204BB097E3633CE096DC71###description" translate="yes" approved="yes">
+            <source>Cut the selected content and place it on the clipboard</source>
+            <target state="final">選択した内容を切り取り、クリップボードに置く</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___D3E498B9783145049C6082F4A2D3CEF9" translate="yes" approved="yes">
+            <source>Copy</source>
+            <target state="final">コピー</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___D3E498B9783145049C6082F4A2D3CEF9###description" translate="yes" approved="yes">
+            <source>Copy the selected content to the clipboard</source>
+            <target state="final">選択した内容をクリップボードにコピー</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___49E102E36F2A410D900179F1025483EA" translate="yes" approved="yes">
+            <source>Copy Formatting</source>
+            <target state="final">書式をコピー</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___49E102E36F2A410D900179F1025483EA###description" translate="yes" approved="yes">
+            <source>Copy the formatting from the selection</source>
+            <target state="final">選択範囲から書式をコピー</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___67A47E3359EA4EB3BC4C5EBDD282E24A" translate="yes" approved="yes">
+            <source>Paste</source>
+            <target state="final">ペースト</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___67A47E3359EA4EB3BC4C5EBDD282E24A###description" translate="yes" approved="yes">
+            <source>Insert content from the clipboard</source>
+            <target state="final">クリップボードから内容を挿入</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___09EFE3C5BD6442CD9AB8E71A13AAD125" translate="yes" approved="yes">
+            <source>Clear</source>
+            <target state="final">クリア</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___09EFE3C5BD6442CD9AB8E71A13AAD125###description" translate="yes" approved="yes">
+            <source>Remove content, formatting, or comments from selected cell</source>
+            <target state="final">選択したセルから内容、書式、またはコメントを削除する</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___D2D86117BD5D4C608888EC5AA2F69B40" translate="yes" approved="yes">
+            <source>Select All</source>
+            <target state="final">すべてを選択</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___D2D86117BD5D4C608888EC5AA2F69B40###description" translate="yes" approved="yes">
+            <source>Select the entire worksheet</source>
+            <target state="final">ワークシート全体を選択する</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___4D0430C9F9CA4E0CA5DAC3E30AB3A0B5" translate="yes" approved="yes">
+            <source>Bold</source>
+            <target state="final">太字</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___4D0430C9F9CA4E0CA5DAC3E30AB3A0B5###description" translate="yes" approved="yes">
+            <source>Apply or remove bold formatting</source>
+            <target state="final">太字の書式を適用または削除します</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___EE3B1F21032C408687F8D29CDF36D531" translate="yes" approved="yes">
+            <source>Italic</source>
+            <target state="final">斜体</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___EE3B1F21032C408687F8D29CDF36D531###description" translate="yes" approved="yes">
+            <source>Apply or remove italic formatting</source>
+            <target state="final">斜体の書式を適用または削除します</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___2B9E9EFF22E44FB0A37ACA5B627B0BB3" translate="yes" approved="yes">
+            <source>Underline</source>
+            <target state="final">下線</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___2B9E9EFF22E44FB0A37ACA5B627B0BB3###description" translate="yes" approved="yes">
+            <source>Apply or remove underline formatting</source>
+            <target state="final">下線の書式を適用または削除します</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___3857FD6A610D45578B6BF25CAF5F2C6F" translate="yes" approved="yes">
+            <source>Check Spelling</source>
+            <target state="final">スペルチェック</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___3857FD6A610D45578B6BF25CAF5F2C6F###description" translate="yes" approved="yes">
+            <source>Check for spelling errors</source>
+            <target state="final">スペルエラーをチェックします</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___6A6EE7CE1581496D99CB421D4F68E6B0" translate="yes" approved="yes">
+            <source>Display the Format Cells Dialog Box</source>
+            <target state="final">セルの書式設定ダイアログボックスを表示する</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___6A6EE7CE1581496D99CB421D4F68E6B0###description" translate="yes" approved="yes">
+            <source>Open the Format Cells dialog to change cell formatting options</source>
+            <target state="final">セルの書式設定オプションを変更するためにセルの書式設定ダイアログを開く</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___8C1BBC53B8BC4710B65C89166636BC4F" translate="yes" approved="yes">
+            <source>Calculate All Open Workbooks</source>
+            <target state="final">すべてのオープンブックを計算する</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___8C1BBC53B8BC4710B65C89166636BC4F###description" translate="yes" approved="yes">
+            <source>Calculate formulas in all open workbooks</source>
+            <target state="final">すべてのオープンブックの数式を計算する</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___104C8A60A14E4F26BAEF093CB0E9B711" translate="yes" approved="yes">
+            <source>Fill Cells Down</source>
+            <target state="final">セルを下にフィルする</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___104C8A60A14E4F26BAEF093CB0E9B711###description" translate="yes" approved="yes">
+            <source>Copy the top cell's contents or formula down through the selected cells</source>
+            <target state="final">選択したセルに上のセルの内容または数式をコピーします</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___CC76AA2261464D94A9209C1A56BC2581" translate="yes" approved="yes">
+            <source>Fill Cells Right</source>
+            <target state="final">セルを右に塗りつぶす</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___CC76AA2261464D94A9209C1A56BC2581###description" translate="yes" approved="yes">
+            <source>Copy the leftmost cell's contents or formula to the right through the selected cells</source>
+            <target state="final">選択したセルに左端のセルの内容または数式を右にコピーします</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___9796AFA7B1B14DD3801B6782A534FAEE" translate="yes" approved="yes">
+            <source>Delete Cells</source>
+            <target state="final">セルを削除</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___9796AFA7B1B14DD3801B6782A534FAEE###description" translate="yes" approved="yes">
+            <source>Remove selected cells</source>
+            <target state="final">選択したセルを削除</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___9DAB53A75B9F48BAB72F0FA0E326DE51" translate="yes" approved="yes">
+            <source>Create Chart</source>
+            <target state="final">グラフを作成</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___9DAB53A75B9F48BAB72F0FA0E326DE51###description" translate="yes" approved="yes">
+            <source>Create a chart from the selected data</source>
+            <target state="final">選択したデータからチャートを作成します</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___3ACBA9D47F794F949A05CF389BF043A4" translate="yes" approved="yes">
+            <source>Create Table</source>
+            <target state="final">テーブルを作成</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___3ACBA9D47F794F949A05CF389BF043A4###description" translate="yes" approved="yes">
+            <source>Convert data to a table</source>
+            <target state="final">データをテーブルに変換</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___3C8E3A1C24214C8CB561DD5C3A490FEA" translate="yes" approved="yes">
+            <source>Save</source>
+            <target state="final">保存</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___3C8E3A1C24214C8CB561DD5C3A490FEA###description" translate="yes" approved="yes">
+            <source>Save the workbook</source>
+            <target state="final">ブックを保存します</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___CD1B3C2AA9434D44B883330595E45FFC" translate="yes" approved="yes">
+            <source>New Workbook</source>
+            <target state="final">新しいブック</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___CD1B3C2AA9434D44B883330595E45FFC###description" translate="yes" approved="yes">
+            <source>Open a new workbook</source>
+            <target state="final">新しいブックを開く</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___87853058F6414008A7E1EDE7EC144E1B" translate="yes" approved="yes">
+            <source>Close Workbook</source>
+            <target state="final">ブックを閉じる</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___87853058F6414008A7E1EDE7EC144E1B###description" translate="yes" approved="yes">
+            <source>Close the workbook</source>
+            <target state="final">ブックを閉じます</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___C510A59D5BFF4FA5ACBCBAF349ED3DB7" translate="yes" approved="yes">
+            <source>Print Workbook</source>
+            <target state="final">ブックを印刷</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___C510A59D5BFF4FA5ACBCBAF349ED3DB7###description" translate="yes" approved="yes">
+            <source>Print the workbook</source>
+            <target state="final">ブックを印刷します</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___AE6D8A2C52C44D68BB2D489ABD9BF9F2" translate="yes" approved="yes">
+            <source>Find and Replace </source>
+            <target state="final">検索と置換 </target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___AE6D8A2C52C44D68BB2D489ABD9BF9F2###description" translate="yes" approved="yes">
+            <source>Open the Find and Replace dialog box</source>
+            <target state="final">検索と置換ダイアログボックスを開く</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___90BE0BDAB94748F285D63AF58278501D" translate="yes" approved="yes">
+            <source>Open Workbook</source>
+            <target state="final">ブックを開く</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___90BE0BDAB94748F285D63AF58278501D###description" translate="yes" approved="yes">
+            <source>Open a workbook</source>
+            <target state="final">ブックを開く</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___BA8D769C106B4FB6A387726C6624D630" translate="yes" approved="yes">
+            <source>Toggle Ribbon</source>
+            <target state="final">リボンを切り替える</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualCommand___BA8D769C106B4FB6A387726C6624D630###description" translate="yes" approved="yes">
+            <source>Expand or minimize the ribbon</source>
+            <target state="final">リボンを展開または最小化する</target>
+          </trans-unit>
+        </group>
+        <trans-unit id="$Excelformac-242BA841C6FF494C___#DynamicFolder" translate="yes" approved="yes">
+          <source>Dynamic Folder</source>
+          <target state="final">ダイナミックフォルダー</target>
+        </trans-unit>
+        <group id="$Excelformac-242BA841C6FF494C___VirtualCommand"/>
+      </group>
+      <group id="@adjustments">
+        <group id="$Excelformac-242BA841C6FF494C___VirtualAdjustment">
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualAdjustment___28638B8DEE1A4F1FB4D5B876948A5518" translate="yes" approved="yes">
+            <source>Sheet Navigation</source>
+            <target state="final">シート ナビゲーション</target>
+          </trans-unit>
+          <trans-unit id="$Excelformac-242BA841C6FF494C___VirtualAdjustment___28638B8DEE1A4F1FB4D5B876948A5518###description" translate="yes" approved="yes">
+            <source>Switch between the available Excel sheets.</source>
+            <target state="final">利用可能なExcelシート間を切り替える。</target>
+          </trans-unit>
+        </group>
+        <group id="$Excelformac-242BA841C6FF494C___VirtualAdjustment"/>
+      </group>
+      <group id="@groups">
+        <trans-unit id="$Excelformac-242BA841C6FF494C___GroupName___5E2E54F5BE5F70B3000A" translate="yes" approved="yes">
+          <source>Navigation</source>
+          <target state="final">ナビゲーション</target>
+        </trans-unit>
+        <trans-unit id="$Excelformac-242BA841C6FF494C___GroupName___3028ACCCDF4063F10007" translate="yes" approved="yes">
+          <source>Editing</source>
+          <target state="final">編集</target>
+        </trans-unit>
+        <trans-unit id="$Excelformac-242BA841C6FF494C___GroupName___7A85445AFA5E56D1000F" translate="yes" approved="yes">
+          <source>Text Formatting</source>
+          <target state="final">テキストの書式設定</target>
+        </trans-unit>
+        <trans-unit id="$Excelformac-242BA841C6FF494C___GroupName___B5BCD27D966F195F000F" translate="yes" approved="yes">
+          <source>Charts &amp; Tables</source>
+          <target state="final">グラフとテーブル</target>
+        </trans-unit>
+        <trans-unit id="$Excelformac-242BA841C6FF494C___GroupName___5F4B7FA54E6E35ED0008" translate="yes" approved="yes">
+          <source>Workbook</source>
+          <target state="final">ブック</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

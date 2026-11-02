@@ -1,0 +1,9 @@
+haptics:
+  needsPermission:
+    DEFAULT: subtle_collision
+  turnFinished:
+    DEFAULT: subtle_collision
+  errorFailure:
+    DEFAULT: subtle_collision
+  milestone:
+    DEFAULT: subtle_collision

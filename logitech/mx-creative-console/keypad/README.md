@@ -16,7 +16,9 @@ a profile for one app and lights up automatically when that app is in the foregr
 
 ## Install on a new machine
 
-1. Install Logi Options+ and plug in the MX Creative Console.
+1. Install Logi Options+ and plug in the MX Creative Console. If the Mac can't reach
+   Logitech's servers (Zscaler), install the plugins from [`../plugins`](../plugins/README.md)
+   first with `../sync-plugins.sh install`.
 2. Open Logi Options+, select the **MX Creative Console** keypad.
 3. Pick the app you want (or add it with **+** if it isn't listed).
 4. Open the profile menu (**⋯** next to the profile name) and choose **Import**.

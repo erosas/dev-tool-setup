@@ -1,0 +1,574 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2">
+  <file original="$Word-1DAA6242EA4E470F" source-language="en" target-language="" datatype="plaintext">
+    <body>
+      <group id="@plugin">
+        <trans-unit id="$Word-1DAA6242EA4E470F___PluginInfo___DisplayName" translate="yes">
+          <source>Word</source>
+          <target />
+        </trans-unit>
+      </group>
+      <group id="@strings" />
+      <group id="@groups">
+        <trans-unit id="$Word-1DAA6242EA4E470F___GroupName___7F328E34295A56FC0008F53DDEFB" translate="yes">
+          <source>Document</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___GroupName___FA1A2D4B0DB0A71F000D5E74F0F1" translate="yes">
+          <source>Document view</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___GroupName___5E2E54F5BE5F70B3000ACE33D470" translate="yes">
+          <source>Navigation</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___GroupName___9279EC3CDD7D319000142434712C" translate="yes">
+          <source>Paragraph Formatting</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___GroupName___BE513DC6791384260012377590F8" translate="yes">
+          <source>Special characters</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___GroupName___D565667B89C86B72000CF91BE16E" translate="yes">
+          <source>Text Editing</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___GroupName___7A85445AFA5E56D1000F98E178AB" translate="yes">
+          <source>Text Formatting</source>
+          <target />
+        </trans-unit>
+      </group>
+      <group id="@commands">
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___27D3B82DDF4E4AE4A2A517BC62D69D03" translate="yes">
+          <source>New Document</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___27D3B82DDF4E4AE4A2A517BC62D69D03" translate="yes">
+          <source>Create a new blank document</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___F99939922C524084A2480C236C93557C" translate="yes">
+          <source>Open Document</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___F99939922C524084A2480C236C93557C" translate="yes">
+          <source>Open an existing document</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___EBC912B85A8E4431B5625AD6B53A9562" translate="yes">
+          <source>Save Document</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___EBC912B85A8E4431B5625AD6B53A9562" translate="yes">
+          <source>Save the current document</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___D2CB0CD6134C49EA83CEDCFCB0C60519" translate="yes">
+          <source>Save As</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___D2CB0CD6134C49EA83CEDCFCB0C60519" translate="yes">
+          <source>Open the "Save As" dialog box</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___E1A2B6F2DD6347F79DFF165683BF2805" translate="yes">
+          <source>Close Document</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___E1A2B6F2DD6347F79DFF165683BF2805" translate="yes">
+          <source>Close the current document</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___B87185E695AC4BCCA3722C4322BDD907" translate="yes">
+          <source>Print Document</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___B87185E695AC4BCCA3722C4322BDD907" translate="yes">
+          <source>Open the Print dialog box</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___B88C292183364878988B06E5AC9F4A3D" translate="yes">
+          <source>Print Preview</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___B88C292183364878988B06E5AC9F4A3D" translate="yes">
+          <source>Switch to print preview</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___67D3458154804260B70CEC8748053787" translate="yes">
+          <source>Split Window</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___67D3458154804260B70CEC8748053787" translate="yes">
+          <source>Split the document window</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___1CE7199284B34B2DB9F1F61B59F37BC9" translate="yes">
+          <source>Cut</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___1CE7199284B34B2DB9F1F61B59F37BC9" translate="yes">
+          <source>Remove selected text and copy it to the clipboard</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___D59C250FCC3D448A9F8008CD719D0445" translate="yes">
+          <source>Copy</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___D59C250FCC3D448A9F8008CD719D0445" translate="yes">
+          <source>Copy selected text to the clipboard</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___69A744533AC84AD4900EC96C44FF5715" translate="yes">
+          <source>Paste</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___69A744533AC84AD4900EC96C44FF5715" translate="yes">
+          <source>Paste text from the clipboard</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___0ED14552EC50459D8F3B5D711EC8ECE1" translate="yes">
+          <source>Undo</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___0ED14552EC50459D8F3B5D711EC8ECE1" translate="yes">
+          <source>Reverse the last action</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___48B1D9C7793E4420878C9C52AE32EDBF" translate="yes">
+          <source>Redo</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___48B1D9C7793E4420878C9C52AE32EDBF" translate="yes">
+          <source>Reapply the last undone action</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___CA99137280F441908B0A754AE977465D" translate="yes">
+          <source>Select All</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___CA99137280F441908B0A754AE977465D" translate="yes">
+          <source>Select the entire document</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___51202DC667F04A62BD7A0E7374363755" translate="yes">
+          <source>Select Word</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___51202DC667F04A62BD7A0E7374363755" translate="yes">
+          <source>Select the next word</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___A2701CFBA4FD4A72A8DF60FAF12E526C" translate="yes">
+          <source>Select Paragraph</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___A2701CFBA4FD4A72A8DF60FAF12E526C" translate="yes">
+          <source>Select the current paragraph</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___A4A9CC12CE7C48D58241A1576D477183" translate="yes">
+          <source>Bold</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___A4A9CC12CE7C48D58241A1576D477183" translate="yes">
+          <source>Apply or remove bold formatting</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___12E2DEFA7A1A48B39B5EB0F556B9274A" translate="yes">
+          <source>Italic</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___12E2DEFA7A1A48B39B5EB0F556B9274A" translate="yes">
+          <source>Apply or remove italic formatting</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___01C2A1077F864E49B8E698D367240967" translate="yes">
+          <source>Underline</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___01C2A1077F864E49B8E698D367240967" translate="yes">
+          <source>Apply or remove underline formatting</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___653ABAF5F5DB46768BC8DD687D08F85D" translate="yes">
+          <source>Small Caps</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___653ABAF5F5DB46768BC8DD687D08F85D" translate="yes">
+          <source>Apply small caps formatting</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___305CD70479C94AF1A520AF039B0224D8" translate="yes">
+          <source>All Upper Case</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___305CD70479C94AF1A520AF039B0224D8" translate="yes">
+          <source>Change text to full uppercase letters</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___18992FAF673F4A62AF04DD3A240B8966" translate="yes">
+          <source>Increase Font Size</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___18992FAF673F4A62AF04DD3A240B8966" translate="yes">
+          <source>Make text larger</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___787CEDB83B27487495812676728A4890" translate="yes">
+          <source>Decrease Font Size</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___787CEDB83B27487495812676728A4890" translate="yes">
+          <source>Make text smaller</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___A1D7B4F545EB4223B1698A036F0A8BD7" translate="yes">
+          <source>Align Left</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___A1D7B4F545EB4223B1698A036F0A8BD7" translate="yes">
+          <source>Align text to the left</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___7423668DF0DB41A9AD81AFDB2F5535AC" translate="yes">
+          <source>Align Center</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___7423668DF0DB41A9AD81AFDB2F5535AC" translate="yes">
+          <source>Center text</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___5D27960B84C141C9880942068A9555E3" translate="yes">
+          <source>Align Right</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___5D27960B84C141C9880942068A9555E3" translate="yes">
+          <source>Align text to the right</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___AB37A6B879D54590ACA82443D83C36F4" translate="yes">
+          <source>Justify Text</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___AB37A6B879D54590ACA82443D83C36F4" translate="yes">
+          <source>Align text on right and left</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___93F337AF163C42E0ACE0529491A045EA" translate="yes">
+          <source>Bullet List</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___93F337AF163C42E0ACE0529491A045EA" translate="yes">
+          <source>Add a bulleted list</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___7C0A60D14A6641BBB2F1821A2DC7B740" translate="yes">
+          <source>Move to Beginning of Document</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___7C0A60D14A6641BBB2F1821A2DC7B740" translate="yes">
+          <source>Jump to the start of the document</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___675E584C9B254F688CCACCEE84A9A836" translate="yes">
+          <source>Move to End of Document</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___675E584C9B254F688CCACCEE84A9A836" translate="yes">
+          <source>Jump to the end of the document</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___2908466DE6964F79A72A53169A1B7329" translate="yes">
+          <source>Find Text</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___2908466DE6964F79A72A53169A1B7329" translate="yes">
+          <source>Open the Find tool</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___33AFD3D013EB4E84A41FE5869B780399" translate="yes">
+          <source>Replace Text</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___33AFD3D013EB4E84A41FE5869B780399" translate="yes">
+          <source>Open the Find and Replace tool</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___45EB77F956C745AF87D2418C750B15F0" translate="yes">
+          <source>Go to Page</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___45EB77F956C745AF87D2418C750B15F0" translate="yes">
+          <source>Jump to a specific page</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___3DA26FD2CFE94B5E94C6977D5E83177D" translate="yes">
+          <source>Zoom In</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___3DA26FD2CFE94B5E94C6977D5E83177D" translate="yes">
+          <source>Zoom in on page</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___411D792F725C4C4D9131AF363FD8E43D" translate="yes">
+          <source>Zoom Out</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___411D792F725C4C4D9131AF363FD8E43D" translate="yes">
+          <source>Zoom out of page</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___CA793BDA93DD4610B826FD828BAE9969" translate="yes">
+          <source>Return to 100% Zoom</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___CA793BDA93DD4610B826FD828BAE9969" translate="yes">
+          <source>Return to default 100% zoom</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___EA2FE283A04544AE852A2A8F169724B9" translate="yes">
+          <source>Print Layout View</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___EA2FE283A04544AE852A2A8F169724B9" translate="yes">
+          <source>Switch to the Print Layout view</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___8304D2CAD53D4EA092231B8F7A7663B9" translate="yes">
+          <source>Outline View</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___8304D2CAD53D4EA092231B8F7A7663B9" translate="yes">
+          <source>Switch to the Outline view</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___4E11BAFF52E344BE84169BEB8B208849" translate="yes">
+          <source>Draft View</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___4E11BAFF52E344BE84169BEB8B208849" translate="yes">
+          <source>Switch to the Draft view</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___5A8662FE8E1B4FBBA31CDB500CC0886F" translate="yes">
+          <source>Comment</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___5A8662FE8E1B4FBBA31CDB500CC0886F" translate="yes">
+          <source>Insert a comment</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___2ADEED36F43B4753BDA126669EFE4C2D" translate="yes">
+          <source>Close Review</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___2ADEED36F43B4753BDA126669EFE4C2D" translate="yes">
+          <source>Close the Reviewing Panel</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___893A3B5BEEFE4055A72BDDD0DE1E9D8F" translate="yes">
+          <source>Line Break</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___893A3B5BEEFE4055A72BDDD0DE1E9D8F" translate="yes">
+          <source>Insert a line break</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___357F9D0DCD2E4671AF5A5174EBD629C5" translate="yes">
+          <source>Page Break</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___357F9D0DCD2E4671AF5A5174EBD629C5" translate="yes">
+          <source>Insert a page break</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___E4819A8AABC748AF826EDB4675DE01F3" translate="yes">
+          <source>Column Break</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___E4819A8AABC748AF826EDB4675DE01F3" translate="yes">
+          <source>Insert a column break</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___5BCD12F2C7DC4833B2EEC4E459039274" translate="yes">
+          <source>Em Dash</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___5BCD12F2C7DC4833B2EEC4E459039274" translate="yes">
+          <source>Insert an em dash (—)</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___962E35E20DFE4C759950B6961B095A2C" translate="yes">
+          <source>En Dash</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___962E35E20DFE4C759950B6961B095A2C" translate="yes">
+          <source>Insert an en dash (–)</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___AB374EE528964AE981BD1C4DFD167AA0" translate="yes">
+          <source>Optional Hyphen</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___AB374EE528964AE981BD1C4DFD167AA0" translate="yes">
+          <source>Insert an optional hyphen</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___A351971CB5BC47FEA808FF0B352AD2FE" translate="yes">
+          <source>Nonbreaking Hyphen</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___A351971CB5BC47FEA808FF0B352AD2FE" translate="yes">
+          <source>Insert a nonbreaking hyphen</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___0B4A4DBD15A5410F89F21D46E3D8723A" translate="yes">
+          <source>Nonbreaking Space</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___0B4A4DBD15A5410F89F21D46E3D8723A" translate="yes">
+          <source>Insert a nonbreaking space</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___ADD54E34DCFF4BCCB168E8818A0D0B35" translate="yes">
+          <source>Registered Trademark Symbol</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___ADD54E34DCFF4BCCB168E8818A0D0B35" translate="yes">
+          <source>Insert a registered trademark symbol (®)</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___D24644564D8E4024A3C9F88244C4CAB8" translate="yes">
+          <source>Trademark Symbol</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___D24644564D8E4024A3C9F88244C4CAB8" translate="yes">
+          <source>Insert a trademark symbol (™)</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___59AB66CB91D24E41B535C207DA5B4331" translate="yes">
+          <source>Ellipsis</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___59AB66CB91D24E41B535C207DA5B4331" translate="yes">
+          <source>Insert an ellipsis (…)</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___7084FDC30E864241AB32E5F8BF216CD0" translate="yes">
+          <source>Copy Formatting</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___7084FDC30E864241AB32E5F8BF216CD0" translate="yes">
+          <source>Copy text formatting</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___1060D83E88884CAE9CCB65A22D8DDD0A" translate="yes">
+          <source>Paste Formatting</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___1060D83E88884CAE9CCB65A22D8DDD0A" translate="yes">
+          <source>Paste text formatting</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___8865F35ABA0F4E0BAD628BC37D2E8FDF" translate="yes">
+          <source>Apply Bullet Points</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___8865F35ABA0F4E0BAD628BC37D2E8FDF" translate="yes">
+          <source>Create a bullet point</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___995BAE078EE64CC9838297CAB67762AB" translate="yes">
+          <source>Track Changes</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___995BAE078EE64CC9838297CAB67762AB" translate="yes">
+          <source>Turn change tracking on or off</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___706DD841CE31434095EA78E65BF86409" translate="yes">
+          <source>Apply a Style</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___706DD841CE31434095EA78E65BF86409" translate="yes">
+          <source>Apply a style for the text</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___668079FE3B044A658D181BFBBCE56EBB" translate="yes">
+          <source>Insert Footnote</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___668079FE3B044A658D181BFBBCE56EBB" translate="yes">
+          <source>Insert a footnote into a document</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___7474D1A48A7E4B008CFE45BE9C3E19FF" translate="yes">
+          <source>Insert Link</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___7474D1A48A7E4B008CFE45BE9C3E19FF" translate="yes">
+          <source>Insert a clickable hyperlink</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___C109B64A2A4D4C1ABB2BC5F74342B25C" translate="yes">
+          <source>Check Spelling</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___C109B64A2A4D4C1ABB2BC5F74342B25C" translate="yes">
+          <source>Check for spelling errors</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___9F1B89AD2FD342D19823F63055B3EADC" translate="yes">
+          <source>Indent Paragraph</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___9F1B89AD2FD342D19823F63055B3EADC" translate="yes">
+          <source>Move paragraph right with standard indent</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___1A6C3CE258924322BF5A55C5AC90142B" translate="yes">
+          <source>Outdent Paragraph</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___1A6C3CE258924322BF5A55C5AC90142B" translate="yes">
+          <source>Move paragraph left to remove indent</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___F8D3AE47569C4AE8B0A4903D374B336A" translate="yes">
+          <source>Add Hanging Indent</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___F8D3AE47569C4AE8B0A4903D374B336A" translate="yes">
+          <source>Indent all lines except the first line</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___369BAA3D6F144220946E5977073C920F" translate="yes">
+          <source>Remove Hanging Indent</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___369BAA3D6F144220946E5977073C920F" translate="yes">
+          <source>Reset hanging indent to normal alignment</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___9C87547CCCEA4286AC90F2622642A193" translate="yes">
+          <source>Justify Paragraph</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___9C87547CCCEA4286AC90F2622642A193" translate="yes">
+          <source>Align paragraph text evenly on both left and right margins</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-DisplayName___DF31F4EA6B724EFEBA13950CE1BBABBF" translate="yes">
+          <source>Clear Paragraph Formatting</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Word-1DAA6242EA4E470F___VirtualCommand-Description___DF31F4EA6B724EFEBA13950CE1BBABBF" translate="yes">
+          <source>Remove all custom formatting from paragraph</source>
+          <target />
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

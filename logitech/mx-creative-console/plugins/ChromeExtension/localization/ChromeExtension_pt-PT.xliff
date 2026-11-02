@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2">
+  <file original="$ChromeExtension___@general" source-language="en-US" target-language="pt-PT" datatype="plaintext">
+    <body>
+      <group id="@general">
+        <trans-unit id="$ChromeExtension___General___ResetDisplayNameTemplate" translate="yes" approved="yes">
+          <source>Reset %</source>
+          <target state="final">Repor %</target>
+        </trans-unit>
+      </group>
+      <group id="@modes">
+        <trans-unit id="$ChromeExtension___ModeName___main" translate="yes" approved="yes">
+          <source>Main</source>
+          <target state="final">Principal</target>
+        </trans-unit>
+      </group>
+      <group id="@resources">
+        <trans-unit id="$ChromeExtension___@resources___Action_ForwardHistoryCommand_DisplayName" translate="yes" approved="yes">
+          <source>Forward (History)</source>
+          <target state="final">Avançar (Histórico)</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Info_ManifestInstallationStarted" translate="yes" approved="yes">
+          <source>=== MANIFEST INSTALLATION STARTED ===</source>
+          <target state="final">=== INSTALAÇÃO DO MANIFESTO INICIADA ===</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_UnsupportedPlatform" translate="yes" approved="yes">
+          <source>Unsupported platform: {0}</source>
+          <target state="final">Plataforma não suportada: {0}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Link_InstallFromChromeWebStore" translate="yes" approved="yes">
+          <source>Install from Chrome Web Store</source>
+          <target state="final">Instalar a partir da Chrome Web Store</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Info_ExtensionFoundInRegistry" translate="yes" approved="yes">
+          <source>Extension {0} found in registry but not in Chrome preferences - Chrome may not have processed the installation yet</source>
+          <target state="final">Extensão {0} encontrada no registo, mas não nas preferências do Chrome — o Chrome pode não ter processado a instalação ainda</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_PreviousTabSkipped" translate="yes" approved="yes">
+          <source>Previous tab command skipped - Chrome extension not available</source>
+          <target state="final">Comando Separador anterior ignorado — extensão do Chrome não disponível</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewTabCommand_Placeholder" translate="yes" approved="yes">
+          <source>Type or paste URL</source>
+          <target state="final">Digite ou cole o URL</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NextTabCommand_DisplayName" translate="yes" approved="yes">
+          <source>Next Tab</source>
+          <target state="final">Separador seguinte</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NewPrivateWindowCommand_Description" translate="yes" approved="yes">
+          <source>Open a new private window</source>
+          <target state="final">Abrir uma nova janela de navegação anónima</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_TogglingBookmarksVisibility" translate="yes" approved="yes">
+          <source>Error while toggling bookmarks visibility. Failed to send command to native messaging host.</source>
+          <target state="final">Erro ao alternar a visibilidade dos marcadores. Falha ao enviar comando para o anfitrião de mensagens nativas.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_CommunicationError" translate="yes" approved="yes">
+          <source>Communication Error: Failed to send message to browser extension</source>
+          <target state="final">Erro de comunicação: Falha ao enviar mensagem para extensão do navegador</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Group_TabsAndWindows" translate="yes" approved="yes">
+          <source>Tabs and Windows</source>
+          <target state="final">Separadores e janelas</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_WebDeveloperToolsSkipped" translate="yes" approved="yes">
+          <source>Web developer tools command skipped - Chrome extension not available</source>
+          <target state="final">Comando Ferramentas do programador ignorado — extensão do Chrome não disponível</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ShowHideBookmarksCommand_Description" translate="yes" approved="yes">
+          <source>Show the current bookmarks</source>
+          <target state="final">Mostrar marcadores atuais</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Warning_ExternalExtensionsNotSupported" translate="yes" approved="yes">
+          <source>External Extensions directory approach not supported on Windows for extension: {0}</source>
+          <target state="final">Abordagem do diretório de extensões externas não suportada no Windows para a extensão: {0}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_StatusUpdateFailed" translate="yes" approved="yes">
+          <source>Status Update Failed: Failed to update plugin status</source>
+          <target state="final">Falha na atualização do estado: Falha ao atualizar o estado do plug-in</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ShowHistoryCommand_DisplayName" translate="yes" approved="yes">
+          <source>Show History</source>
+          <target state="final">Mostrar histórico</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NewBrowserTabCommand_DisplayName" translate="yes" approved="yes">
+          <source>New Browser Tab</source>
+          <target state="final">Novo separador</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_RegistryKeyCreationFailed" translate="yes" approved="yes">
+          <source>Failed to create or open the registry key</source>
+          <target state="final">Falha ao criar ou abrir a chave do registo</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_SavePageAsCommand_DisplayName" translate="yes" approved="yes">
+          <source>Save Page As</source>
+          <target state="final">Guardar página como...</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ShowPluginsCommand_Description" translate="yes" approved="yes">
+          <source>Show installed extensions</source>
+          <target state="final">Mostrar extensões instaladas</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_PermissionDenied" translate="yes" approved="yes">
+          <source>Permission denied accessing file: {0}</source>
+          <target state="final">Permissão negada ao aceder ao ficheiro: {0}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PreviousTabCommand_DisplayName" translate="yes" approved="yes">
+          <source>Previous Tab</source>
+          <target state="final">Separador anterior</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewTabCommand_ValidationError" translate="yes" approved="yes">
+          <source>Please enter a URL.</source>
+          <target state="final">Introduza um URL.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_StatusCheckFailed" translate="yes" approved="yes">
+          <source>Status Check Failed: Failed to check extension status</source>
+          <target state="final">Falha na verificação do estado: Falha ao verificar o estado da extensão</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_SettingsCommand_Description" translate="yes" approved="yes">
+          <source>Open browser settings</source>
+          <target state="final">Abrir definições do browser</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_PluginInitializationFailed" translate="yes" approved="yes">
+          <source>Plugin initialization failed - extension detection error.</source>
+          <target state="final">Falha na inicialização do plug-in — erro de deteção da extensão.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PreviousTabCommand_Description" translate="yes" approved="yes">
+          <source>Switch to the previous tab</source>
+          <target state="final">Mudar para o separador anterior</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewTabCommand_DisplayName" translate="yes" approved="yes">
+          <source>Open Link in New Tab</source>
+          <target state="final">Abrir link num novo separador</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PageSourceCommand_DisplayName" translate="yes" approved="yes">
+          <source>Page Source</source>
+          <target state="final">Fonte da página</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ZoomInOutOfPageCommand_Description" translate="yes" approved="yes">
+          <source>Adjust page zoom level</source>
+          <target state="final">Ajustar o nível de zoom da página</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Warning_GhostExtensionDetected" translate="yes" approved="yes">
+          <source>Ghost extension detected: Extension {0} found in preferences but missing from filesystem</source>
+          <target state="final">Extensão fantasma detetada: Extensão {0} encontrada nas preferências, mas ausente no sistema de ficheiros</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ShowPluginsCommand_DisplayName" translate="yes" approved="yes">
+          <source>Show Extensions</source>
+          <target state="final">Mostrar extensões</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_ChromeNotRunning" translate="yes" approved="yes">
+          <source>Open Chrome browser to use the plugin.</source>
+          <target state="final">Abra o navegador Chrome para usar o plug-in.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Info_ManifestInstallationSucceeded" translate="yes" approved="yes">
+          <source>=== MANIFEST INSTALLATION SUCCEEDED ===</source>
+          <target state="final">=== INSTALAÇÃO DO MANIFESTO BEM-SUCEDIDA ===</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_ExtensionIdNullOrEmpty" translate="yes" approved="yes">
+          <source>Extension ID cannot be null or empty</source>
+          <target state="final">O ID da extensão não pode ser nulo ou vazio</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PrintPageCommand_Description" translate="yes" approved="yes">
+          <source>Print the current page</source>
+          <target state="final">Imprimir a página atual</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_BookmarkCurrentTabCommand_DisplayName" translate="yes" approved="yes">
+          <source>Bookmark Current Tab</source>
+          <target state="final">Adicionar separador aos marcadores</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PageSourceCommand_Description" translate="yes" approved="yes">
+          <source>View the page source</source>
+          <target state="final">Ver fonte da página</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewTabCommand_LinkAddressDescription" translate="yes" approved="yes">
+          <source>Enter a pre-configured link to navigate to.</source>
+          <target state="final">Introduza um link pré-configurado para o qual navegar.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NewBrowserWindowCommand_DisplayName" translate="yes" approved="yes">
+          <source>New Browser Window</source>
+          <target state="final">Nova janela de navegação</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_MacOSRegistryNotAvailable" translate="yes" approved="yes">
+          <source>macOS registry not available</source>
+          <target state="final">Registo do macOS não disponível</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_ExtensionDetectionFailed" translate="yes" approved="yes">
+          <source>Extension detection failed - some features may not work properly.</source>
+          <target state="final">Falha na deteção da extensão — algumas funcionalidades podem não funcionar corretamente.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewWindowCommand_Description" translate="yes" approved="yes">
+          <source>Open a preconfigured link in a new window</source>
+          <target state="final">Abrir um link pré-configurado numa nova janela</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_BookmarkCurrentTabCommand_Description" translate="yes" approved="yes">
+          <source>Bookmark the current tab</source>
+          <target state="final">Adicione este separador aos marcadores</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_RefreshPageCommand_DisplayName" translate="yes" approved="yes">
+          <source>Refresh Page</source>
+          <target state="final">Recarregar página</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_PlatformNotSupported" translate="yes" approved="yes">
+          <source>Platform {0} is not supported</source>
+          <target state="final">A plataforma {0} não é suportada</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ClearRecentHistoryCommand_DisplayName" translate="yes" approved="yes">
+          <source>Clear Recent History</source>
+          <target state="final">Eliminar histórico recente</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_BackHistoryCommand_Description" translate="yes" approved="yes">
+          <source>Go to the previous page</source>
+          <target state="final">Ir para a página anterior</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Group_SettingsAndTools" translate="yes" approved="yes">
+          <source>Settings and Tools</source>
+          <target state="final">Definições e ferramentas</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PasswordsCommand_DisplayName" translate="yes" approved="yes">
+          <source>Passwords</source>
+          <target state="final">Palavras-passe</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_FindInPageCommand_DisplayName" translate="yes" approved="yes">
+          <source>Find in Page</source>
+          <target state="final">Localizar na página</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_WebDeveloperToolsCommand_DisplayName" translate="yes" approved="yes">
+          <source>Web Developer Tools</source>
+          <target state="final">Ferramentas do programador</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Link_OpenChromeExtensions" translate="yes" approved="yes">
+          <source>Open Chrome Extensions</source>
+          <target state="final">Abrir Extensões do Chrome</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewTabCommand_Description" translate="yes" approved="yes">
+          <source>Open a preconfigured link in a new tab</source>
+          <target state="final">Abrir um link pré-configurado num novo separador</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ShowHistoryCommand_Description" translate="yes" approved="yes">
+          <source>Show browsing history</source>
+          <target state="final">Mostrar histórico de navegação</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewTabCommand_LinkAddressLabel" translate="yes" approved="yes">
+          <source>Link address</source>
+          <target state="final">Endereço do link</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Group_PageActions" translate="yes" approved="yes">
+          <source>Page Actions</source>
+          <target state="final">Ações da página</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_PluginLoadFailed" translate="yes" approved="yes">
+          <source>Plugin failed to load properly - restart may be required.</source>
+          <target state="final">O plug-in não carregou corretamente — pode ser necessário reiniciar.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_RefreshPageCommand_Description" translate="yes" approved="yes">
+          <source>Refresh the page</source>
+          <target state="final">Recarregar esta página</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_FindInPageSkipped" translate="yes" approved="yes">
+          <source>Find in page command skipped - Chrome extension not available</source>
+          <target state="final">Comando Localizar na página ignorado — extensão do Chrome não disponível</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Warning_ChromeNativeMessagingNotFound" translate="yes" approved="yes">
+          <source>ChromeNativeMessaging.exe not found in any expected location, using production path</source>
+          <target state="final">ChromeNativeMessaging.exe não encontrado em nenhum local esperado, a utilizar o caminho de produção</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_ExtensionBlacklisted" translate="yes" approved="yes">
+          <source>Extension Blacklisted: The Logi Web Extension has been blacklisted by Chrome. Please contact support.</source>
+          <target state="final">Extensão na lista negra: A Logi Web Extension foi colocada na lista negra pelo Chrome. Entre em contacto com o suporte.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_SavePageAsSkipped" translate="yes" approved="yes">
+          <source>Save page as command skipped - Chrome extension not available</source>
+          <target state="final">Comando Guardar página como ignorado — extensão do Chrome não disponível</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PrintPageCommand_DisplayName" translate="yes" approved="yes">
+          <source>Print Page</source>
+          <target state="final">Imprimir página</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_UnknownRegistryHive" translate="yes" approved="yes">
+          <source>Unknown registry hive: {0}</source>
+          <target state="final">Ramo de registo desconhecido: {0}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_WindowsRegistryNotAvailable" translate="yes" approved="yes">
+          <source>Windows registry not available on this platform</source>
+          <target state="final">Registo do Windows não disponível nesta plataforma</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_ShowHideBookmarksSkipped" translate="yes" approved="yes">
+          <source>Show/Hide bookmarks command skipped - Chrome extension not available or Chrome not running</source>
+          <target state="final">Comando Mostrar/Ocultar marcadores ignorado — extensão do Chrome não disponível ou Chrome não está em execução</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_WindowsIntegrationNotAvailable" translate="yes" approved="yes">
+          <source>Windows Chrome integration not available on this platform</source>
+          <target state="final">Integração do Chrome no Windows não disponível nesta plataforma</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_MacOSIntegrationNotAvailable" translate="yes" approved="yes">
+          <source>macOS Chrome integration not available</source>
+          <target state="final">Integração do Chrome no macOS não disponível</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_SettingsCommand_DisplayName" translate="yes" approved="yes">
+          <source>Settings</source>
+          <target state="final">Definições</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewWindowCommand_DisplayName" translate="yes" approved="yes">
+          <source>Open Link in New Window</source>
+          <target state="final">Abrir link numa nova janela</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_MacOSFileManagerNotAvailable" translate="yes" approved="yes">
+          <source>macOS file manager not available</source>
+          <target state="final">Gestor de ficheiros do macOS não disponível</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ReOpenClosedTabCommand_DisplayName" translate="yes" approved="yes">
+          <source>Re-Open Closed Tab</source>
+          <target state="final">Restaurar separador</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ZoomInOutOfPageCommand_DisplayName" translate="yes" approved="yes">
+          <source>Zoom in/out of page</source>
+          <target state="final">Ampliar/reduzir a página</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_FindInPageCommand_Description" translate="yes" approved="yes">
+          <source>Find text on the page</source>
+          <target state="final">Localizar texto na página</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NextTabCommand_Description" translate="yes" approved="yes">
+          <source>Switch to the next tab</source>
+          <target state="final">Mudar para o separador seguinte</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_ExtensionDetectionError" translate="yes" approved="yes">
+          <source>Extension Detection Error: Detection result is null</source>
+          <target state="final">Erro de deteção de extensão: Resultado de deteção nulo</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PasswordsCommand_Description" translate="yes" approved="yes">
+          <source>Manage saved passwords</source>
+          <target state="final">Gestor de palavras-passe</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_BackHistoryCommand_DisplayName" translate="yes" approved="yes">
+          <source>Back (History)</source>
+          <target state="final">Retroceder (Histórico)</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_WindowsFileManagerNotAvailable" translate="yes" approved="yes">
+          <source>Windows file manager not available on this platform</source>
+          <target state="final">Gestor de ficheiros do Windows não disponível nesta plataforma</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_WindowsTypesNotCompiled" translate="yes" approved="yes">
+          <source>{0} type not found - Windows types may not be compiled in</source>
+          <target state="final">Tipo {0} não encontrado — tipos do Windows podem não estar compilados</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_ExtensionInstallationRequired" translate="yes" approved="yes">
+          <source>Extension Installation Required: Please install the Logi Web Extension manually from the Chrome Web Store to enable browser interaction functionality.</source>
+          <target state="final">Instalação de extensão necessária: Instale a Logi Web Extension manualmente a partir da Chrome Web Store para ativar a funcionalidade de interação do navegador.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_TypeNotFound" translate="yes" approved="yes">
+          <source>{0} type not found</source>
+          <target state="final">Tipo {0} não encontrado</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_StatusRefreshFailed" translate="yes" approved="yes">
+          <source>Status Refresh Failed: Failed to refresh extension status</source>
+          <target state="final">Falha ao atualizar estado: Falha ao atualizar o estado da extensão</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_WebDeveloperToolsCommand_Description" translate="yes" approved="yes">
+          <source>Open or close web developer tools</source>
+          <target state="final">Abrir ou fechar ferramentas do programador</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_DownloadsCommand_Description" translate="yes" approved="yes">
+          <source>Open the downloads manager</source>
+          <target state="final">Abrir o gestor de transferências</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_SavePageAsCommand_Description" translate="yes" approved="yes">
+          <source>Save the page as a file</source>
+          <target state="final">Guardar a página como um ficheiro</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_WebExtensionNotInitialized" translate="yes" approved="yes">
+          <source>Web Extension Not Initialized: Web extension functionality not properly initialized</source>
+          <target state="final">Extensão web não inicializada: Funcionalidade da extensão web não inicializada corretamente</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Warning_UnsupportedPlatformForDetection" translate="yes" approved="yes">
+          <source>Unsupported platform for Chrome detection: {0}</source>
+          <target state="final">Plataforma não suportada para deteção do Chrome: {0}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ShowHideBookmarksCommand_DisplayName" translate="yes" approved="yes">
+          <source>Show Bookmarks</source>
+          <target state="final">Mostrar marcadores</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NewBrowserWindowCommand_Description" translate="yes" approved="yes">
+          <source>Open a new browser window</source>
+          <target state="final">Abrir uma nova janela de navegação</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_RegistryKeyNotWritable" translate="yes" approved="yes">
+          <source>Registry key is not writable</source>
+          <target state="final">Chave do registo não permite escrita</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NewPrivateWindowCommand_DisplayName" translate="yes" approved="yes">
+          <source>New Private Window</source>
+          <target state="final">Nova janela de navegação anónima</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_ZoomInOutSkipped" translate="yes" approved="yes">
+          <source>Zoom in/out command skipped - Chrome extension not available</source>
+          <target state="final">Comando Ampliar/reduzir ignorado — extensão do Chrome não disponível</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_NextTabSkipped" translate="yes" approved="yes">
+          <source>Next tab command skipped - Chrome extension not available</source>
+          <target state="final">Comando Separador seguinte ignorado — extensão do Chrome não disponível</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_FileNotFound" translate="yes" approved="yes">
+          <source>File not found: {0}</source>
+          <target state="final">Ficheiro não encontrado: {0}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ClearRecentHistoryCommand_Description" translate="yes" approved="yes">
+          <source>Clear recent history</source>
+          <target state="final">Elimine o histórico recente</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NewBrowserTabCommand_Description" translate="yes" approved="yes">
+          <source>Open a new browser tab</source>
+          <target state="final">Abrir um novo separador de navegação</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_FileLockedAfterRetries" translate="yes" approved="yes">
+          <source>File remains locked after {0} attempts: {1}</source>
+          <target state="final">O ficheiro permanece bloqueado após {0} tentativas: {1}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ForwardHistoryCommand_Description" translate="yes" approved="yes">
+          <source>Go forward to a previously visited page</source>
+          <target state="final">Avançar para uma página visitada anteriormente</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_DownloadsCommand_DisplayName" translate="yes" approved="yes">
+          <source>Downloads</source>
+          <target state="final">Transferências</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_ExtensionIdTooShort" translate="yes" approved="yes">
+          <source>Extension ID '{0}' is too short or contains no valid characters</source>
+          <target state="final">O ID da extensão "{0}" é demasiado curto ou não contém caracteres válidos</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Group_HistoryAndBookmarks" translate="yes" approved="yes">
+          <source>History and Bookmarks</source>
+          <target state="final">Histórico e marcadores</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_ExtensionDisabled" translate="yes" approved="yes">
+          <source>Extension Disabled: The Logi Web Extension is installed but disabled. Please enable it in Chrome extensions.</source>
+          <target state="final">Extensão desativada: A Logi Web Extension está instalada, mas desativada. Ative-a nas extensões do Chrome.</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ReOpenClosedTabCommand_Description" translate="yes" approved="yes">
+          <source>Re-open a previously closed browser tab</source>
+          <target state="final">Restaurar um separador de navegação fechado anteriormente</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file original="$ChromeExtension___main" source-language="en-US" target-language="pt-PT" datatype="plaintext">
+    <body>
+      <group id="@commands">
+        <trans-unit id="$ChromeExtension___ResetLoupedeck.ChromeExtensionPlugin.Actions.ZoomInOutOfPageCommand" translate="yes" approved="yes">
+          <source>Reset Zoom in/out of page</source>
+          <target state="final">Repor Ampliar/reduzir página</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___#DynamicFolder" translate="yes" approved="yes">
+          <source>Dynamic Folder</source>
+          <target state="final">Pasta dinâmica</target>
+        </trans-unit>
+      </group>
+      <group id="@adjustments"/>
+      <group id="@groups"/>
+    </body>
+  </file>
+</xliff>

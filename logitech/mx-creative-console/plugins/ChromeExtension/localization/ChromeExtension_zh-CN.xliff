@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2">
+  <file original="$ChromeExtension___@general" source-language="en-US" target-language="zh-CN" datatype="plaintext">
+    <body>
+      <group id="@general">
+        <trans-unit id="$ChromeExtension___General___ResetDisplayNameTemplate" translate="yes" approved="yes">
+          <source>Reset %</source>
+          <target state="final">重置 %</target>
+        </trans-unit>
+      </group>
+      <group id="@modes">
+        <trans-unit id="$ChromeExtension___ModeName___main" translate="yes" approved="yes">
+          <source>Main</source>
+          <target state="final">主</target>
+        </trans-unit>
+      </group>
+      <group id="@resources">
+        <trans-unit id="$ChromeExtension___@resources___Action_ForwardHistoryCommand_DisplayName" translate="yes" approved="yes">
+          <source>Forward (History)</source>
+          <target state="final">前进（历史记录）</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Info_ManifestInstallationStarted" translate="yes" approved="yes">
+          <source>=== MANIFEST INSTALLATION STARTED ===</source>
+          <target state="final">=== 清单安装已开始 ===</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_UnsupportedPlatform" translate="yes" approved="yes">
+          <source>Unsupported platform: {0}</source>
+          <target state="final">不受支持的平台：{0}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Link_InstallFromChromeWebStore" translate="yes" approved="yes">
+          <source>Install from Chrome Web Store</source>
+          <target state="final">从 Chrome 网上应用店安装</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Info_ExtensionFoundInRegistry" translate="yes" approved="yes">
+          <source>Extension {0} found in registry but not in Chrome preferences - Chrome may not have processed the installation yet</source>
+          <target state="final">在注册表中找到扩展 {0}，但在 Chrome 首选项中未找到 - Chrome 可能尚未处理该安装</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_PreviousTabSkipped" translate="yes" approved="yes">
+          <source>Previous tab command skipped - Chrome extension not available</source>
+          <target state="final">已跳过上一个标签页命令 - Chrome 扩展不可用</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewTabCommand_Placeholder" translate="yes" approved="yes">
+          <source>Type or paste URL</source>
+          <target state="final">输入或粘贴 URL</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NextTabCommand_DisplayName" translate="yes" approved="yes">
+          <source>Next Tab</source>
+          <target state="final">下一个标签页</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NewPrivateWindowCommand_Description" translate="yes" approved="yes">
+          <source>Open a new private window</source>
+          <target state="final">打开新的隐私窗口</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_TogglingBookmarksVisibility" translate="yes" approved="yes">
+          <source>Error while toggling bookmarks visibility. Failed to send command to native messaging host.</source>
+          <target state="final">切换书签可视性时出错。向本机消息主机发送命令失败。</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_CommunicationError" translate="yes" approved="yes">
+          <source>Communication Error: Failed to send message to browser extension</source>
+          <target state="final">通信错误：向浏览器扩展发送消息失败</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Group_TabsAndWindows" translate="yes" approved="yes">
+          <source>Tabs and Windows</source>
+          <target state="final">标签页和窗口</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_WebDeveloperToolsSkipped" translate="yes" approved="yes">
+          <source>Web developer tools command skipped - Chrome extension not available</source>
+          <target state="final">已跳过 Web 开发者工具命令 - Chrome 扩展不可用</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ShowHideBookmarksCommand_Description" translate="yes" approved="yes">
+          <source>Show the current bookmarks</source>
+          <target state="final">显示当前书签</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Warning_ExternalExtensionsNotSupported" translate="yes" approved="yes">
+          <source>External Extensions directory approach not supported on Windows for extension: {0}</source>
+          <target state="final">Windows 上不支持通过外部扩展目录方式安装扩展：{0}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_StatusUpdateFailed" translate="yes" approved="yes">
+          <source>Status Update Failed: Failed to update plugin status</source>
+          <target state="final">状态更新失败：更新插件状态失败</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ShowHistoryCommand_DisplayName" translate="yes" approved="yes">
+          <source>Show History</source>
+          <target state="final">显示历史记录</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NewBrowserTabCommand_DisplayName" translate="yes" approved="yes">
+          <source>New Browser Tab</source>
+          <target state="final">新建浏览器标签页</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_RegistryKeyCreationFailed" translate="yes" approved="yes">
+          <source>Failed to create or open the registry key</source>
+          <target state="final">创建或打开注册表项失败</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_SavePageAsCommand_DisplayName" translate="yes" approved="yes">
+          <source>Save Page As</source>
+          <target state="final">将页面保存为</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ShowPluginsCommand_Description" translate="yes" approved="yes">
+          <source>Show installed extensions</source>
+          <target state="final">显示已安装的扩展</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_PermissionDenied" translate="yes" approved="yes">
+          <source>Permission denied accessing file: {0}</source>
+          <target state="final">访问文件时权限被拒绝：{0}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PreviousTabCommand_DisplayName" translate="yes" approved="yes">
+          <source>Previous Tab</source>
+          <target state="final">上一个标签页</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewTabCommand_ValidationError" translate="yes" approved="yes">
+          <source>Please enter a URL.</source>
+          <target state="final">请输入 URL。</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_StatusCheckFailed" translate="yes" approved="yes">
+          <source>Status Check Failed: Failed to check extension status</source>
+          <target state="final">状态检查失败：检查扩展状态失败</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_SettingsCommand_Description" translate="yes" approved="yes">
+          <source>Open browser settings</source>
+          <target state="final">打开浏览器设置</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_PluginInitializationFailed" translate="yes" approved="yes">
+          <source>Plugin initialization failed - extension detection error.</source>
+          <target state="final">插件初始化失败 - 扩展检测错误。</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PreviousTabCommand_Description" translate="yes" approved="yes">
+          <source>Switch to the previous tab</source>
+          <target state="final">切换到上一个标签页</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewTabCommand_DisplayName" translate="yes" approved="yes">
+          <source>Open Link in New Tab</source>
+          <target state="final">在新标签页中打开链接</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PageSourceCommand_DisplayName" translate="yes" approved="yes">
+          <source>Page Source</source>
+          <target state="final">页面源代码</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ZoomInOutOfPageCommand_Description" translate="yes" approved="yes">
+          <source>Adjust page zoom level</source>
+          <target state="final">调整页面缩放级别</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Warning_GhostExtensionDetected" translate="yes" approved="yes">
+          <source>Ghost extension detected: Extension {0} found in preferences but missing from filesystem</source>
+          <target state="final">检测到幽灵扩展：在首选项中找到扩展 {0}，但在文件系统中缺失</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ShowPluginsCommand_DisplayName" translate="yes" approved="yes">
+          <source>Show Extensions</source>
+          <target state="final">显示扩展</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_ChromeNotRunning" translate="yes" approved="yes">
+          <source>Open Chrome browser to use the plugin.</source>
+          <target state="final">打开 Chrome 浏览器以使用该插件。</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Info_ManifestInstallationSucceeded" translate="yes" approved="yes">
+          <source>=== MANIFEST INSTALLATION SUCCEEDED ===</source>
+          <target state="final">=== 清单安装成功 ===</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_ExtensionIdNullOrEmpty" translate="yes" approved="yes">
+          <source>Extension ID cannot be null or empty</source>
+          <target state="final">扩展 ID 不能为空或空白</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PrintPageCommand_Description" translate="yes" approved="yes">
+          <source>Print the current page</source>
+          <target state="final">打印当前页面</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_BookmarkCurrentTabCommand_DisplayName" translate="yes" approved="yes">
+          <source>Bookmark Current Tab</source>
+          <target state="final">将当前标签页加入书签</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PageSourceCommand_Description" translate="yes" approved="yes">
+          <source>View the page source</source>
+          <target state="final">查看页面源代码</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewTabCommand_LinkAddressDescription" translate="yes" approved="yes">
+          <source>Enter a pre-configured link to navigate to.</source>
+          <target state="final">输入预配置的链接，以导航至该链接。</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NewBrowserWindowCommand_DisplayName" translate="yes" approved="yes">
+          <source>New Browser Window</source>
+          <target state="final">新建浏览器窗口</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_MacOSRegistryNotAvailable" translate="yes" approved="yes">
+          <source>macOS registry not available</source>
+          <target state="final">macOS 注册表不可用</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_ExtensionDetectionFailed" translate="yes" approved="yes">
+          <source>Extension detection failed - some features may not work properly.</source>
+          <target state="final">扩展检测失败 - 部分功能可能无法正常工作。</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewWindowCommand_Description" translate="yes" approved="yes">
+          <source>Open a preconfigured link in a new window</source>
+          <target state="final">在新窗口中打开预配置的链接</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_BookmarkCurrentTabCommand_Description" translate="yes" approved="yes">
+          <source>Bookmark the current tab</source>
+          <target state="final">将当前标签页加入书签</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_RefreshPageCommand_DisplayName" translate="yes" approved="yes">
+          <source>Refresh Page</source>
+          <target state="final">刷新页面</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_PlatformNotSupported" translate="yes" approved="yes">
+          <source>Platform {0} is not supported</source>
+          <target state="final">平台 {0} 不受支持</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ClearRecentHistoryCommand_DisplayName" translate="yes" approved="yes">
+          <source>Clear Recent History</source>
+          <target state="final">清除最近历史记录</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_BackHistoryCommand_Description" translate="yes" approved="yes">
+          <source>Go to the previous page</source>
+          <target state="final">转到上一页</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Group_SettingsAndTools" translate="yes" approved="yes">
+          <source>Settings and Tools</source>
+          <target state="final">设置和工具</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PasswordsCommand_DisplayName" translate="yes" approved="yes">
+          <source>Passwords</source>
+          <target state="final">密码</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_FindInPageCommand_DisplayName" translate="yes" approved="yes">
+          <source>Find in Page</source>
+          <target state="final">在页面中查找</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_WebDeveloperToolsCommand_DisplayName" translate="yes" approved="yes">
+          <source>Web Developer Tools</source>
+          <target state="final">Web 开发者工具</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Link_OpenChromeExtensions" translate="yes" approved="yes">
+          <source>Open Chrome Extensions</source>
+          <target state="final">打开 Chrome 扩展</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewTabCommand_Description" translate="yes" approved="yes">
+          <source>Open a preconfigured link in a new tab</source>
+          <target state="final">在新标签页中打开预配置的链接</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ShowHistoryCommand_Description" translate="yes" approved="yes">
+          <source>Show browsing history</source>
+          <target state="final">显示浏览历史记录</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewTabCommand_LinkAddressLabel" translate="yes" approved="yes">
+          <source>Link address</source>
+          <target state="final">链接地址</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Group_PageActions" translate="yes" approved="yes">
+          <source>Page Actions</source>
+          <target state="final">页面操作</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_PluginLoadFailed" translate="yes" approved="yes">
+          <source>Plugin failed to load properly - restart may be required.</source>
+          <target state="final">插件未能正确加载 - 可能需要重新启动。</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_RefreshPageCommand_Description" translate="yes" approved="yes">
+          <source>Refresh the page</source>
+          <target state="final">刷新页面</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_FindInPageSkipped" translate="yes" approved="yes">
+          <source>Find in page command skipped - Chrome extension not available</source>
+          <target state="final">已跳过在页面中查找命令 - Chrome 扩展不可用</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Warning_ChromeNativeMessagingNotFound" translate="yes" approved="yes">
+          <source>ChromeNativeMessaging.exe not found in any expected location, using production path</source>
+          <target state="final">在任何预期位置均未找到 ChromeNativeMessaging.exe，正在使用生产路径</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_ExtensionBlacklisted" translate="yes" approved="yes">
+          <source>Extension Blacklisted: The Logi Web Extension has been blacklisted by Chrome. Please contact support.</source>
+          <target state="final">扩展已列入黑名单：Logi Web Extension 已被 Chrome 列入黑名单。请联系支持人员。</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_SavePageAsSkipped" translate="yes" approved="yes">
+          <source>Save page as command skipped - Chrome extension not available</source>
+          <target state="final">已跳过将页面保存为命令 - Chrome 扩展不可用</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PrintPageCommand_DisplayName" translate="yes" approved="yes">
+          <source>Print Page</source>
+          <target state="final">打印页面</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_UnknownRegistryHive" translate="yes" approved="yes">
+          <source>Unknown registry hive: {0}</source>
+          <target state="final">未知注册表配置单元：{0}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_WindowsRegistryNotAvailable" translate="yes" approved="yes">
+          <source>Windows registry not available on this platform</source>
+          <target state="final">Windows 注册表在此平台上不可用</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_ShowHideBookmarksSkipped" translate="yes" approved="yes">
+          <source>Show/Hide bookmarks command skipped - Chrome extension not available or Chrome not running</source>
+          <target state="final">已跳过显示/隐藏书签命令 - Chrome 扩展不可用或 Chrome 未运行</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_WindowsIntegrationNotAvailable" translate="yes" approved="yes">
+          <source>Windows Chrome integration not available on this platform</source>
+          <target state="final">Windows Chrome 集成在此平台上不可用</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_MacOSIntegrationNotAvailable" translate="yes" approved="yes">
+          <source>macOS Chrome integration not available</source>
+          <target state="final">macOS Chrome 集成不可用</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_SettingsCommand_DisplayName" translate="yes" approved="yes">
+          <source>Settings</source>
+          <target state="final">设置</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_OpenLinkInNewWindowCommand_DisplayName" translate="yes" approved="yes">
+          <source>Open Link in New Window</source>
+          <target state="final">在新窗口中打开链接</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_MacOSFileManagerNotAvailable" translate="yes" approved="yes">
+          <source>macOS file manager not available</source>
+          <target state="final">macOS 文件管理器不可用</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ReOpenClosedTabCommand_DisplayName" translate="yes" approved="yes">
+          <source>Re-Open Closed Tab</source>
+          <target state="final">重新打开已关闭的标签页</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ZoomInOutOfPageCommand_DisplayName" translate="yes" approved="yes">
+          <source>Zoom in/out of page</source>
+          <target state="final">放大/缩小页面</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_FindInPageCommand_Description" translate="yes" approved="yes">
+          <source>Find text on the page</source>
+          <target state="final">在页面中查找文本</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NextTabCommand_Description" translate="yes" approved="yes">
+          <source>Switch to the next tab</source>
+          <target state="final">切换到下一个标签页</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_ExtensionDetectionError" translate="yes" approved="yes">
+          <source>Extension Detection Error: Detection result is null</source>
+          <target state="final">扩展检测错误：检测结果为空</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_PasswordsCommand_Description" translate="yes" approved="yes">
+          <source>Manage saved passwords</source>
+          <target state="final">管理已保存的密码</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_BackHistoryCommand_DisplayName" translate="yes" approved="yes">
+          <source>Back (History)</source>
+          <target state="final">返回（历史记录）</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_WindowsFileManagerNotAvailable" translate="yes" approved="yes">
+          <source>Windows file manager not available on this platform</source>
+          <target state="final">Windows 文件管理器在此平台上不可用</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_WindowsTypesNotCompiled" translate="yes" approved="yes">
+          <source>{0} type not found - Windows types may not be compiled in</source>
+          <target state="final">未找到 {0} 类型 - Windows 类型可能未被编译进来</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_ExtensionInstallationRequired" translate="yes" approved="yes">
+          <source>Extension Installation Required: Please install the Logi Web Extension manually from the Chrome Web Store to enable browser interaction functionality.</source>
+          <target state="final">需要安装扩展：请从 Chrome 网上应用店手动安装 Logi Web Extension 以启用浏览器交互功能。</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_TypeNotFound" translate="yes" approved="yes">
+          <source>{0} type not found</source>
+          <target state="final">未找到 {0} 类型</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_StatusRefreshFailed" translate="yes" approved="yes">
+          <source>Status Refresh Failed: Failed to refresh extension status</source>
+          <target state="final">状态刷新失败：刷新扩展状态失败</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_WebDeveloperToolsCommand_Description" translate="yes" approved="yes">
+          <source>Open or close web developer tools</source>
+          <target state="final">打开或关闭 Web 开发者工具</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_DownloadsCommand_Description" translate="yes" approved="yes">
+          <source>Open the downloads manager</source>
+          <target state="final">打开下载管理器</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_SavePageAsCommand_Description" translate="yes" approved="yes">
+          <source>Save the page as a file</source>
+          <target state="final">将页面保存为文件</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_WebExtensionNotInitialized" translate="yes" approved="yes">
+          <source>Web Extension Not Initialized: Web extension functionality not properly initialized</source>
+          <target state="final">Web 扩展未初始化：Web 扩展功能未正确初始化</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Warning_UnsupportedPlatformForDetection" translate="yes" approved="yes">
+          <source>Unsupported platform for Chrome detection: {0}</source>
+          <target state="final">Chrome 检测不支持的平台：{0}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ShowHideBookmarksCommand_DisplayName" translate="yes" approved="yes">
+          <source>Show Bookmarks</source>
+          <target state="final">显示书签</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NewBrowserWindowCommand_Description" translate="yes" approved="yes">
+          <source>Open a new browser window</source>
+          <target state="final">打开新的浏览器窗口</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_RegistryKeyNotWritable" translate="yes" approved="yes">
+          <source>Registry key is not writable</source>
+          <target state="final">注册表项不可写</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NewPrivateWindowCommand_DisplayName" translate="yes" approved="yes">
+          <source>New Private Window</source>
+          <target state="final">新建隐私窗口</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_ZoomInOutSkipped" translate="yes" approved="yes">
+          <source>Zoom in/out command skipped - Chrome extension not available</source>
+          <target state="final">已跳过放大/缩小命令 - Chrome 扩展不可用</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_NextTabSkipped" translate="yes" approved="yes">
+          <source>Next tab command skipped - Chrome extension not available</source>
+          <target state="final">已跳过下一个标签页命令 - Chrome 扩展不可用</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_FileNotFound" translate="yes" approved="yes">
+          <source>File not found: {0}</source>
+          <target state="final">未找到文件：{0}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ClearRecentHistoryCommand_Description" translate="yes" approved="yes">
+          <source>Clear recent history</source>
+          <target state="final">清除最近历史记录</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_NewBrowserTabCommand_Description" translate="yes" approved="yes">
+          <source>Open a new browser tab</source>
+          <target state="final">打开新的浏览器标签页</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_FileLockedAfterRetries" translate="yes" approved="yes">
+          <source>File remains locked after {0} attempts: {1}</source>
+          <target state="final">在 {0} 次尝试后文件仍被锁定：{1}</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ForwardHistoryCommand_Description" translate="yes" approved="yes">
+          <source>Go forward to a previously visited page</source>
+          <target state="final">转到之前访问过的页面</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_DownloadsCommand_DisplayName" translate="yes" approved="yes">
+          <source>Downloads</source>
+          <target state="final">下载</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Error_ExtensionIdTooShort" translate="yes" approved="yes">
+          <source>Extension ID '{0}' is too short or contains no valid characters</source>
+          <target state="final">扩展 ID '{0}' 太短或不包含有效字符</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Group_HistoryAndBookmarks" translate="yes" approved="yes">
+          <source>History and Bookmarks</source>
+          <target state="final">历史记录和书签</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Status_ExtensionDisabled" translate="yes" approved="yes">
+          <source>Extension Disabled: The Logi Web Extension is installed but disabled. Please enable it in Chrome extensions.</source>
+          <target state="final">扩展已禁用：Logi Web Extension 已安装但被禁用。请在 Chrome 扩展中启用它。</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___@resources___Action_ReOpenClosedTabCommand_Description" translate="yes" approved="yes">
+          <source>Re-open a previously closed browser tab</source>
+          <target state="final">重新打开之前关闭的浏览器标签页</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file original="$ChromeExtension___main" source-language="en-US" target-language="zh-CN" datatype="plaintext">
+    <body>
+      <group id="@commands">
+        <trans-unit id="$ChromeExtension___ResetLoupedeck.ChromeExtensionPlugin.Actions.ZoomInOutOfPageCommand" translate="yes" approved="yes">
+          <source>Reset Zoom in/out of page</source>
+          <target state="final">重置放大/缩小页面</target>
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___#DynamicFolder" translate="yes" approved="yes">
+          <source>Dynamic Folder</source>
+          <target state="final">动态文件夹</target>
+        </trans-unit>
+      </group>
+      <group id="@adjustments"/>
+      <group id="@groups"/>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2">
+  <file original="$MicrosoftTeams-BB539293FA49494A___@general" source-language="en-US" target-language="" datatype="plaintext">
+    <header>
+      <generator>LogiPluginService 6.4.2.3586</generator>
+      <timestamp>2026-10-26T11-16-47-662</timestamp>
+      <computer>817445b3a81ebacd3aaa93809a9bd2f3a6131a40bd1d3ae74ae2d53cdb2c1ba1</computer>
+    </header>
+    <body>
+      <group id="@general">
+        <trans-unit id="$MicrosoftTeams-BB539293FA49494A___General___ResetDisplayNameTemplate" translate="yes">
+          <source>Reset %</source>
+          <target />
+        </trans-unit>
+      </group>
+      <group id="@modes">
+        <trans-unit id="$MicrosoftTeams-BB539293FA49494A___ModeName___main" translate="yes">
+          <source>Main</source>
+          <target />
+        </trans-unit>
+      </group>
+      <group id="@resources">
+        <trans-unit id="$MicrosoftTeams-BB539293FA49494A___@resources___The following application profiles has been moved to system profiles" translate="yes">
+          <source>The following application profiles has been moved to system profiles</source>
+          <target />
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file original="$MicrosoftTeams-BB539293FA49494A___main" source-language="en-US" target-language="" datatype="plaintext">
+    <body>
+      <group id="@commands">
+        <group id="$MicrosoftTeams-BB539293FA49494A___VirtualCommand">
+          <trans-unit id="$MicrosoftTeams-BB539293FA49494A___VirtualCommand___4D33089935BB4DC88C305FFE7595E18F" translate="yes">
+            <source>Open Chat</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$MicrosoftTeams-BB539293FA49494A___VirtualCommand___4D33089935BB4DC88C305FFE7595E18F###description" translate="yes">
+            <source>Open the Teams chat panel</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$MicrosoftTeams-BB539293FA49494A___VirtualCommand___A952E0B1DDD64F7DAC404204EE3A27B8" translate="yes">
+            <source>Share Screen</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$MicrosoftTeams-BB539293FA49494A___VirtualCommand___A952E0B1DDD64F7DAC404204EE3A27B8###description" translate="yes">
+            <source>Share your screen in Teams</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$MicrosoftTeams-BB539293FA49494A___VirtualCommand___BD4369D114634D7A8CA7DB322BD5FF3E" translate="yes">
+            <source>Toggle Video</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$MicrosoftTeams-BB539293FA49494A___VirtualCommand___BD4369D114634D7A8CA7DB322BD5FF3E###description" translate="yes">
+            <source>Turn your camera on or off</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$MicrosoftTeams-BB539293FA49494A___VirtualCommand___209C42B17C814135964B9474AF01B507" translate="yes">
+            <source>Toggle Mute</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$MicrosoftTeams-BB539293FA49494A___VirtualCommand___209C42B17C814135964B9474AF01B507###description" translate="yes">
+            <source>Mute or unmute your microphone</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$MicrosoftTeams-BB539293FA49494A___VirtualCommand___D2C2F962AD0949439C4FB58071C4224D" translate="yes">
+            <source>Raise Hand</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$MicrosoftTeams-BB539293FA49494A___VirtualCommand___D2C2F962AD0949439C4FB58071C4224D###description" translate="yes">
+            <source>Raise or lower your hand in meeting</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$MicrosoftTeams-BB539293FA49494A___VirtualCommand___385EE56DFA3B4CD69462745A72627B95" translate="yes">
+            <source>Accept Video Call</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$MicrosoftTeams-BB539293FA49494A___VirtualCommand___385EE56DFA3B4CD69462745A72627B95###description" translate="yes">
+            <source>Join the incoming video call</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$MicrosoftTeams-BB539293FA49494A___VirtualCommand___BA2F9B7BF2684A04BD43824285D95CDD" translate="yes">
+            <source>Decline Call</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$MicrosoftTeams-BB539293FA49494A___VirtualCommand___BA2F9B7BF2684A04BD43824285D95CDD###description" translate="yes">
+            <source>Dismiss the incoming call</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$MicrosoftTeams-BB539293FA49494A___VirtualCommand___A69B4B2410484AC88DC96B3E65E4E1FA" translate="yes">
+            <source>Leave Meeting or Call</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$MicrosoftTeams-BB539293FA49494A___VirtualCommand___A69B4B2410484AC88DC96B3E65E4E1FA###description" translate="yes">
+            <source>Exit the current meeting or call</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$MicrosoftTeams-BB539293FA49494A___VirtualCommand___0F8C6D5F564C46A9AB0DC2B2A659156F" translate="yes">
+            <source>Start Audio Call</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$MicrosoftTeams-BB539293FA49494A___VirtualCommand___0F8C6D5F564C46A9AB0DC2B2A659156F###description" translate="yes">
+            <source>Start a call with audio only</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$MicrosoftTeams-BB539293FA49494A___VirtualCommand___2E323F870E2343A784272FE6E78D0F69" translate="yes">
+            <source>Start Video Call</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$MicrosoftTeams-BB539293FA49494A___VirtualCommand___2E323F870E2343A784272FE6E78D0F69###description" translate="yes">
+            <source>Start a call with video on</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$MicrosoftTeams-BB539293FA49494A___VirtualCommand___6F1D2898DE054D5692DC8F90B954B606" translate="yes">
+            <source>Toggle Live Captions</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$MicrosoftTeams-BB539293FA49494A___VirtualCommand___6F1D2898DE054D5692DC8F90B954B606###description" translate="yes">
+            <source>Turn live captions on or off</source>
+            <target />
+          </trans-unit>
+        </group>
+        <trans-unit id="$MicrosoftTeams-BB539293FA49494A___#DynamicFolder" translate="yes">
+          <source>Dynamic Folder</source>
+          <target />
+        </trans-unit>
+        <group id="$MicrosoftTeams-BB539293FA49494A___VirtualCommand" />
+      </group>
+      <group id="@adjustments" />
+      <group id="@groups" />
+    </body>
+  </file>
+</xliff>

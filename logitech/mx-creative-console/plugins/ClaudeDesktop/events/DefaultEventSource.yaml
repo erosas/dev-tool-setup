@@ -1,0 +1,13 @@
+events:
+    - name: needsPermission
+      displayName: Session needs permission
+      description: A Claude Code session is waiting for an answer.
+    - name: turnFinished
+      displayName: Session finished
+      description: A Claude Code session finished its turn.
+    - name: errorFailure
+      displayName: Session error
+      description: A tool in a Claude Code session failed.
+    - name: milestone
+      displayName: Session started
+      description: A Claude Code session started.

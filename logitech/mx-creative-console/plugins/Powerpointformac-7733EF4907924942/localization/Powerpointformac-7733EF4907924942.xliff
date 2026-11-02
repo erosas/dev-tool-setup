@@ -1,0 +1,397 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2">
+  <file original="$Powerpointformac-7733EF4907924942___@general" source-language="en-US" target-language="" datatype="plaintext">
+    <body>
+      <group id="@general">
+        <trans-unit id="$Powerpointformac-7733EF4907924942___General___ResetDisplayNameTemplate" translate="yes">
+          <source>Reset %</source>
+          <target />
+        </trans-unit>
+      </group>
+      <group id="@modes">
+        <trans-unit id="$Powerpointformac-7733EF4907924942___ModeName___main" translate="yes">
+          <source>Main</source>
+          <target />
+        </trans-unit>
+      </group>
+      <group id="@resources">
+        <trans-unit id="$Powerpointformac-7733EF4907924942___@resources___The following application profiles has been moved to system profiles" translate="yes">
+          <source>The following application profiles has been moved to system profiles</source>
+          <target />
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file original="$Powerpointformac-7733EF4907924942___main" source-language="en-US" target-language="" datatype="plaintext">
+    <body>
+      <group id="@commands">
+        <group id="$Powerpointformac-7733EF4907924942___VirtualCommand">
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___BF594B141BB54F9EB9C991157157A9A7" translate="yes">
+            <source>Bring to Front</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___BF594B141BB54F9EB9C991157157A9A7###description" translate="yes">
+            <source>Bring an object to the front to place it above overlapping elements</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___8A148BB30C5443338FC861509E485EEB" translate="yes">
+            <source>Send to Back</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___8A148BB30C5443338FC861509E485EEB###description" translate="yes">
+            <source>Send an object to the back behind overlapping elements</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___F918B17B097C400A8A0A5BFE31DDAA57" translate="yes">
+            <source>Zoom In</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___F918B17B097C400A8A0A5BFE31DDAA57###description" translate="yes">
+            <source>Zoom in to magnify the slide view</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___B9A52F288B8441B48F91B1E5DDCEFF04" translate="yes">
+            <source>Zoom Out</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___B9A52F288B8441B48F91B1E5DDCEFF04###description" translate="yes">
+            <source>Zoom out to see more content within the workspace</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___85E2CB670DDF4B0E8CBD35FCE0EA0291" translate="yes">
+            <source>Duplicate Slide</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___85E2CB670DDF4B0E8CBD35FCE0EA0291###description" translate="yes">
+            <source>Duplicate the selected slide while preserving its content and formatting</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___11BEE647CC624328963833EB7EAA7D99" translate="yes">
+            <source>New Slide</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___11BEE647CC624328963833EB7EAA7D99###description" translate="yes">
+            <source>Insert a new slide using the default or selected layout</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___3D29B1B6B2E94446ABB0A415DFE2AC0D" translate="yes">
+            <source>Delete Slide</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___3D29B1B6B2E94446ABB0A415DFE2AC0D###description" translate="yes">
+            <source>Delete the slide</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___98C9F2C4932F41A7A21AAC5456246E4D" translate="yes">
+            <source>Previous Slide</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___98C9F2C4932F41A7A21AAC5456246E4D###description" translate="yes">
+            <source>Return to the previous slide during a slideshow or editing</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___1842FF6BDE9446EF95C24F6B9BDD14E1" translate="yes">
+            <source>Next Slide</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___1842FF6BDE9446EF95C24F6B9BDD14E1###description" translate="yes">
+            <source>Move to the next slide during a slideshow or editing</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___8E44424851444F528294A49A45B81188" translate="yes">
+            <source>Bold</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___8E44424851444F528294A49A45B81188###description" translate="yes">
+            <source>Apply or remove bold formatting</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___AC75974A4A31498B86FB0963E6A412BC" translate="yes">
+            <source>Italic</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___AC75974A4A31498B86FB0963E6A412BC###description" translate="yes">
+            <source>Apply or remove italic formatting</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___C4ABAC4E57A0441FACF784BFDA35CA2A" translate="yes">
+            <source>Underline</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___C4ABAC4E57A0441FACF784BFDA35CA2A###description" translate="yes">
+            <source>Apply or remove underline formatting</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___8D63071343BD4088A90F8C2AC7530377" translate="yes">
+            <source>Align Left</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___8D63071343BD4088A90F8C2AC7530377###description" translate="yes">
+            <source>Align text to the left</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___858AF35E1A6648CCB0F225887FF1F6D2" translate="yes">
+            <source>Align Right</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___858AF35E1A6648CCB0F225887FF1F6D2###description" translate="yes">
+            <source>Align text to the right</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___73D1A4BB3A7447AB869C0E3B63217D3B" translate="yes">
+            <source>Align Center</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___73D1A4BB3A7447AB869C0E3B63217D3B###description" translate="yes">
+            <source>Center the text</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___0DA70FC77BD944DAA3F6D26534CCC066" translate="yes">
+            <source>Open Presentation</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___0DA70FC77BD944DAA3F6D26534CCC066###description" translate="yes">
+            <source>Open a presentation</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___8DD79EC6005D4E55B4CE5E7C88260387" translate="yes">
+            <source>Create New</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___8DD79EC6005D4E55B4CE5E7C88260387###description" translate="yes">
+            <source>Create a new presentation</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___074F2D412EEE4581A0F85E8714518CA3" translate="yes">
+            <source>Close Presentation</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___074F2D412EEE4581A0F85E8714518CA3###description" translate="yes">
+            <source>Close the presentation</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___0F7AD5A2E9DC4963AF33E1773F9C88D3" translate="yes">
+            <source>Copy</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___0F7AD5A2E9DC4963AF33E1773F9C88D3###description" translate="yes">
+            <source>Copy the selected content to the clipboard</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___7793159EBF2A4057880BD1610C6B0859" translate="yes">
+            <source>Cut</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___7793159EBF2A4057880BD1610C6B0859###description" translate="yes">
+            <source>Cut the selected content and place it on the clipboard</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___A367C12E5F584CEBA33B3D2B740B63AA" translate="yes">
+            <source>Paste</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___A367C12E5F584CEBA33B3D2B740B63AA###description" translate="yes">
+            <source>Insert content from the clipboard</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___2C318C66033443A8B72AE9289B85C2A0" translate="yes">
+            <source>Duplicate</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___2C318C66033443A8B72AE9289B85C2A0###description" translate="yes">
+            <source>Duplicate object or selection</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___E99F53F4561540B7823456E27C14671B" translate="yes">
+            <source>Select All</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___E99F53F4561540B7823456E27C14671B###description" translate="yes">
+            <source>Selects all slides in the presentation</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___DE1E4778DD3F4BCC8602F834997AFC30" translate="yes">
+            <source>Find</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___DE1E4778DD3F4BCC8602F834997AFC30###description" translate="yes">
+            <source>Find in presentation</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___9FCF5577CDEE4A42A16458DB448CC87D" translate="yes">
+            <source>Print</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___9FCF5577CDEE4A42A16458DB448CC87D###description" translate="yes">
+            <source>Print the presentation</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___D7CB50070268462E9ECBD5AD5158473B" translate="yes">
+            <source>Save</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___D7CB50070268462E9ECBD5AD5158473B###description" translate="yes">
+            <source>Save the presentation</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___82556FC418B9483EB46667CF7A7A4A45" translate="yes">
+            <source>Hide Powerpoint</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___82556FC418B9483EB46667CF7A7A4A45###description" translate="yes">
+            <source>Hide the PowerPoint window</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___53253B3C3C494511A7FDF42D777F2D6F" translate="yes">
+            <source>Redo</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___53253B3C3C494511A7FDF42D777F2D6F###description" translate="yes">
+            <source>Reapply the last undone action</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___5EDED3779C2A4731A1B6FDC2908F026B" translate="yes">
+            <source>Undo</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___5EDED3779C2A4731A1B6FDC2908F026B###description" translate="yes">
+            <source>Reverse the last action to restore the previous state</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___6BF6F1F29C484237ABDF8DAF3ECDBFB8" translate="yes">
+            <source>Group Selected Objects</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___6BF6F1F29C484237ABDF8DAF3ECDBFB8###description" translate="yes">
+            <source>Group items to move or format together</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___0D2171FD390F4D2F844F3D7E0F0E018E" translate="yes">
+            <source>Ungroup Selected Objects</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___0D2171FD390F4D2F844F3D7E0F0E018E###description" translate="yes">
+            <source>Separate grouped items</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___09713F4A085A4BBCB58ACD8F1C9E7AC5" translate="yes">
+            <source>Open Format Object Panel</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___09713F4A085A4BBCB58ACD8F1C9E7AC5###description" translate="yes">
+            <source>Open the formatting options panel</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___AE24EA6EE240459881D79CB54DEB9853" translate="yes">
+            <source>Insert link</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___AE24EA6EE240459881D79CB54DEB9853###description" translate="yes">
+            <source>Add a clickable hyperlink</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___FC1825DFB4E54DB1B2651160EC5A5E96" translate="yes">
+            <source>Black Screen</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___FC1825DFB4E54DB1B2651160EC5A5E96###description" translate="yes">
+            <source>Switch to black screen while presenting</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___37D70CBDEF244A17AC08F3AA7A483B4C" translate="yes">
+            <source>White Screen</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___37D70CBDEF244A17AC08F3AA7A483B4C###description" translate="yes">
+            <source>Switch to white screen while presenting</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___F187B89463C54DE7B30F09C3E81AD038" translate="yes">
+            <source>End Slide Show</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___F187B89463C54DE7B30F09C3E81AD038###description" translate="yes">
+            <source>Exit the presentation mode</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___2A610B705A5A456A9A11176A64B0826E" translate="yes">
+            <source>Next Animation</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___2A610B705A5A456A9A11176A64B0826E###description" translate="yes">
+            <source>Next animation or trigger</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___74D20A06040047F39427D61611184BCD" translate="yes">
+            <source>Previous Animation</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___74D20A06040047F39427D61611184BCD###description" translate="yes">
+            <source>Previous animation or trigger</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___A2954A5F1D58405392A87ADBD5188A4D" translate="yes">
+            <source>Start Slide Show</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___A2954A5F1D58405392A87ADBD5188A4D###description" translate="yes">
+            <source>Start the presentation from the first slide.</source>
+            <target />
+          </trans-unit>
+        </group>
+        <trans-unit id="$Powerpointformac-7733EF4907924942___#DynamicFolder" translate="yes">
+          <source>Dynamic Folder</source>
+          <target />
+        </trans-unit>
+        <group id="$Powerpointformac-7733EF4907924942___VirtualCommand" />
+      </group>
+      <group id="@adjustments">
+        <group id="$Powerpointformac-7733EF4907924942___VirtualAdjustment">
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualAdjustment___C7DB0715C6DE41E4A6C2492D62BC8A93" translate="yes">
+            <source>Zoom</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualAdjustment___C7DB0715C6DE41E4A6C2492D62BC8A93###description" translate="yes">
+            <source>Zoom in or out</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualAdjustment___A6C6C00F423E41CEBCAEB5AF9A03EEDE" translate="yes">
+            <source>Switch Slides</source>
+            <target />
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualAdjustment___A6C6C00F423E41CEBCAEB5AF9A03EEDE###description" translate="yes">
+            <source>Switch between slides</source>
+            <target />
+          </trans-unit>
+        </group>
+        <group id="$Powerpointformac-7733EF4907924942___VirtualAdjustment" />
+      </group>
+      <group id="@groups">
+        <trans-unit id="$Powerpointformac-7733EF4907924942___GroupName___3028ACCCDF4063F10007" translate="yes">
+          <source>Editing</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Powerpointformac-7733EF4907924942___GroupName___5E2E54F5BE5F70B3000A" translate="yes">
+          <source>Navigation</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Powerpointformac-7733EF4907924942___GroupName___211BD0D44E345CB50006" translate="yes">
+          <source>Slides</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Powerpointformac-7733EF4907924942___GroupName___7A85445AFA5E56D1000F" translate="yes">
+          <source>Text Formatting</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Powerpointformac-7733EF4907924942___GroupName___7F328E34295A56FC0008" translate="yes">
+          <source>Document</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$Powerpointformac-7733EF4907924942___GroupName___2B3CDA44F161BCEB0016" translate="yes">
+          <source>Slideshow Presentation</source>
+          <target />
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

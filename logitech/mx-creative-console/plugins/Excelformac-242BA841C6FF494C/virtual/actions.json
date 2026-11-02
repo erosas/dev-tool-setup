@@ -1,0 +1,436 @@
+{
+    "languages": [
+        "en-US",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ja-JP"
+    ],
+    "primaryOperatingSystem": "Mac",
+    "secondaryOperatingSystem": "Win",
+    "groupNames": [
+        "Test Group",
+        "Navigation",
+        "Editing",
+        "Charts & Tables",
+        "Workbook",
+        "Text Formatting"
+    ],
+    "commands": [
+        {
+            "fullName": "VirtualCommand___0ACD88912E1148D0BCED8113FBEFD98D",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+PageDown"
+            },
+            "name": "0ACD88912E1148D0BCED8113FBEFD98D",
+            "displayName": "Next Sheet",
+            "description": "Move to the next sheet",
+            "groupName": "Navigation",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___3935CEF68FA54513B7FB78C766C01F37",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+PageUp"
+            },
+            "name": "3935CEF68FA54513B7FB78C766C01F37",
+            "displayName": "Previous Sheet",
+            "description": "Move to the previous sheet",
+            "groupName": "Navigation",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___BF93AD37FF1740B8ABFCE26D221D69E3",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+ArrowUp"
+            },
+            "name": "BF93AD37FF1740B8ABFCE26D221D69E3",
+            "displayName": "Go to Top of Data Region",
+            "description": "Jump to the top of the data region",
+            "groupName": "Navigation",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___0D2D3479E4D5489CA237756132912B6F",
+            "shortcuts": {
+                "en-US": "ControlOrCommand+ArrowDown"
+            },
+            "name": "0D2D3479E4D5489CA237756132912B6F",
+            "displayName": "Go to Bottom of Data Region",
+            "description": "Jump to the bottom of the data region",
+            "groupName": "Navigation",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___4215B43F22874731A11D940BED507392",
+            "shortcuts": {
+                "en-US": "Command+Control+V"
+            },
+            "name": "4215B43F22874731A11D940BED507392",
+            "displayName": "Paste Special",
+            "description": "Open the Paste Special menu",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___D630B4C27F67461AA372C415823F861B",
+            "shortcuts": {
+                "en-US": "Command+Z",
+                "fr-FR": "Command+Z",
+                "de-DE": "Command+Z",
+                "ja-JP": "Command+Z"
+            },
+            "name": "D630B4C27F67461AA372C415823F861B",
+            "displayName": "Undo",
+            "description": "Reverse the last action to restore the previous state",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___A61A262599894A3C9A8C2596F6FDC573",
+            "shortcuts": {
+                "en-US": "Command+Y",
+                "fr-FR": "Command+Y",
+                "de-DE": "Command+Y",
+                "ja-JP": "Command+Y"
+            },
+            "name": "A61A262599894A3C9A8C2596F6FDC573",
+            "displayName": "Redo",
+            "description": "Reapply the last undone action",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___76894209E9204BB097E3633CE096DC71",
+            "shortcuts": {
+                "en-US": "Command+KeyX",
+                "fr-FR": "Command+KeyX",
+                "de-DE": "Command+KeyX",
+                "ja-JP": "Command+KeyX"
+            },
+            "name": "76894209E9204BB097E3633CE096DC71",
+            "displayName": "Cut",
+            "description": "Cut the selected content and place it on the clipboard",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___D3E498B9783145049C6082F4A2D3CEF9",
+            "shortcuts": {
+                "en-US": "Command+KeyC",
+                "fr-FR": "Command+KeyC",
+                "de-DE": "Command+KeyC",
+                "ja-JP": "Command+KeyC"
+            },
+            "name": "D3E498B9783145049C6082F4A2D3CEF9",
+            "displayName": "Copy",
+            "description": "Copy the selected content to the clipboard",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___49E102E36F2A410D900179F1025483EA",
+            "shortcuts": {
+                "en-US": "Command+Shift+KeyC"
+            },
+            "name": "49E102E36F2A410D900179F1025483EA",
+            "displayName": "Copy Formatting",
+            "description": "Copy the formatting from the selection",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___67A47E3359EA4EB3BC4C5EBDD282E24A",
+            "shortcuts": {
+                "en-US": "Command+KeyV",
+                "fr-FR": "Command+KeyV",
+                "de-DE": "Command+KeyV",
+                "ja-JP": "Command+KeyV"
+            },
+            "name": "67A47E3359EA4EB3BC4C5EBDD282E24A",
+            "displayName": "Paste",
+            "description": "Insert content from the clipboard",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___09EFE3C5BD6442CD9AB8E71A13AAD125",
+            "shortcuts": {
+                "en-US": "Delete"
+            },
+            "name": "09EFE3C5BD6442CD9AB8E71A13AAD125",
+            "displayName": "Clear",
+            "description": "Remove content, formatting, or comments from selected cell",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___D2D86117BD5D4C608888EC5AA2F69B40",
+            "shortcuts": {
+                "en-US": "Command+KeyA",
+                "fr-FR": "Command+A",
+                "de-DE": "Command+A",
+                "ja-JP": "Command+KeyA"
+            },
+            "name": "D2D86117BD5D4C608888EC5AA2F69B40",
+            "displayName": "Select All",
+            "description": "Select the entire worksheet",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___4D0430C9F9CA4E0CA5DAC3E30AB3A0B5",
+            "shortcuts": {
+                "en-US": "Command+KeyB",
+                "fr-FR": "Command+KeyB",
+                "de-DE": "Command+KeyB",
+                "ja-JP": "Command+KeyB"
+            },
+            "name": "4D0430C9F9CA4E0CA5DAC3E30AB3A0B5",
+            "displayName": "Bold",
+            "description": "Apply or remove bold formatting",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___EE3B1F21032C408687F8D29CDF36D531",
+            "shortcuts": {
+                "en-US": "Command+KeyI",
+                "fr-FR": "Command+KeyI",
+                "de-DE": "Command+KeyI",
+                "ja-JP": "Command+KeyI"
+            },
+            "name": "EE3B1F21032C408687F8D29CDF36D531",
+            "displayName": "Italic",
+            "description": "Apply or remove italic formatting",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___2B9E9EFF22E44FB0A37ACA5B627B0BB3",
+            "shortcuts": {
+                "en-US": "Command+KeyU",
+                "fr-FR": "Command+KeyU",
+                "de-DE": "Command+KeyU",
+                "ja-JP": "Command+KeyU"
+            },
+            "name": "2B9E9EFF22E44FB0A37ACA5B627B0BB3",
+            "displayName": "Underline",
+            "description": "Apply or remove underline formatting",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___3857FD6A610D45578B6BF25CAF5F2C6F",
+            "shortcuts": {
+                "en-US": "F7"
+            },
+            "name": "3857FD6A610D45578B6BF25CAF5F2C6F",
+            "displayName": "Check Spelling",
+            "description": "Check for spelling errors",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___6A6EE7CE1581496D99CB421D4F68E6B0",
+            "shortcuts": {
+                "en-US": "Command+Key1",
+                "fr-FR": "Command+Key1",
+                "de-DE": "Command+Key1",
+                "ja-JP": "Command+Key1"
+            },
+            "name": "6A6EE7CE1581496D99CB421D4F68E6B0",
+            "displayName": "Display the Format Cells Dialog Box",
+            "description": "Open the Format Cells dialog to change cell formatting options",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___8C1BBC53B8BC4710B65C89166636BC4F",
+            "shortcuts": {
+                "en-US": "ControlOrCommand+Option+F9",
+                "fr-FR": "ControlOrCommand+Option+F9",
+                "de-DE": "ControlOrCommand+Option+F9",
+                "ja-JP": "ControlOrCommand+Option+F9"
+            },
+            "name": "8C1BBC53B8BC4710B65C89166636BC4F",
+            "displayName": "Calculate All Open Workbooks",
+            "description": "Calculate formulas in all open workbooks",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___104C8A60A14E4F26BAEF093CB0E9B711",
+            "shortcuts": {
+                "en-US": "Command+KeyD",
+                "fr-FR": "Command+KeyD",
+                "de-DE": "Command+KeyD",
+                "ja-JP": "Command+KeyD"
+            },
+            "name": "104C8A60A14E4F26BAEF093CB0E9B711",
+            "displayName": "Fill Cells Down",
+            "description": "Copy the top cell's contents or formula down through the selected cells",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___CC76AA2261464D94A9209C1A56BC2581",
+            "shortcuts": {
+                "en-US": "Command+KeyR",
+                "fr-FR": "Command+KeyR",
+                "de-DE": "Command+KeyR",
+                "ja-JP": "Command+KeyR"
+            },
+            "name": "CC76AA2261464D94A9209C1A56BC2581",
+            "displayName": "Fill Cells Right",
+            "description": "Copy the leftmost cell's contents or formula to the right through the selected cells",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___9796AFA7B1B14DD3801B6782A534FAEE",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+Minus",
+                "fr-FR": "CtrlOrCmd+Equals",
+                "de-DE": "CtrlOrCmd+Minus",
+                "ja-JP": "Command+Minus"
+            },
+            "name": "9796AFA7B1B14DD3801B6782A534FAEE",
+            "displayName": "Delete Cells",
+            "description": "Remove selected cells",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___9DAB53A75B9F48BAB72F0FA0E326DE51",
+            "shortcuts": {
+                "en-US": "AltOrOpt+F1"
+            },
+            "name": "9DAB53A75B9F48BAB72F0FA0E326DE51",
+            "displayName": "Create Chart",
+            "description": "Create a chart from the selected data",
+            "groupName": "Charts & Tables",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___3ACBA9D47F794F949A05CF389BF043A4",
+            "shortcuts": {
+                "en-US": "Command+KeyT",
+                "fr-FR": "Command+KeyT",
+                "de-DE": "Command+KeyT",
+                "ja-JP": "Command+KeyT"
+            },
+            "name": "3ACBA9D47F794F949A05CF389BF043A4",
+            "displayName": "Create Table",
+            "description": "Convert data to a table",
+            "groupName": "Charts & Tables",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___3C8E3A1C24214C8CB561DD5C3A490FEA",
+            "shortcuts": {
+                "en-US": "Command+KeyS",
+                "fr-FR": "Command+KeyS",
+                "de-DE": "Command+KeyS",
+                "ja-JP": "Command+KeyS"
+            },
+            "name": "3C8E3A1C24214C8CB561DD5C3A490FEA",
+            "displayName": "Save",
+            "description": "Save the workbook",
+            "groupName": "Workbook",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___CD1B3C2AA9434D44B883330595E45FFC",
+            "shortcuts": {
+                "en-US": "Command+KeyN",
+                "fr-FR": "Command+KeyN",
+                "de-DE": "Command+KeyN",
+                "ja-JP": "Command+KeyN"
+            },
+            "name": "CD1B3C2AA9434D44B883330595E45FFC",
+            "displayName": "New Workbook",
+            "description": "Open a new workbook",
+            "groupName": "Workbook",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___87853058F6414008A7E1EDE7EC144E1B",
+            "shortcuts": {
+                "en-US": "Command+KeyW",
+                "fr-FR": "Command+KeyW",
+                "de-DE": "Command+KeyW",
+                "ja-JP": "Command+KeyW"
+            },
+            "name": "87853058F6414008A7E1EDE7EC144E1B",
+            "displayName": "Close Workbook",
+            "description": "Close the workbook",
+            "groupName": "Workbook",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___C510A59D5BFF4FA5ACBCBAF349ED3DB7",
+            "shortcuts": {
+                "en-US": "Command+KeyP",
+                "fr-FR": "Command+KeyP",
+                "de-DE": "Command+KeyP",
+                "ja-JP": "Command+KeyP"
+            },
+            "name": "C510A59D5BFF4FA5ACBCBAF349ED3DB7",
+            "displayName": "Print Workbook",
+            "description": "Print the workbook",
+            "groupName": "Workbook",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___AE6D8A2C52C44D68BB2D489ABD9BF9F2",
+            "shortcuts": {
+                "en-US": "ControlOrCommand+KeyF"
+            },
+            "name": "AE6D8A2C52C44D68BB2D489ABD9BF9F2",
+            "displayName": "Find and Replace ",
+            "description": "Open the Find and Replace dialog box",
+            "groupName": "Workbook",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___90BE0BDAB94748F285D63AF58278501D",
+            "shortcuts": {
+                "en-US": "Command+KeyO"
+            },
+            "name": "90BE0BDAB94748F285D63AF58278501D",
+            "displayName": "Open Workbook",
+            "description": "Open a workbook",
+            "groupName": "Workbook",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___BA8D769C106B4FB6A387726C6624D630",
+            "shortcuts": {
+                "en-US": "Command+AltOrOption+KeyR"
+            },
+            "name": "BA8D769C106B4FB6A387726C6624D630",
+            "displayName": "Toggle Ribbon",
+            "description": "Expand or minimize the ribbon",
+            "groupName": "Navigation",
+            "operatingSystem": 3
+        }
+    ],
+    "adjustments": [
+        {
+            "fullName": "VirtualAdjustment___28638B8DEE1A4F1FB4D5B876948A5518",
+            "shortcutsLeft": {
+                "en-US": "CtrlOrCmd+PageUp"
+            },
+            "shortcutsRight": {
+                "en-US": "ControlOrCommand+PageDown"
+            },
+            "shortcutsReset": null,
+            "name": "28638B8DEE1A4F1FB4D5B876948A5518",
+            "displayName": "Sheet Navigation",
+            "description": "Switch between the available Excel sheets.",
+            "groupName": "Navigation",
+            "operatingSystem": 3
+        }
+    ]
+}

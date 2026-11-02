@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2">
+  <file original="$ChromeExtension___@general" source-language="en-US" target-language="" datatype="plaintext">
+    <header>
+      <generator>LogiPluginService 6.2.6.1611</generator>
+      <timestamp>2026-01-14T12-09-21-070</timestamp>
+      <computer>817445b3a81ebacd3aaa93809a9bd2f3a6131a40bd1d3ae74ae2d53cdb2c1ba1</computer>
+    </header>
+    <body>
+      <group id="@general">
+        <trans-unit id="$ChromeExtension___General___ResetDisplayNameTemplate" translate="yes">
+          <source>Reset %</source>
+          <target />
+        </trans-unit>
+      </group>
+      <group id="@modes">
+        <trans-unit id="$ChromeExtension___ModeName___main" translate="yes">
+          <source>Main</source>
+          <target />
+        </trans-unit>
+      </group>
+      <group id="@resources" />
+    </body>
+  </file>
+  <file original="$ChromeExtension___main" source-language="en-US" target-language="" datatype="plaintext">
+    <body>
+      <group id="@commands">
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.BackHistoryCommand" translate="yes">
+          <source>Back (History)</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.BackHistoryCommand###description" translate="yes">
+          <source>Go to the previous page</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.BookmarkCurrentTabCommand" translate="yes">
+          <source>Bookmark Current Tab</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.BookmarkCurrentTabCommand###description" translate="yes">
+          <source>Bookmark the current tab</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.ClearRecentHistoryCommand" translate="yes">
+          <source>Clear Recent History</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.ClearRecentHistoryCommand###description" translate="yes">
+          <source>Clear recent history</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.DownloadsCommand" translate="yes">
+          <source>Downloads</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.DownloadsCommand###description" translate="yes">
+          <source>Open the downloads manager</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.FindInPageCommand" translate="yes">
+          <source>Find in Page</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.FindInPageCommand###description" translate="yes">
+          <source>Find text on the page</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.ForwardHistoryCommand" translate="yes">
+          <source>Forward (History)</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.ForwardHistoryCommand###description" translate="yes">
+          <source>Go forward to a previously visited page</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.NewBrowserTabCommand" translate="yes">
+          <source>New Browser Tab</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.NewBrowserTabCommand###description" translate="yes">
+          <source>Open a new browser tab</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.NewBrowserWindowCommand" translate="yes">
+          <source>New Browser Window</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.NewBrowserWindowCommand###description" translate="yes">
+          <source>Open a new browser window</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.NewPrivateWindowCommand" translate="yes">
+          <source>New Private Window</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.NewPrivateWindowCommand###description" translate="yes">
+          <source>Open a new private window</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.NextTabCommand" translate="yes">
+          <source>Next Tab</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.NextTabCommand###description" translate="yes">
+          <source>Switch to the next tab</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.PageSourceCommand" translate="yes">
+          <source>Page Source</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.PageSourceCommand###description" translate="yes">
+          <source>View the page source</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.PasswordsCommand" translate="yes">
+          <source>Passwords</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.PasswordsCommand###description" translate="yes">
+          <source>Manage saved passwords</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.PreviousTabCommand" translate="yes">
+          <source>Previous Tab</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.PreviousTabCommand###description" translate="yes">
+          <source>Switch to the previous tab</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.PrintPageCommand" translate="yes">
+          <source>Print Page</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.PrintPageCommand###description" translate="yes">
+          <source>Print the current page</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.RefreshPageCommand" translate="yes">
+          <source>Refresh Page</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.RefreshPageCommand###description" translate="yes">
+          <source>Refresh the page</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.ReOpenClosedTabCommand" translate="yes">
+          <source>Re-Open Closed Tab</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.ReOpenClosedTabCommand###description" translate="yes">
+          <source>Re-open a previously closed browser tab</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.SavePageAsCommand" translate="yes">
+          <source>Save Page As</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.SavePageAsCommand###description" translate="yes">
+          <source>Save the page as a file</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.SettingsCommand" translate="yes">
+          <source>Settings</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.SettingsCommand###description" translate="yes">
+          <source>Open browser settings</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.ShowHideBookmarksCommand" translate="yes">
+          <source>Show Bookmarks</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.ShowHideBookmarksCommand###description" translate="yes">
+          <source>Show the current bookmarks</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.ShowHistoryCommand" translate="yes">
+          <source>Show History</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.ShowHistoryCommand###description" translate="yes">
+          <source>Show browsing history</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.ShowPluginsCommand" translate="yes">
+          <source>Show Extensions</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.ShowPluginsCommand###description" translate="yes">
+          <source>Show installed extensions</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.WebDeveloperToolsCommand" translate="yes">
+          <source>Web Developer Tools</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.WebDeveloperToolsCommand###description" translate="yes">
+          <source>Open or close web developer tools</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.OpenLinkInNewTabCommand" translate="yes">
+          <source>Open Link in New Tab</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.OpenLinkInNewTabCommand###description" translate="yes">
+          <source>Open a preconfigured link in a new tab</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.OpenLinkInNewWindowCommand" translate="yes">
+          <source>Open Link in New Window</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___Loupedeck.ChromeExtensionPlugin.Actions.OpenLinkInNewWindowCommand###description" translate="yes">
+          <source>Open a preconfigured link in a new window</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___#DynamicFolder" translate="yes">
+          <source>Dynamic Folder</source>
+          <target />
+        </trans-unit>
+      </group>
+      <group id="@adjustments" />
+      <group id="@groups">
+        <trans-unit id="$ChromeExtension___GroupName___C37B44A8DD4320D10015" translate="yes">
+          <source>History and Bookmarks</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___GroupName___D9D0077251B5E7E20012" translate="yes">
+          <source>Settings and Tools</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___GroupName___AC042A57E77E872B000C" translate="yes">
+          <source>Page Actions</source>
+          <target />
+        </trans-unit>
+        <trans-unit id="$ChromeExtension___GroupName___F34A6AE89C577BCF0010" translate="yes">
+          <source>Tabs and Windows</source>
+          <target />
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

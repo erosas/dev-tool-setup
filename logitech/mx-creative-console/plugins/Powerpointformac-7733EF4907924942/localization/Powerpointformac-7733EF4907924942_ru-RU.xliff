@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2">
+  <file original="$Powerpointformac-7733EF4907924942___@general" source-language="en-US" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <group id="@general">
+        <trans-unit id="$Powerpointformac-7733EF4907924942___General___ResetDisplayNameTemplate" translate="yes" approved="yes">
+          <source>Reset %</source>
+          <target state="final">Сбросить %</target>
+        </trans-unit>
+      </group>
+      <group id="@modes">
+        <trans-unit id="$Powerpointformac-7733EF4907924942___ModeName___main" translate="yes" approved="yes">
+          <source>Main</source>
+          <target state="final">Главный</target>
+        </trans-unit>
+      </group>
+      <group id="@resources">
+        <trans-unit id="$Powerpointformac-7733EF4907924942___@resources___The following application profiles has been moved to system profiles" translate="yes" approved="yes">
+          <source>The following application profiles has been moved to system profiles</source>
+          <target state="final">Следующие профили приложений были перемещены в системные профили</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file original="$Powerpointformac-7733EF4907924942___main" source-language="en-US" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <group id="@commands">
+        <group id="$Powerpointformac-7733EF4907924942___VirtualCommand">
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___BF594B141BB54F9EB9C991157157A9A7" translate="yes" approved="yes">
+            <source>Bring to Front</source>
+            <target state="final">На передний план</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___BF594B141BB54F9EB9C991157157A9A7###description" translate="yes" approved="yes">
+            <source>Bring an object to the front to place it above overlapping elements</source>
+            <target state="final">Поместить объект на передний план, над перекрывающими элементами</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___8A148BB30C5443338FC861509E485EEB" translate="yes" approved="yes">
+            <source>Send to Back</source>
+            <target state="final">На задний план</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___8A148BB30C5443338FC861509E485EEB###description" translate="yes" approved="yes">
+            <source>Send an object to the back behind overlapping elements</source>
+            <target state="final">Поместить объект на задний план, за перекрывающими элементами</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___F918B17B097C400A8A0A5BFE31DDAA57" translate="yes" approved="yes">
+            <source>Zoom In</source>
+            <target state="final">Увеличить масштаб</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___F918B17B097C400A8A0A5BFE31DDAA57###description" translate="yes" approved="yes">
+            <source>Zoom in to magnify the slide view</source>
+            <target state="final">Увеличить масштаб, чтобы увеличить вид слайда</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___B9A52F288B8441B48F91B1E5DDCEFF04" translate="yes" approved="yes">
+            <source>Zoom Out</source>
+            <target state="final">Уменьшить масштаб</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___B9A52F288B8441B48F91B1E5DDCEFF04###description" translate="yes" approved="yes">
+            <source>Zoom out to see more content within the workspace</source>
+            <target state="final">Уменьшить масштаб, чтобы увидеть больше содержимого в рабочей области</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___85E2CB670DDF4B0E8CBD35FCE0EA0291" translate="yes" approved="yes">
+            <source>Duplicate Slide</source>
+            <target state="final">Дублировать слайд</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___85E2CB670DDF4B0E8CBD35FCE0EA0291###description" translate="yes" approved="yes">
+            <source>Duplicate the selected slide while preserving its content and formatting</source>
+            <target state="final">Дублировать выбранный слайд, сохраняя его содержимое и форматирование</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___11BEE647CC624328963833EB7EAA7D99" translate="yes" approved="yes">
+            <source>New Slide</source>
+            <target state="final">Новый слайд</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___11BEE647CC624328963833EB7EAA7D99###description" translate="yes" approved="yes">
+            <source>Insert a new slide using the default or selected layout</source>
+            <target state="final">Вставить новый слайд, используя стандартный или выбранный макет</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___3D29B1B6B2E94446ABB0A415DFE2AC0D" translate="yes" approved="yes">
+            <source>Delete Slide</source>
+            <target state="final">Удалить слайд</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___3D29B1B6B2E94446ABB0A415DFE2AC0D###description" translate="yes" approved="yes">
+            <source>Delete the slide</source>
+            <target state="final">Удалить слайд</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___98C9F2C4932F41A7A21AAC5456246E4D" translate="yes" approved="yes">
+            <source>Previous Slide</source>
+            <target state="final">Предыдущий слайд</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___98C9F2C4932F41A7A21AAC5456246E4D###description" translate="yes" approved="yes">
+            <source>Return to the previous slide during a slideshow or editing</source>
+            <target state="final">Вернуться к предыдущему слайду во время показа слайдов или редактирования</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___1842FF6BDE9446EF95C24F6B9BDD14E1" translate="yes" approved="yes">
+            <source>Next Slide</source>
+            <target state="final">Следующий слайд</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___1842FF6BDE9446EF95C24F6B9BDD14E1###description" translate="yes" approved="yes">
+            <source>Move to the next slide during a slideshow or editing</source>
+            <target state="final">Перейти к следующему слайду во время показа слайдов или редактирования</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___8E44424851444F528294A49A45B81188" translate="yes" approved="yes">
+            <source>Bold</source>
+            <target state="final">Полужирный</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___8E44424851444F528294A49A45B81188###description" translate="yes" approved="yes">
+            <source>Apply or remove bold formatting</source>
+            <target state="final">Применить или удалить полужирное форматирование</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___AC75974A4A31498B86FB0963E6A412BC" translate="yes" approved="yes">
+            <source>Italic</source>
+            <target state="final">Курсив</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___AC75974A4A31498B86FB0963E6A412BC###description" translate="yes" approved="yes">
+            <source>Apply or remove italic formatting</source>
+            <target state="final">Применить или удалить курсивное форматирование</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___C4ABAC4E57A0441FACF784BFDA35CA2A" translate="yes" approved="yes">
+            <source>Underline</source>
+            <target state="final">Подчеркнуть</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___C4ABAC4E57A0441FACF784BFDA35CA2A###description" translate="yes" approved="yes">
+            <source>Apply or remove underline formatting</source>
+            <target state="final">Применить или удалить подчеркивание</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___8D63071343BD4088A90F8C2AC7530377" translate="yes" approved="yes">
+            <source>Align Left</source>
+            <target state="final">Выровнять по левому краю</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___8D63071343BD4088A90F8C2AC7530377###description" translate="yes" approved="yes">
+            <source>Align text to the left</source>
+            <target state="final">Выровнять текст по левому краю</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___858AF35E1A6648CCB0F225887FF1F6D2" translate="yes" approved="yes">
+            <source>Align Right</source>
+            <target state="final">Выровнять по правому краю</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___858AF35E1A6648CCB0F225887FF1F6D2###description" translate="yes" approved="yes">
+            <source>Align text to the right</source>
+            <target state="final">Выровнять текст по правому краю</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___73D1A4BB3A7447AB869C0E3B63217D3B" translate="yes" approved="yes">
+            <source>Align Center</source>
+            <target state="final">Выровнять по центру</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___73D1A4BB3A7447AB869C0E3B63217D3B###description" translate="yes" approved="yes">
+            <source>Center the text</source>
+            <target state="final">Центрировать текст</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___0DA70FC77BD944DAA3F6D26534CCC066" translate="yes" approved="yes">
+            <source>Open Presentation</source>
+            <target state="final">Открыть презентацию</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___0DA70FC77BD944DAA3F6D26534CCC066###description" translate="yes" approved="yes">
+            <source>Open a presentation</source>
+            <target state="final">Открыть презентацию</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___8DD79EC6005D4E55B4CE5E7C88260387" translate="yes" approved="yes">
+            <source>Create New</source>
+            <target state="final">Создать</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___8DD79EC6005D4E55B4CE5E7C88260387###description" translate="yes" approved="yes">
+            <source>Create a new presentation</source>
+            <target state="final">Создать новую презентацию</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___074F2D412EEE4581A0F85E8714518CA3" translate="yes" approved="yes">
+            <source>Close Presentation</source>
+            <target state="final">Закрыть презентацию</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___074F2D412EEE4581A0F85E8714518CA3###description" translate="yes" approved="yes">
+            <source>Close the presentation</source>
+            <target state="final">Закрыть презентацию</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___0F7AD5A2E9DC4963AF33E1773F9C88D3" translate="yes" approved="yes">
+            <source>Copy</source>
+            <target state="final">Копировать</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___0F7AD5A2E9DC4963AF33E1773F9C88D3###description" translate="yes" approved="yes">
+            <source>Copy the selected content to the clipboard</source>
+            <target state="final">Скопировать выделенное содержимое в буфер обмена</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___7793159EBF2A4057880BD1610C6B0859" translate="yes" approved="yes">
+            <source>Cut</source>
+            <target state="final">Вырезать</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___7793159EBF2A4057880BD1610C6B0859###description" translate="yes" approved="yes">
+            <source>Cut the selected content and place it on the clipboard</source>
+            <target state="final">Вырезать выделенное содержимое и поместить его в буфер обмена</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___A367C12E5F584CEBA33B3D2B740B63AA" translate="yes" approved="yes">
+            <source>Paste</source>
+            <target state="final">Вставить</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___A367C12E5F584CEBA33B3D2B740B63AA###description" translate="yes" approved="yes">
+            <source>Insert content from the clipboard</source>
+            <target state="final">Вставить содержимое из буфера обмена</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___2C318C66033443A8B72AE9289B85C2A0" translate="yes" approved="yes">
+            <source>Duplicate</source>
+            <target state="final">Создать дубликат</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___2C318C66033443A8B72AE9289B85C2A0###description" translate="yes" approved="yes">
+            <source>Duplicate object or selection</source>
+            <target state="final">Дублировать объект или выделение</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___E99F53F4561540B7823456E27C14671B" translate="yes" approved="yes">
+            <source>Select All</source>
+            <target state="final">Выделить все</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___E99F53F4561540B7823456E27C14671B###description" translate="yes" approved="yes">
+            <source>Selects all slides in the presentation</source>
+            <target state="final">Выбрать все слайды в презентации</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___DE1E4778DD3F4BCC8602F834997AFC30" translate="yes" approved="yes">
+            <source>Find</source>
+            <target state="final">Поиск</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___DE1E4778DD3F4BCC8602F834997AFC30###description" translate="yes" approved="yes">
+            <source>Find in presentation</source>
+            <target state="final">Найти в презентации</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___9FCF5577CDEE4A42A16458DB448CC87D" translate="yes" approved="yes">
+            <source>Print</source>
+            <target state="final">Печать</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___9FCF5577CDEE4A42A16458DB448CC87D###description" translate="yes" approved="yes">
+            <source>Print the presentation</source>
+            <target state="final">Напечатать презентацию</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___D7CB50070268462E9ECBD5AD5158473B" translate="yes" approved="yes">
+            <source>Save</source>
+            <target state="final">Сохранить</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___D7CB50070268462E9ECBD5AD5158473B###description" translate="yes" approved="yes">
+            <source>Save the presentation</source>
+            <target state="final">Сохранить презентацию</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___82556FC418B9483EB46667CF7A7A4A45" translate="yes" approved="yes">
+            <source>Hide Powerpoint</source>
+            <target state="final">Скрыть PowerPoint</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___82556FC418B9483EB46667CF7A7A4A45###description" translate="yes" approved="yes">
+            <source>Hide the PowerPoint window</source>
+            <target state="final">Скрыть окно PowerPoint</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___53253B3C3C494511A7FDF42D777F2D6F" translate="yes" approved="yes">
+            <source>Redo</source>
+            <target state="final">Повторить</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___53253B3C3C494511A7FDF42D777F2D6F###description" translate="yes" approved="yes">
+            <source>Reapply the last undone action</source>
+            <target state="final">Повторить последнее отмененное действие</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___5EDED3779C2A4731A1B6FDC2908F026B" translate="yes" approved="yes">
+            <source>Undo</source>
+            <target state="final">Отмена</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___5EDED3779C2A4731A1B6FDC2908F026B###description" translate="yes" approved="yes">
+            <source>Reverse the last action to restore the previous state</source>
+            <target state="final">Отменить последнее действие, чтобы восстановить предыдущее состояние</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___6BF6F1F29C484237ABDF8DAF3ECDBFB8" translate="yes" approved="yes">
+            <source>Group Selected Objects</source>
+            <target state="final">Группировать выделенные объекты</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___6BF6F1F29C484237ABDF8DAF3ECDBFB8###description" translate="yes" approved="yes">
+            <source>Group items to move or format together</source>
+            <target state="final">Группировать элементы для совместного перемещения или форматирования</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___0D2171FD390F4D2F844F3D7E0F0E018E" translate="yes" approved="yes">
+            <source>Ungroup Selected Objects</source>
+            <target state="final">Разгруппировать выделенные объекты</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___0D2171FD390F4D2F844F3D7E0F0E018E###description" translate="yes" approved="yes">
+            <source>Separate grouped items</source>
+            <target state="final">Отделить сгруппированные элементы</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___09713F4A085A4BBCB58ACD8F1C9E7AC5" translate="yes" approved="yes">
+            <source>Open Format Object Panel</source>
+            <target state="final">Открыть панель форматирования объекта</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___09713F4A085A4BBCB58ACD8F1C9E7AC5###description" translate="yes" approved="yes">
+            <source>Open the formatting options panel</source>
+            <target state="final">Открыть панель параметров форматирования</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___AE24EA6EE240459881D79CB54DEB9853" translate="yes" approved="yes">
+            <source>Insert link</source>
+            <target state="final">Вставить ссылку</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___AE24EA6EE240459881D79CB54DEB9853###description" translate="yes" approved="yes">
+            <source>Add a clickable hyperlink</source>
+            <target state="final">Добавить кликабельную гиперссылку</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___FC1825DFB4E54DB1B2651160EC5A5E96" translate="yes" approved="yes">
+            <source>Black Screen</source>
+            <target state="final">Черный экран</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___FC1825DFB4E54DB1B2651160EC5A5E96###description" translate="yes" approved="yes">
+            <source>Switch to black screen while presenting</source>
+            <target state="final">Переключиться на черный экран во время презентации</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___37D70CBDEF244A17AC08F3AA7A483B4C" translate="yes" approved="yes">
+            <source>White Screen</source>
+            <target state="final">Белый экран</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___37D70CBDEF244A17AC08F3AA7A483B4C###description" translate="yes" approved="yes">
+            <source>Switch to white screen while presenting</source>
+            <target state="final">Переключиться на белый экран во время презентации</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___F187B89463C54DE7B30F09C3E81AD038" translate="yes" approved="yes">
+            <source>End Slide Show</source>
+            <target state="final">Завершить показ слайдов</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___F187B89463C54DE7B30F09C3E81AD038###description" translate="yes" approved="yes">
+            <source>Exit the presentation mode</source>
+            <target state="final">Выйти из режима презентации</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___2A610B705A5A456A9A11176A64B0826E" translate="yes" approved="yes">
+            <source>Next Animation</source>
+            <target state="final">Следующая анимация</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___2A610B705A5A456A9A11176A64B0826E###description" translate="yes" approved="yes">
+            <source>Next animation or trigger</source>
+            <target state="final">Следующая анимация или триггер</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___74D20A06040047F39427D61611184BCD" translate="yes" approved="yes">
+            <source>Previous Animation</source>
+            <target state="final">Предыдущая анимация</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___74D20A06040047F39427D61611184BCD###description" translate="yes" approved="yes">
+            <source>Previous animation or trigger</source>
+            <target state="final">Предыдущая анимация или триггер</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___A2954A5F1D58405392A87ADBD5188A4D" translate="yes" approved="yes">
+            <source>Start Slide Show</source>
+            <target state="final">Начать показ слайдов</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualCommand___A2954A5F1D58405392A87ADBD5188A4D###description" translate="yes" approved="yes">
+            <source>Start the presentation from the first slide.</source>
+            <target state="final">Начать презентацию с первого слайда.</target>
+          </trans-unit>
+        </group>
+        <trans-unit id="$Powerpointformac-7733EF4907924942___#DynamicFolder" translate="yes" approved="yes">
+          <source>Dynamic Folder</source>
+          <target state="final">Динамическая папка</target>
+        </trans-unit>
+        <group id="$Powerpointformac-7733EF4907924942___VirtualCommand"/>
+      </group>
+      <group id="@adjustments">
+        <group id="$Powerpointformac-7733EF4907924942___VirtualAdjustment">
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualAdjustment___C7DB0715C6DE41E4A6C2492D62BC8A93" translate="yes" approved="yes">
+            <source>Zoom</source>
+            <target state="final">Масштаб</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualAdjustment___C7DB0715C6DE41E4A6C2492D62BC8A93###description" translate="yes" approved="yes">
+            <source>Zoom in or out</source>
+            <target state="final">Увеличить или уменьшить</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualAdjustment___A6C6C00F423E41CEBCAEB5AF9A03EEDE" translate="yes" approved="yes">
+            <source>Switch Slides</source>
+            <target state="final">Переключить слайды</target>
+          </trans-unit>
+          <trans-unit id="$Powerpointformac-7733EF4907924942___VirtualAdjustment___A6C6C00F423E41CEBCAEB5AF9A03EEDE###description" translate="yes" approved="yes">
+            <source>Switch between slides</source>
+            <target state="final">Переключаться между слайдами</target>
+          </trans-unit>
+        </group>
+        <group id="$Powerpointformac-7733EF4907924942___VirtualAdjustment"/>
+      </group>
+      <group id="@groups">
+        <trans-unit id="$Powerpointformac-7733EF4907924942___GroupName___3028ACCCDF4063F10007" translate="yes" approved="yes">
+          <source>Editing</source>
+          <target state="final">Редактирование</target>
+        </trans-unit>
+        <trans-unit id="$Powerpointformac-7733EF4907924942___GroupName___5E2E54F5BE5F70B3000A" translate="yes" approved="yes">
+          <source>Navigation</source>
+          <target state="final">Навигация</target>
+        </trans-unit>
+        <trans-unit id="$Powerpointformac-7733EF4907924942___GroupName___211BD0D44E345CB50006" translate="yes" approved="yes">
+          <source>Slides</source>
+          <target state="final">Слайды</target>
+        </trans-unit>
+        <trans-unit id="$Powerpointformac-7733EF4907924942___GroupName___7A85445AFA5E56D1000F" translate="yes" approved="yes">
+          <source>Text Formatting</source>
+          <target state="final">Форматирование текста</target>
+        </trans-unit>
+        <trans-unit id="$Powerpointformac-7733EF4907924942___GroupName___7F328E34295A56FC0008" translate="yes" approved="yes">
+          <source>Document</source>
+          <target state="final">Документ</target>
+        </trans-unit>
+        <trans-unit id="$Powerpointformac-7733EF4907924942___GroupName___2B3CDA44F161BCEB0016" translate="yes" approved="yes">
+          <source>Slideshow Presentation</source>
+          <target state="final">Презентация слайд-шоу</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

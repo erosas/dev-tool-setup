@@ -1,0 +1,14 @@
+type: plugin4
+name: CopilotAppMac
+displayName: GitHub Copilot app
+description: Five assignable Dynamic Folders for GitHub Copilot projects, chats, sessions, voice, and MCP servers.
+pluginFileName: CopilotPlugin.dll
+version: 0.1.2
+author: GitHub
+homePageUrl: https://github.com/github/app
+pluginFolderMac: bin
+supportedDevices:
+    - LoupedeckExtendedFamily
+pluginCapabilities:
+    - HasApplication
+minimumLoupedeckVersion: 6.0

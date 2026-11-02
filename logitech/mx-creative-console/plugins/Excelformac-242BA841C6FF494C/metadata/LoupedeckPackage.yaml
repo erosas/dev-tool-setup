@@ -1,0 +1,19 @@
+type: plugin4
+name: Excelformac-242BA841C6FF494C
+displayName: Excel for Mac
+version: 1.0.0.51
+author: Logitech Europe SA
+copyright: Copyright © 2026 Logitech Europe SA. All rights reserved.
+homePageUrl: https://www.logitech.com/en-us
+supportPageUrl: https://www.logitech.com/en-us
+icon256x256: Icon256x256.png
+minimumLoupedeckVersion: 6.1
+capabilities:
+- MacOnly
+pluginType: virtual
+pluginCapabilities:
+- HasApplication
+- ActivatesApplication
+backgroundColor: 4278222848
+applicationPatterns:
+  bundleNamePattern: com.microsoft.Excel

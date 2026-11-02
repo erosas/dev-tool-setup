@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  English is the source language of the plugin and is always offered by Logi
+  Options+. This file only mirrors the layout of the other languages (see
+  GitHubActionsPlugin_fr-FR.xliff); the texts live in src/Resources/Strings.xml.
+-->
+<xliff version="1.2">
+  <file original="$GitHubActions___@general" source-language="en-US" target-language="" datatype="plaintext">
+    <body>
+      <group id="@general">
+        <trans-unit id="$GitHubActions___General___ResetDisplayNameTemplate" translate="yes">
+          <source>Reset %</source>
+          <target />
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

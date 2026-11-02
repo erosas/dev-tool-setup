@@ -1,0 +1,17 @@
+type: plugin4
+name: MicrosoftTeams-BB539293FA49494A
+displayName: Microsoft Teams
+version: 1.0.0.31
+icon256x256: Icon256x256.png
+minimumLoupedeckVersion: 6.1
+pluginType: virtual
+pluginCapabilities:
+- HasApplication
+- ActivatesApplication
+backgroundColor: 4293980400
+foregroundColor: 4283652256
+textColor: 4283652256
+applicationPatterns:
+  processNamePattern: ^ms-teams$
+  bundleNamePattern: com.microsoft.teams
+  executablePathPattern: \\ms-teams.exe$

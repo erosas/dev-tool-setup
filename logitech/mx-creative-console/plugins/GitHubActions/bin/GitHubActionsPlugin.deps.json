@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "GitHubActionsPlugin/1.8.0": {
+        "runtime": {
+          "GitHubActionsPlugin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GitHubActionsPlugin/1.8.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

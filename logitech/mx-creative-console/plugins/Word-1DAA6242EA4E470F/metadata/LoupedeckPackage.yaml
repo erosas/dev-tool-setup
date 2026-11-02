@@ -1,0 +1,16 @@
+type: plugin4
+name: Word-1DAA6242EA4E470F
+displayName: Word
+version: 1.0.0.130
+icon256x256: Icon256x256.png
+minimumLoupedeckVersion: 6.1
+pluginType: virtual
+pluginCapabilities:
+- HasApplication
+- ActivatesApplication
+- a
+- b
+backgroundColor: 4280636337
+applicationPatterns:
+  bundleNamePattern: com.microsoft.Word
+  executablePathPattern: \\WINWORD.EXE$

@@ -1,0 +1,20 @@
+type: plugin4
+name: Powerpointformac-7733EF4907924942
+displayName: PowerPoint for Mac
+version: 1.0.0.59
+author: Logitech Europe SA
+copyright: Copyright © 2026 Logitech Europe SA. All rights reserved.
+license: Proprietary
+homePageUrl: https://www.logitech.com/en-us
+supportPageUrl: https://www.logitech.com/en-us
+icon256x256: Icon256x256.png
+minimumLoupedeckVersion: 6.1
+capabilities:
+- MacOnly
+pluginType: virtual
+pluginCapabilities:
+- HasApplication
+- ActivatesApplication
+backgroundColor: 4290195728
+applicationPatterns:
+  bundleNamePattern: com.microsoft.Powerpoint

@@ -1,0 +1,70 @@
+# ==================================================================================================
+# GENERAL SETTINGS
+# ==================================================================================================
+
+type: plugin4
+name: IntelliJ
+displayName: IntelliJ
+description: Boost your IntelliJ IDEA development productivity with seamless control—right at your fingertips!
+pluginFileName: IntelliJPlugin.dll
+version: 2.1.1.1060
+author: Logitech Europe SA
+
+# Copyright information.
+copyright: Copyright © 2026 Logitech Europe SA. All rights reserved.
+
+backgroundColor: 4281559510
+foregroundColor: 4294967295
+
+# ==================================================================================================
+# PLUGIN PROPERTIES
+# ==================================================================================================
+
+# Location of plugin files on Windows (relative to the plugin base directory).
+# This parameter is required to support Windows.
+pluginFolderWin: win
+
+# Location of plugin files on macOS (relative to the plugin base directory).
+# This parameter is required to support Mac.
+pluginFolderMac: mac
+
+# List of devices the plugin is optimized for.
+supportedDevices:
+    # LoupedeckCtFamily covers the following devices: Loupedeck CT, Live and Live S,
+    # Razer Stream Controller, and Razer Stream Controller X.
+    - LoupedeckCtFamily
+
+    # LoupedeckPlusFamily covers Loupedeck+ device. Uncomment the following line to support Loupedeck+.
+    #- LoupedeckPlusFamily
+
+# List of plugin capabilities.
+pluginCapabilities:
+    - HasApplication
+    - ActivatesApplication
+
+applicationPatterns:
+    bundleNamePattern: ^com\.jetbrains\.intellij(\.ce)?$
+    executablePathPattern: JetBrains\\IntelliJ IDEA.*\\bin\\idea64\.exe$
+
+# Minimum Loupedeck version supported by the plugin.
+minimumLoupedeckVersion: 6.0
+
+
+# ==================================================================================================
+# LOUPEDECK MARKETPLACE SETTINGS
+# ==================================================================================================
+
+# Name of the license that the plugin is licensed under. Select the one that you prefer.
+# NOTE: GPL license is not compatible with Loupedeck Marketplace.
+license: Proprietary
+
+# URL of the plugin license.
+# licenseUrl: https://opensource.org/licenses/MIT
+
+# URL of the support page where the users can send improvement suggestions and report bugs.
+# The URL is shown in Loupedeck Marketplace. The page can be for example a GitHub issues page.
+# NOTE: This setting is recommended when publishing the plugin in Loupedeck Marketplace.
+supportPageUrl: https://support.logi.com
+
+# URL of the plugin homepage. The URL is shown in Loupedeck Marketplace.
+homePageUrl: https://www.logitech.com

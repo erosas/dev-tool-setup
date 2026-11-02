@@ -1,0 +1,920 @@
+{
+    "languages": [
+        "en-US",
+        "!en-US",
+        "de-DE",
+        "!de-DE",
+        "fr-FR",
+        "!fr-FR",
+        "ja-JP",
+        "!ja-JP",
+        "en-GB",
+        "!en-GB"
+    ],
+    "primaryOperatingSystem": "Win",
+    "secondaryOperatingSystem": "Mac",
+    "groupNames": [
+        "Document",
+        "Text Editing",
+        "Text Formatting",
+        "Navigation",
+        "Document view",
+        "Special characters",
+        "Paragraph Formatting"
+    ],
+    "commands": [
+        {
+            "fullName": "VirtualCommand___27D3B82DDF4E4AE4A2A517BC62D69D03",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+KeyN",
+                "!en-US": "Command+KeyN"
+            },
+            "name": "27D3B82DDF4E4AE4A2A517BC62D69D03",
+            "displayName": "New Document",
+            "description": "Create a new blank document",
+            "groupName": "Document",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___F99939922C524084A2480C236C93557C",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+KeyO",
+                "!en-US": "Command+KeyO"
+            },
+            "name": "F99939922C524084A2480C236C93557C",
+            "displayName": "Open Document",
+            "description": "Open an existing document",
+            "groupName": "Document",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___EBC912B85A8E4431B5625AD6B53A9562",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+KeyS",
+                "!en-US": "Command+KeyS"
+            },
+            "name": "EBC912B85A8E4431B5625AD6B53A9562",
+            "displayName": "Save Document",
+            "description": "Save the current document",
+            "groupName": "Document",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___9BBE809F1C8F48BC8A9AFC62A37B7B0D",
+            "shortcuts": {
+                "en-US": "F12",
+                "!en-US": "Command+Shift+KeyS",
+                "!fr-FR": "Command+Shift+KeyS",
+                "!de-DE": "Command+Shift+KeyS",
+                "!ja-JP": "Command+Shift+S",
+                "!en-GB": "Command+Shift+KeyS"
+            },
+            "name": "9BBE809F1C8F48BC8A9AFC62A37B7B0D",
+            "displayName": "Save As",
+            "description": "Open the \"Save As\" dialog box",
+            "groupName": "Document",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___E1A2B6F2DD6347F79DFF165683BF2805",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+KeyW",
+                "!en-US": "Command+KeyW",
+                "!fr-FR": "CtrlOrCmd+KeyW",
+                "!ja-JP": "Command+W",
+                "fr-FR": "ControlOrCommand+KeyW"
+            },
+            "name": "E1A2B6F2DD6347F79DFF165683BF2805",
+            "displayName": "Close Document",
+            "description": "Close the current document",
+            "groupName": "Document",
+            "operatingSystem": "Mac"
+        },
+        {
+            "fullName": "VirtualCommand___B87185E695AC4BCCA3722C4322BDD907",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+KeyP",
+                "!en-US": "Command+KeyP"
+            },
+            "name": "B87185E695AC4BCCA3722C4322BDD907",
+            "displayName": "Print Document",
+            "description": "Open the Print dialog box",
+            "groupName": "Document",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___B88C292183364878988B06E5AC9F4A3D",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+AltOrOpt+KeyI",
+                "!en-US": "-Windows+KeyP"
+            },
+            "name": "B88C292183364878988B06E5AC9F4A3D",
+            "displayName": "Print Preview",
+            "description": "Switch to print preview",
+            "groupName": "Document",
+            "operatingSystem": "Win"
+        },
+        {
+            "fullName": "VirtualCommand___67D3458154804260B70CEC8748053787",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+AltOrOpt+KeyS",
+                "!en-US": "Command+AltOrOption+KeyS",
+                "!ja-JP": "Command+AltOrOption+S"
+            },
+            "name": "67D3458154804260B70CEC8748053787",
+            "displayName": "Split Window",
+            "description": "Split the document window",
+            "groupName": "Document view",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___1CE7199284B34B2DB9F1F61B59F37BC9",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+KeyX",
+                "!en-US": "Command+KeyX"
+            },
+            "name": "1CE7199284B34B2DB9F1F61B59F37BC9",
+            "displayName": "Cut",
+            "description": "Remove selected text and copy it to the clipboard",
+            "groupName": "Text Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___D59C250FCC3D448A9F8008CD719D0445",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+KeyC",
+                "!en-US": "Command+KeyC"
+            },
+            "name": "D59C250FCC3D448A9F8008CD719D0445",
+            "displayName": "Copy",
+            "description": "Copy selected text to the clipboard",
+            "groupName": "Text Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___69A744533AC84AD4900EC96C44FF5715",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+KeyV",
+                "!en-US": "Command+KeyV"
+            },
+            "name": "69A744533AC84AD4900EC96C44FF5715",
+            "displayName": "Paste",
+            "description": "Paste text from the clipboard",
+            "groupName": "Text Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___0ED14552EC50459D8F3B5D711EC8ECE1",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+KeyZ",
+                "de-DE": "Control+KeyY",
+                "fr-FR": "ControlOrCommand+KeyZ",
+                "!en-US": "Command+KeyZ",
+                "!fr-FR": "Command+KeyZ",
+                "!de-DE": "Command+Z",
+                "!ja-JP": "Command+Z",
+                "!en-GB": "Command+KeyZ"
+            },
+            "name": "0ED14552EC50459D8F3B5D711EC8ECE1",
+            "displayName": "Undo",
+            "description": "Reverse the last action",
+            "groupName": "Text Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___48B1D9C7793E4420878C9C52AE32EDBF",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+KeyY",
+                "de-DE": "Control+KeyZ",
+                "fr-FR": "ControlOrCommand+KeyY",
+                "!en-US": "Command+Y",
+                "!fr-FR": "Command+Y",
+                "!de-DE": "Command+Y",
+                "!ja-JP": "Command+Y",
+                "!en-GB": "Command+Y"
+            },
+            "name": "48B1D9C7793E4420878C9C52AE32EDBF",
+            "displayName": "Redo",
+            "description": "Reapply the last undone action",
+            "groupName": "Text Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___CA99137280F441908B0A754AE977465D",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+KeyA",
+                "!en-US": "Command+KeyA",
+                "!fr-FR": "ControlOrCommand+A",
+                "!de-DE": "Command+KeyA",
+                "!ja-JP": "Command+A",
+                "fr-FR": "ControlOrCommand+A"
+            },
+            "name": "CA99137280F441908B0A754AE977465D",
+            "displayName": "Select All",
+            "description": "Select the entire document",
+            "groupName": "Text Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___51202DC667F04A62BD7A0E7374363755",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+Shift+ArrowRight",
+                "!en-US": "AltOrOption+Shift+ArrowRight",
+                "!fr-FR": "Shift+AltOrOption+ArrowRight",
+                "!de-DE": "Shift+AltOrOption+ArrowRight",
+                "!ja-JP": "Shift+AltOrOption+ArrowRight",
+                "!en-GB": "AltOrOption+Shift+ArrowRight"
+            },
+            "name": "51202DC667F04A62BD7A0E7374363755",
+            "displayName": "Select Word",
+            "description": "Select the next word",
+            "groupName": "Text Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___A2701CFBA4FD4A72A8DF60FAF12E526C",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+Shift+ArrowDown",
+                "!en-US": "Command+Shift+ArrowDown"
+            },
+            "name": "A2701CFBA4FD4A72A8DF60FAF12E526C",
+            "displayName": "Select Paragraph",
+            "description": "Select the current paragraph",
+            "groupName": "Paragraph Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___A4A9CC12CE7C48D58241A1576D477183",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+KeyB",
+                "!en-US": "Command+KeyB"
+            },
+            "name": "A4A9CC12CE7C48D58241A1576D477183",
+            "displayName": "Bold",
+            "description": "Apply or remove bold formatting",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___12E2DEFA7A1A48B39B5EB0F556B9274A",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+KeyI",
+                "!en-US": "Command+KeyI"
+            },
+            "name": "12E2DEFA7A1A48B39B5EB0F556B9274A",
+            "displayName": "Italic",
+            "description": "Apply or remove italic formatting",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___01C2A1077F864E49B8E698D367240967",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+KeyU",
+                "!en-US": "Command+KeyU"
+            },
+            "name": "01C2A1077F864E49B8E698D367240967",
+            "displayName": "Underline",
+            "description": "Apply or remove underline formatting",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___653ABAF5F5DB46768BC8DD687D08F85D",
+            "shortcuts": {
+                "en-US": "Control+Shift+KeyK",
+                "!en-US": "Command+Shift+KeyK",
+                "!fr-FR": "Command+Shift+KeyK",
+                "!de-DE": "Command+Shift+KeyK",
+                "!ja-JP": "Command+Shift+KeyK",
+                "!en-GB": "Command+Shift+K"
+            },
+            "name": "653ABAF5F5DB46768BC8DD687D08F85D",
+            "displayName": "Small Caps",
+            "description": "Apply small caps formatting",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___305CD70479C94AF1A520AF039B0224D8",
+            "shortcuts": {
+                "en-US": "Control+Shift+KeyA",
+                "!en-US": "Shift+F3",
+                "!fr-FR": "Shift+F3",
+                "!de-DE": "Shift+F3",
+                "!ja-JP": "Shift+F3",
+                "!en-GB": "Shift+F3",
+                "fr-FR": "ControlOrCommand+Shift+KeyA"
+            },
+            "name": "305CD70479C94AF1A520AF039B0224D8",
+            "displayName": "All Upper Case",
+            "description": "Change text to full uppercase letters",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___18992FAF673F4A62AF04DD3A240B8966",
+            "shortcuts": {
+                "en-US": "Control+Shift+Period",
+                "!en-US": "Command+Shift+Period",
+                "!de-DE": "-Command+Shift+Period",
+                "!fr-FR": "-Command+Shift+Oem5",
+                "!ja-JP": "Command+Shift+Period",
+                "!en-GB": "Command+Shift+Period",
+                "de-DE": "Control+Shift+Period",
+                "fr-FR": "Control+Shift+Period"
+            },
+            "name": "18992FAF673F4A62AF04DD3A240B8966",
+            "displayName": "Increase Font Size",
+            "description": "Make text larger",
+            "groupName": "Text Formatting",
+            "operatingSystem": "Win"
+        },
+        {
+            "fullName": "VirtualCommand___787CEDB83B27487495812676728A4890",
+            "shortcuts": {
+                "en-US": "Control+Shift+Comma",
+                "!en-US": "Command+Shift+Comma",
+                "!de-DE": "-Command+Shift+Comma",
+                "!fr-FR": "-Command+Shift+Comma",
+                "!ja-JP": "Command+Shift+Comma",
+                "!en-GB": "Command+Shift+Comma",
+                "de-DE": "Control+Shift+Comma",
+                "fr-FR": "Control+Shift+Comma"
+            },
+            "name": "787CEDB83B27487495812676728A4890",
+            "displayName": "Decrease Font Size",
+            "description": "Make text smaller",
+            "groupName": "Text Formatting",
+            "operatingSystem": "Win"
+        },
+        {
+            "fullName": "VirtualCommand___A1D7B4F545EB4223B1698A036F0A8BD7",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+KeyL",
+                "!en-US": "Command+KeyL"
+            },
+            "name": "A1D7B4F545EB4223B1698A036F0A8BD7",
+            "displayName": "Align Left",
+            "description": "Align text to the left",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___7423668DF0DB41A9AD81AFDB2F5535AC",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+KeyE",
+                "!en-US": "Command+KeyE"
+            },
+            "name": "7423668DF0DB41A9AD81AFDB2F5535AC",
+            "displayName": "Align Center",
+            "description": "Center text",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___5D27960B84C141C9880942068A9555E3",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+KeyR",
+                "!en-US": "Command+KeyR"
+            },
+            "name": "5D27960B84C141C9880942068A9555E3",
+            "displayName": "Align Right",
+            "description": "Align text to the right",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___AB37A6B879D54590ACA82443D83C36F4",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+KeyJ",
+                "!en-US": "Command+KeyJ"
+            },
+            "name": "AB37A6B879D54590ACA82443D83C36F4",
+            "displayName": "Justify Text",
+            "description": "Align text on right and left",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___93F337AF163C42E0ACE0529491A045EA",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+Shift+KeyL",
+                "!en-US": "Command+Shift+KeyL",
+                "!de-DE": "Command+Shift+KeyL"
+            },
+            "name": "93F337AF163C42E0ACE0529491A045EA",
+            "displayName": "Bullet List",
+            "description": "Add a bulleted list",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___7C0A60D14A6641BBB2F1821A2DC7B740",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+Home",
+                "!en-US": "Command+Home"
+            },
+            "name": "7C0A60D14A6641BBB2F1821A2DC7B740",
+            "displayName": "Move to Beginning of Document",
+            "description": "Jump to the start of the document",
+            "groupName": "Navigation",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___675E584C9B254F688CCACCEE84A9A836",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+End",
+                "!en-US": "Command+End"
+            },
+            "name": "675E584C9B254F688CCACCEE84A9A836",
+            "displayName": "Move to End of Document",
+            "description": "Jump to the end of the document",
+            "groupName": "Navigation",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___2908466DE6964F79A72A53169A1B7329",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+KeyF",
+                "!en-US": "CtrlOrCmd+KeyF"
+            },
+            "name": "2908466DE6964F79A72A53169A1B7329",
+            "displayName": "Find Text",
+            "description": "Open the Find tool",
+            "groupName": "Navigation",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___33AFD3D013EB4E84A41FE5869B780399",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+KeyH",
+                "!en-US": "Control+KeyH"
+            },
+            "name": "33AFD3D013EB4E84A41FE5869B780399",
+            "displayName": "Replace Text",
+            "description": "Open the Find and Replace tool",
+            "groupName": "Navigation",
+            "operatingSystem": "Win"
+        },
+        {
+            "fullName": "VirtualCommand___45EB77F956C745AF87D2418C750B15F0",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+KeyG",
+                "!en-US": "-CtrlOrCmd+KeyG"
+            },
+            "name": "45EB77F956C745AF87D2418C750B15F0",
+            "displayName": "Go to Page",
+            "description": "Jump to a specific page",
+            "groupName": "Navigation",
+            "operatingSystem": "Win"
+        },
+        {
+            "fullName": "VirtualCommand___3DA26FD2CFE94B5E94C6977D5E83177D",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+Equals",
+                "de-DE": "Control+Equals",
+                "fr-FR": "Control+Equals",
+                "!en-US": "Command+Equals",
+                "!de-DE": "CtrlOrCmd+Equals",
+                "!fr-FR": "Command+Oem1",
+                "!ja-JP": "Command+Equals"
+            },
+            "name": "3DA26FD2CFE94B5E94C6977D5E83177D",
+            "displayName": "Zoom In",
+            "description": "Zoom in on page",
+            "groupName": "Navigation",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___411D792F725C4C4D9131AF363FD8E43D",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+Minus",
+                "de-DE": "Control+Minus",
+                "fr-FR": "Control+Minus",
+                "!en-US": "Command+Minus",
+                "!de-DE": "CtrlOrCmd+Minus",
+                "!fr-FR": "Command+Oem6",
+                "!ja-JP": "Command+Minus"
+            },
+            "name": "411D792F725C4C4D9131AF363FD8E43D",
+            "displayName": "Zoom Out",
+            "description": "Zoom out of page",
+            "groupName": "Navigation",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___CA793BDA93DD4610B826FD828BAE9969",
+            "shortcuts": {
+                "en-US": "ControlOrCommand+Key0",
+                "de-DE": "ControlOrCommand+0",
+                "fr-FR": "ControlOrCommand+0",
+                "en-GB": "ControlOrCommand+0",
+                "ja-JP": "ControlOrCommand+0",
+                "!en-US": "Command+Key0",
+                "!fr-FR": "CtrlOrCmd+0",
+                "!ja-JP": "Command+0"
+            },
+            "name": "CA793BDA93DD4610B826FD828BAE9969",
+            "displayName": "Return to 100% Zoom",
+            "description": "Return to default 100% zoom",
+            "groupName": "Navigation",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___EA2FE283A04544AE852A2A8F169724B9",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+AltOrOpt+KeyP",
+                "!en-US": "Command+AltOrOption+KeyP",
+                "!ja-JP": "Command+AltOrOption+P"
+            },
+            "name": "EA2FE283A04544AE852A2A8F169724B9",
+            "displayName": "Print Layout View",
+            "description": "Switch to the Print Layout view",
+            "groupName": "Document view",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___8304D2CAD53D4EA092231B8F7A7663B9",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+AltOrOpt+KeyO",
+                "!en-US": "Command+AltOrOption+KeyO",
+                "!ja-JP": "Command+AltOrOption+O"
+            },
+            "name": "8304D2CAD53D4EA092231B8F7A7663B9",
+            "displayName": "Outline View",
+            "description": "Switch to the Outline view",
+            "groupName": "Document view",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___4E11BAFF52E344BE84169BEB8B208849",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+AltOrOpt+KeyN",
+                "!en-US": "Command+AltOrOption+KeyN",
+                "!ja-JP": "Command+AltOrOption+N"
+            },
+            "name": "4E11BAFF52E344BE84169BEB8B208849",
+            "displayName": "Draft View",
+            "description": "Switch to the Draft view",
+            "groupName": "Document view",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___5A8662FE8E1B4FBBA31CDB500CC0886F",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+AltOrOpt+KeyM",
+                "!en-US": "Command+AltOrOption+KeyA",
+                "!de-DE": "Command+AltOrOption+KeyA",
+                "!fr-FR": "Command+AltOrOption+KeyA",
+                "!ja-JP": "Command+AltOrOption+A",
+                "!en-GB": "Command+AltOrOption+KeyA"
+            },
+            "name": "5A8662FE8E1B4FBBA31CDB500CC0886F",
+            "displayName": "Comment",
+            "description": "Insert a comment",
+            "groupName": "Document view",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___2ADEED36F43B4753BDA126669EFE4C2D",
+            "shortcuts": {
+                "en-US": "AltOrOpt+Shift+KeyC",
+                "!en-US": "-Escape"
+            },
+            "name": "2ADEED36F43B4753BDA126669EFE4C2D",
+            "displayName": "Close Review",
+            "description": "Close the Reviewing Panel",
+            "groupName": "Document view",
+            "operatingSystem": "Win"
+        },
+        {
+            "fullName": "VirtualCommand___893A3B5BEEFE4055A72BDDD0DE1E9D8F",
+            "shortcuts": {
+                "en-US": "Shift+Return",
+                "!en-US": "Shift+Return"
+            },
+            "name": "893A3B5BEEFE4055A72BDDD0DE1E9D8F",
+            "displayName": "Line Break",
+            "description": "Insert a line break",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___357F9D0DCD2E4671AF5A5174EBD629C5",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+Return",
+                "!en-US": "Command+Return"
+            },
+            "name": "357F9D0DCD2E4671AF5A5174EBD629C5",
+            "displayName": "Page Break",
+            "description": "Insert a page break",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___E4819A8AABC748AF826EDB4675DE01F3",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+Shift+Return",
+                "!en-US": "CtrlOrCmd+Shift+Return"
+            },
+            "name": "E4819A8AABC748AF826EDB4675DE01F3",
+            "displayName": "Column Break",
+            "description": "Insert a column break",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___AB374EE528964AE981BD1C4DFD167AA0",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+AltOrOpt+Minus",
+                "!en-US": "Command+AltOrOption+Minus",
+                "!de-DE": "Command+AltOrOption+Minus",
+                "!fr-FR": "Command+AltOrOption+Oem6",
+                "!ja-JP": "Command+AltOrOption+Minus"
+            },
+            "name": "AB374EE528964AE981BD1C4DFD167AA0",
+            "displayName": "Optional Hyphen",
+            "description": "Insert an optional hyphen",
+            "groupName": "Special characters",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___A351971CB5BC47FEA808FF0B352AD2FE",
+            "shortcuts": {
+                "en-US": "AltOrOpt+Shift+Minus",
+                "!en-US": "AltOrOption+Shift+Minus",
+                "!de-DE": "AltOrOption+Shift+Minus",
+                "!fr-FR": "AltOrOption+Shift+Oem6",
+                "!ja-JP": "AltOrOption+Shift+Minus",
+                "de-DE": "AltOrOption+Shift+Minus",
+                "fr-FR": "ControlOrCommand+Shift+Equals"
+            },
+            "name": "A351971CB5BC47FEA808FF0B352AD2FE",
+            "displayName": "Nonbreaking Hyphen",
+            "description": "Insert a nonbreaking hyphen",
+            "groupName": "Special characters",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___0B4A4DBD15A5410F89F21D46E3D8723A",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+Shift+Space",
+                "!en-US": "AltOrOption+Space",
+                "!de-DE": "AltOrOption+Space",
+                "!fr-FR": "AltOrOption+Space",
+                "!ja-JP": "AltOrOption+Space",
+                "!en-GB": "AltOrOption+Space"
+            },
+            "name": "0B4A4DBD15A5410F89F21D46E3D8723A",
+            "displayName": "Nonbreaking Space",
+            "description": "Insert a nonbreaking space",
+            "groupName": "Special characters",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___ADD54E34DCFF4BCCB168E8818A0D0B35",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+AltOrOpt+KeyR",
+                "!en-US": "AltOrOption+KeyR",
+                "!de-DE": "AltOrOption+KeyR",
+                "!fr-FR": "AltOrOption+KeyR",
+                "!ja-JP": "-Control+AltOrOption+R",
+                "ja-JP": "-AltOrOption+KeyR",
+                "!en-GB": "AltOrOption+KeyR"
+            },
+            "name": "ADD54E34DCFF4BCCB168E8818A0D0B35",
+            "displayName": "Registered Trademark Symbol",
+            "description": "Insert a registered trademark symbol (®)",
+            "groupName": "Special characters",
+            "operatingSystem": "Win"
+        },
+        {
+            "fullName": "VirtualCommand___D24644564D8E4024A3C9F88244C4CAB8",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+AltOrOpt+KeyT",
+                "!en-US": "AltOrOption+Key2",
+                "!de-DE": "-AltOrOption+Key2",
+                "!fr-FR": "-AltOrOption+2",
+                "!ja-JP": "-AltOrOption+Key2",
+                "de-DE": "-AltOrOption+Key2",
+                "!en-GB": "AltOrOption+Shift+Key2"
+            },
+            "name": "D24644564D8E4024A3C9F88244C4CAB8",
+            "displayName": "Trademark Symbol",
+            "description": "Insert a trademark symbol (™)",
+            "groupName": "Special characters",
+            "operatingSystem": "Win"
+        },
+        {
+            "fullName": "VirtualCommand___59AB66CB91D24E41B535C207DA5B4331",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+AltOrOpt+Period",
+                "!en-US": "-AltOrOption+Oem1",
+                "fr-FR": "ControlOrCommand+AltOrOption+Period"
+            },
+            "name": "59AB66CB91D24E41B535C207DA5B4331",
+            "displayName": "Ellipsis",
+            "description": "Insert an ellipsis (…)",
+            "groupName": "Special characters",
+            "operatingSystem": "Win"
+        },
+        {
+            "fullName": "VirtualCommand___7084FDC30E864241AB32E5F8BF216CD0",
+            "shortcuts": {
+                "en-US": "ControlOrCommand+AltOrOption+KeyC",
+                "!en-US": "Command+AltOrOption+KeyC",
+                "!ja-JP": "Command+AltOrOption+C"
+            },
+            "name": "7084FDC30E864241AB32E5F8BF216CD0",
+            "displayName": "Copy Formatting",
+            "description": "Copy text formatting",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___1060D83E88884CAE9CCB65A22D8DDD0A",
+            "shortcuts": {
+                "en-US": "ControlOrCommand+AltOrOption+KeyV",
+                "!en-US": "Command+AltOrOption+KeyV",
+                "!de-DE": "Command+AltOrOption+KeyV",
+                "!ja-JP": "Command+AltOrOption+V"
+            },
+            "name": "1060D83E88884CAE9CCB65A22D8DDD0A",
+            "displayName": "Paste Formatting",
+            "description": "Paste text formatting",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___995BAE078EE64CC9838297CAB67762AB",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+Shift+KeyE",
+                "!en-US": "Command+Shift+KeyE"
+            },
+            "name": "995BAE078EE64CC9838297CAB67762AB",
+            "displayName": "Track Changes",
+            "description": "Turn change tracking on or off",
+            "groupName": "Document view",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___706DD841CE31434095EA78E65BF86409",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+Shift+KeyS",
+                "!en-US": "Command+AltOrOption+Shift+KeyS",
+                "!de-DE": "Command+AltOrOption+Shift+KeyS",
+                "!fr-FR": "Command+AltOrOption+Shift+KeyS",
+                "!ja-JP": "Command+AltOrOption+Shift+S",
+                "!en-GB": "Command+AltOrOption+Shift+KeyS"
+            },
+            "name": "706DD841CE31434095EA78E65BF86409",
+            "displayName": "Apply a Style",
+            "description": "Apply a style for the text",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___668079FE3B044A658D181BFBBCE56EBB",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+AltOrOpt+KeyF",
+                "!en-US": "Command+AltOrOption+KeyF",
+                "!ja-JP": "Command+AltOrOption+F"
+            },
+            "name": "668079FE3B044A658D181BFBBCE56EBB",
+            "displayName": "Insert Footnote",
+            "description": "Insert a footnote into a document",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___7474D1A48A7E4B008CFE45BE9C3E19FF",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+KeyK",
+                "!en-US": "Command+KeyK"
+            },
+            "name": "7474D1A48A7E4B008CFE45BE9C3E19FF",
+            "displayName": "Insert Link",
+            "description": "Insert a clickable hyperlink",
+            "groupName": "Text Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___C109B64A2A4D4C1ABB2BC5F74342B25C",
+            "shortcuts": {
+                "en-US": "AltOrOpt+F7",
+                "!en-US": "F7"
+            },
+            "name": "C109B64A2A4D4C1ABB2BC5F74342B25C",
+            "displayName": "Check Spelling",
+            "description": "Check for spelling errors",
+            "groupName": "Text Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___9F1B89AD2FD342D19823F63055B3EADC",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+KeyM",
+                "!en-US": "Control+Shift+KeyM",
+                "!de-DE": "Control+Shift+KeyM",
+                "!fr-FR": "Control+Shift+M",
+                "!ja-JP": "Control+Shift+M",
+                "fr-FR": "Control+M",
+                "!en-GB": "Control+Shift+KeyM"
+            },
+            "name": "9F1B89AD2FD342D19823F63055B3EADC",
+            "displayName": "Indent Paragraph",
+            "description": "Move paragraph right with standard indent",
+            "groupName": "Paragraph Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___1A6C3CE258924322BF5A55C5AC90142B",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+Shift+KeyM",
+                "!en-US": "Command+Shift+KeyM",
+                "!de-DE": "Command+Shift+KeyM",
+                "!fr-FR": "Command+Shift+M",
+                "!ja-JP": "Command+Shift+M",
+                "fr-FR": "Control+Shift+M"
+            },
+            "name": "1A6C3CE258924322BF5A55C5AC90142B",
+            "displayName": "Outdent Paragraph",
+            "description": "Move paragraph left to remove indent",
+            "groupName": "Paragraph Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___F8D3AE47569C4AE8B0A4903D374B336A",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+KeyT",
+                "!en-US": "Command+KeyT"
+            },
+            "name": "F8D3AE47569C4AE8B0A4903D374B336A",
+            "displayName": "Add Hanging Indent",
+            "description": "Indent all lines except the first line",
+            "groupName": "Paragraph Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___369BAA3D6F144220946E5977073C920F",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+Shift+KeyT",
+                "!en-US": "Command+Shift+KeyT"
+            },
+            "name": "369BAA3D6F144220946E5977073C920F",
+            "displayName": "Remove Hanging Indent",
+            "description": "Reset hanging indent to normal alignment",
+            "groupName": "Paragraph Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___9C87547CCCEA4286AC90F2622642A193",
+            "shortcuts": {
+                "en-US": "CtrlOrCmd+KeyJ",
+                "!en-US": "Command+KeyJ"
+            },
+            "name": "9C87547CCCEA4286AC90F2622642A193",
+            "displayName": "Justify Paragraph",
+            "description": "Align paragraph text evenly on both left and right margins",
+            "groupName": "Paragraph Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___DF31F4EA6B724EFEBA13950CE1BBABBF",
+            "shortcuts": {
+                "en-US": "Control+KeyQ",
+                "!en-US": "-Windows+AltOrOption+KeyQ"
+            },
+            "name": "DF31F4EA6B724EFEBA13950CE1BBABBF",
+            "displayName": "Clear Paragraph Formatting",
+            "description": "Remove all custom formatting from paragraph",
+            "groupName": "Paragraph Formatting",
+            "operatingSystem": "Win"
+        }
+    ],
+    "adjustments": [
+        {
+            "fullName": "VirtualAdjustment___8639D36290AA45B6B5063194534389FC",
+            "shortcutsLeft": {
+                "en-US": "CtrlOrCmd+Minus",
+                "!en-US": "CtrlOrCmd+Minus",
+                "!de-DE": "CtrlOrCmd+Minus",
+                "fr-FR": "CtrlOrCmd+Minus",
+                "!fr-FR": "Command+Oem6"
+            },
+            "shortcutsRight": {
+                "en-US": "CtrlOrCmd+Equals",
+                "!en-US": "CtrlOrCmd+Equals",
+                "!de-DE": "CtrlOrCmd+Equals",
+                "!fr-FR": "Command+Oem1"
+            },
+            "shortcutsReset": null,
+            "name": "8639D36290AA45B6B5063194534389FC",
+            "displayName": "Zoom",
+            "description": "Zoom in or out",
+            "groupName": "Navigation",
+            "operatingSystem": 3
+        }
+    ]
+}

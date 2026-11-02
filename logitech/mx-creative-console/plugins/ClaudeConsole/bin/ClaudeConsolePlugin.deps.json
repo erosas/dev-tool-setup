@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ClaudeConsolePlugin/2.3.2": {
+        "runtime": {
+          "ClaudeConsolePlugin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClaudeConsolePlugin/2.3.2": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

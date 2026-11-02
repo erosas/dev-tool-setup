@@ -1,0 +1,6 @@
+webExtensionId: kfghbjaebnnbcfciplojgcehnbijkkkh
+browserName: chrome
+channelName: webExtension_chrome
+initMethodName: InitWebExtensionPlugin
+messageHandlerMethodName: BrowserMessageReceivedProxy
+enabled: true

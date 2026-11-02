@@ -1,0 +1,513 @@
+{
+    "languages": [
+        "en-US",
+        "en-GB",
+        "de-DE",
+        "fr-FR",
+        "ja-JP"
+    ],
+    "primaryOperatingSystem": "Mac",
+    "secondaryOperatingSystem": "Win",
+    "groupNames": [
+        "Editing",
+        "Navigation",
+        "Slides",
+        "Text Formatting",
+        "Document",
+        "Slideshow Presentation",
+        "Test Group"
+    ],
+    "commands": [
+        {
+            "fullName": "VirtualCommand___BF594B141BB54F9EB9C991157157A9A7",
+            "shortcuts": {
+                "en-US": "Win+Shift+KeyF"
+            },
+            "name": "BF594B141BB54F9EB9C991157157A9A7",
+            "displayName": "Bring to Front",
+            "description": "Bring an object to the front to place it above overlapping elements",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___8A148BB30C5443338FC861509E485EEB",
+            "shortcuts": {
+                "en-US": "Win+Shift+KeyB"
+            },
+            "name": "8A148BB30C5443338FC861509E485EEB",
+            "displayName": "Send to Back",
+            "description": "Send an object to the back behind overlapping elements",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___F918B17B097C400A8A0A5BFE31DDAA57",
+            "shortcuts": {
+                "en-US": "Win+Add",
+                "fr-FR": "Command+Add",
+                "de-DE": "Win+Add",
+                "ja-JP": "Win+Add"
+            },
+            "name": "F918B17B097C400A8A0A5BFE31DDAA57",
+            "displayName": "Zoom In",
+            "description": "Zoom in to magnify the slide view",
+            "groupName": "Navigation",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___B9A52F288B8441B48F91B1E5DDCEFF04",
+            "shortcuts": {
+                "en-US": "Win+Minus",
+                "fr-FR": "Command+Oem6",
+                "de-DE": "Command+Minus",
+                "ja-JP": "Win+Minus"
+            },
+            "name": "B9A52F288B8441B48F91B1E5DDCEFF04",
+            "displayName": "Zoom Out",
+            "description": "Zoom out to see more content within the workspace",
+            "groupName": "Navigation",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___85E2CB670DDF4B0E8CBD35FCE0EA0291",
+            "shortcuts": {
+                "en-US": "Win+Shift+KeyD"
+            },
+            "name": "85E2CB670DDF4B0E8CBD35FCE0EA0291",
+            "displayName": "Duplicate Slide",
+            "description": "Duplicate the selected slide while preserving its content and formatting",
+            "groupName": "Slides",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___11BEE647CC624328963833EB7EAA7D99",
+            "shortcuts": {
+                "en-US": "Win+Shift+KeyN"
+            },
+            "name": "11BEE647CC624328963833EB7EAA7D99",
+            "displayName": "New Slide",
+            "description": "Insert a new slide using the default or selected layout",
+            "groupName": "Slides",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___3D29B1B6B2E94446ABB0A415DFE2AC0D",
+            "shortcuts": {
+                "en-US": "Delete"
+            },
+            "name": "3D29B1B6B2E94446ABB0A415DFE2AC0D",
+            "displayName": "Delete Slide",
+            "description": "Delete the slide",
+            "groupName": "Slides",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___98C9F2C4932F41A7A21AAC5456246E4D",
+            "shortcuts": {
+                "en-US": "PageUp"
+            },
+            "name": "98C9F2C4932F41A7A21AAC5456246E4D",
+            "displayName": "Previous Slide",
+            "description": "Return to the previous slide during a slideshow or editing",
+            "groupName": "Slides",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___1842FF6BDE9446EF95C24F6B9BDD14E1",
+            "shortcuts": {
+                "en-US": "PageDown"
+            },
+            "name": "1842FF6BDE9446EF95C24F6B9BDD14E1",
+            "displayName": "Next Slide",
+            "description": "Move to the next slide during a slideshow or editing",
+            "groupName": "Slides",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___8E44424851444F528294A49A45B81188",
+            "shortcuts": {
+                "en-US": "Win+KeyB"
+            },
+            "name": "8E44424851444F528294A49A45B81188",
+            "displayName": "Bold",
+            "description": "Apply or remove bold formatting",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___AC75974A4A31498B86FB0963E6A412BC",
+            "shortcuts": {
+                "en-US": "Win+KeyI"
+            },
+            "name": "AC75974A4A31498B86FB0963E6A412BC",
+            "displayName": "Italic",
+            "description": "Apply or remove italic formatting",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___C4ABAC4E57A0441FACF784BFDA35CA2A",
+            "shortcuts": {
+                "en-US": "Win+KeyU"
+            },
+            "name": "C4ABAC4E57A0441FACF784BFDA35CA2A",
+            "displayName": "Underline",
+            "description": "Apply or remove underline formatting",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___8D63071343BD4088A90F8C2AC7530377",
+            "shortcuts": {
+                "en-US": "Win+KeyL",
+                "fr-FR": "Win+KeyL",
+                "de-DE": "Win+KeyL"
+            },
+            "name": "8D63071343BD4088A90F8C2AC7530377",
+            "displayName": "Align Left",
+            "description": "Align text to the left",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___858AF35E1A6648CCB0F225887FF1F6D2",
+            "shortcuts": {
+                "en-US": "Win+KeyR",
+                "fr-FR": "Win+KeyR",
+                "de-DE": "Win+KeyR"
+            },
+            "name": "858AF35E1A6648CCB0F225887FF1F6D2",
+            "displayName": "Align Right",
+            "description": "Align text to the right",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___73D1A4BB3A7447AB869C0E3B63217D3B",
+            "shortcuts": {
+                "en-US": "Win+KeyE",
+                "fr-FR": "Win+KeyE",
+                "de-DE": "Win+KeyE"
+            },
+            "name": "73D1A4BB3A7447AB869C0E3B63217D3B",
+            "displayName": "Align Center",
+            "description": "Center the text",
+            "groupName": "Text Formatting",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___0DA70FC77BD944DAA3F6D26534CCC066",
+            "shortcuts": {
+                "en-US": "Win+KeyO"
+            },
+            "name": "0DA70FC77BD944DAA3F6D26534CCC066",
+            "displayName": "Open Presentation",
+            "description": "Open a presentation",
+            "groupName": "Document",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___8DD79EC6005D4E55B4CE5E7C88260387",
+            "shortcuts": {
+                "en-US": "Win+KeyN"
+            },
+            "name": "8DD79EC6005D4E55B4CE5E7C88260387",
+            "displayName": "Create New",
+            "description": "Create a new presentation",
+            "groupName": "Document",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___074F2D412EEE4581A0F85E8714518CA3",
+            "shortcuts": {
+                "en-US": "Win+KeyW"
+            },
+            "name": "074F2D412EEE4581A0F85E8714518CA3",
+            "displayName": "Close Presentation",
+            "description": "Close the presentation",
+            "groupName": "Document",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___0F7AD5A2E9DC4963AF33E1773F9C88D3",
+            "shortcuts": {
+                "en-US": "Win+KeyC"
+            },
+            "name": "0F7AD5A2E9DC4963AF33E1773F9C88D3",
+            "displayName": "Copy",
+            "description": "Copy the selected content to the clipboard",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___7793159EBF2A4057880BD1610C6B0859",
+            "shortcuts": {
+                "en-US": "Win+KeyX"
+            },
+            "name": "7793159EBF2A4057880BD1610C6B0859",
+            "displayName": "Cut",
+            "description": "Cut the selected content and place it on the clipboard",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___A367C12E5F584CEBA33B3D2B740B63AA",
+            "shortcuts": {
+                "en-US": "Win+KeyV"
+            },
+            "name": "A367C12E5F584CEBA33B3D2B740B63AA",
+            "displayName": "Paste",
+            "description": "Insert content from the clipboard",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___2C318C66033443A8B72AE9289B85C2A0",
+            "shortcuts": {
+                "en-US": "Win+KeyD"
+            },
+            "name": "2C318C66033443A8B72AE9289B85C2A0",
+            "displayName": "Duplicate",
+            "description": "Duplicate object or selection",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___E99F53F4561540B7823456E27C14671B",
+            "shortcuts": {
+                "en-US": "Win+KeyA"
+            },
+            "name": "E99F53F4561540B7823456E27C14671B",
+            "displayName": "Select All",
+            "description": "Selects all slides in the presentation",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___DE1E4778DD3F4BCC8602F834997AFC30",
+            "shortcuts": {
+                "en-US": "Win+KeyF"
+            },
+            "name": "DE1E4778DD3F4BCC8602F834997AFC30",
+            "displayName": "Find",
+            "description": "Find in presentation",
+            "groupName": "Document",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___9FCF5577CDEE4A42A16458DB448CC87D",
+            "shortcuts": {
+                "en-US": "Win+KeyP"
+            },
+            "name": "9FCF5577CDEE4A42A16458DB448CC87D",
+            "displayName": "Print",
+            "description": "Print the presentation",
+            "groupName": "Document",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___D7CB50070268462E9ECBD5AD5158473B",
+            "shortcuts": {
+                "en-US": "Win+Shift+KeyS"
+            },
+            "name": "D7CB50070268462E9ECBD5AD5158473B",
+            "displayName": "Save",
+            "description": "Save the presentation",
+            "groupName": "Document",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___82556FC418B9483EB46667CF7A7A4A45",
+            "shortcuts": {
+                "en-US": "Win+KeyH"
+            },
+            "name": "82556FC418B9483EB46667CF7A7A4A45",
+            "displayName": "Hide Powerpoint",
+            "description": "Hide the PowerPoint window",
+            "groupName": "Document",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___53253B3C3C494511A7FDF42D777F2D6F",
+            "shortcuts": {
+                "en-US": "Command+Y",
+                "fr-FR": "Command+Y",
+                "de-DE": "Command+Y",
+                "ja-JP": "Command+Y"
+            },
+            "name": "53253B3C3C494511A7FDF42D777F2D6F",
+            "displayName": "Redo",
+            "description": "Reapply the last undone action",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___5EDED3779C2A4731A1B6FDC2908F026B",
+            "shortcuts": {
+                "en-US": "Command+Z",
+                "fr-FR": "Command+Z",
+                "de-DE": "Command+Z",
+                "ja-JP": "Command+Z"
+            },
+            "name": "5EDED3779C2A4731A1B6FDC2908F026B",
+            "displayName": "Undo",
+            "description": "Reverse the last action to restore the previous state",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___6BF6F1F29C484237ABDF8DAF3ECDBFB8",
+            "shortcuts": {
+                "en-US": "Win+AltOrOpt+KeyG"
+            },
+            "name": "6BF6F1F29C484237ABDF8DAF3ECDBFB8",
+            "displayName": "Group Selected Objects",
+            "description": "Group items to move or format together",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___0D2171FD390F4D2F844F3D7E0F0E018E",
+            "shortcuts": {
+                "en-US": "Win+AltOrOpt+Shift+KeyG"
+            },
+            "name": "0D2171FD390F4D2F844F3D7E0F0E018E",
+            "displayName": "Ungroup Selected Objects",
+            "description": "Separate grouped items",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___09713F4A085A4BBCB58ACD8F1C9E7AC5",
+            "shortcuts": {
+                "en-US": "Win+KeyT"
+            },
+            "name": "09713F4A085A4BBCB58ACD8F1C9E7AC5",
+            "displayName": "Open Format Object Panel",
+            "description": "Open the formatting options panel",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___AE24EA6EE240459881D79CB54DEB9853",
+            "shortcuts": {
+                "en-US": "Win+KeyK"
+            },
+            "name": "AE24EA6EE240459881D79CB54DEB9853",
+            "displayName": "Insert link",
+            "description": "Add a clickable hyperlink",
+            "groupName": "Editing",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___FC1825DFB4E54DB1B2651160EC5A5E96",
+            "shortcuts": {
+                "en-US": "KeyB",
+                "ja-JP": "KeyB"
+            },
+            "name": "FC1825DFB4E54DB1B2651160EC5A5E96",
+            "displayName": "Black Screen",
+            "description": "Switch to black screen while presenting",
+            "groupName": "Slideshow Presentation",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___37D70CBDEF244A17AC08F3AA7A483B4C",
+            "shortcuts": {
+                "en-US": "KeyW",
+                "ja-JP": "KeyW"
+            },
+            "name": "37D70CBDEF244A17AC08F3AA7A483B4C",
+            "displayName": "White Screen",
+            "description": "Switch to white screen while presenting",
+            "groupName": "Slideshow Presentation",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___F187B89463C54DE7B30F09C3E81AD038",
+            "shortcuts": {
+                "en-US": "Escape",
+                "ja-JP": "Escape"
+            },
+            "name": "F187B89463C54DE7B30F09C3E81AD038",
+            "displayName": "End Slide Show",
+            "description": "Exit the presentation mode",
+            "groupName": "Slideshow Presentation",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___2A610B705A5A456A9A11176A64B0826E",
+            "shortcuts": {
+                "en-US": "KeyN",
+                "ja-JP": "KeyN"
+            },
+            "name": "2A610B705A5A456A9A11176A64B0826E",
+            "displayName": "Next Animation",
+            "description": "Next animation or trigger",
+            "groupName": "Slideshow Presentation",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___74D20A06040047F39427D61611184BCD",
+            "shortcuts": {
+                "en-US": "KeyP",
+                "ja-JP": "KeyP"
+            },
+            "name": "74D20A06040047F39427D61611184BCD",
+            "displayName": "Previous Animation",
+            "description": "Previous animation or trigger",
+            "groupName": "Slideshow Presentation",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualCommand___A2954A5F1D58405392A87ADBD5188A4D",
+            "shortcuts": {
+                "en-US": "Win+Shift+Return",
+                "ja-JP": "Win+Shift+Return"
+            },
+            "name": "A2954A5F1D58405392A87ADBD5188A4D",
+            "displayName": "Start Slide Show",
+            "description": "Start the presentation from the first slide.",
+            "groupName": "Slideshow Presentation",
+            "operatingSystem": 3
+        }
+    ],
+    "adjustments": [
+        {
+            "fullName": "VirtualAdjustment___C7DB0715C6DE41E4A6C2492D62BC8A93",
+            "shortcutsLeft": {
+                "en-US": "Win+Minus",
+                "fr-FR": "Command+Oem6",
+                "de-DE": "Command+Minus",
+                "ja-JP": "Win+Minus"
+            },
+            "shortcutsRight": {
+                "en-US": "Win+Add",
+                "fr-FR": "Command+Add",
+                "de-DE": "Win+Add",
+                "ja-JP": "Win+Add"
+            },
+            "shortcutsReset": null,
+            "name": "C7DB0715C6DE41E4A6C2492D62BC8A93",
+            "displayName": "Zoom",
+            "description": "Zoom in or out",
+            "groupName": "Navigation",
+            "operatingSystem": 3
+        },
+        {
+            "fullName": "VirtualAdjustment___A6C6C00F423E41CEBCAEB5AF9A03EEDE",
+            "shortcutsLeft": {
+                "en-US": "PageUp"
+            },
+            "shortcutsRight": {
+                "en-US": "PageDown"
+            },
+            "shortcutsReset": null,
+            "name": "A6C6C00F423E41CEBCAEB5AF9A03EEDE",
+            "displayName": "Switch Slides",
+            "description": "Switch between slides",
+            "groupName": "Slides",
+            "operatingSystem": 3
+        }
+    ]
+}
