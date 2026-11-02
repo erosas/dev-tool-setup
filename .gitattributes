@@ -1,20 +1,15 @@
+# Small binaries kept in plain git (viewable on GitHub, downloadable via raw URLs)
 *.lp5 binary
-*.dll binary
-*.dylib binary
-*.so binary
-*.exe binary
-*.pdb binary
-*.bin binary
-*.ict binary
 *.png binary
-*.ggml binary
-*.exe filter=lfs diff=lfs merge=lfs -text
-*.dll filter=lfs diff=lfs merge=lfs -text
-*.so filter=lfs diff=lfs merge=lfs -text
+
+# Plugin binaries live in Git LFS. `install --from-github` avoids needing LFS at all.
+*.exe   filter=lfs diff=lfs merge=lfs -text
+*.dll   filter=lfs diff=lfs merge=lfs -text
+*.so    filter=lfs diff=lfs merge=lfs -text
 *.dylib filter=lfs diff=lfs merge=lfs -text
-*.pdb filter=lfs diff=lfs merge=lfs -text
-*.bin filter=lfs diff=lfs merge=lfs -text
-*.ggml filter=lfs diff=lfs merge=lfs -text
-*.ict filter=lfs diff=lfs merge=lfs -text
-**/whisper-bin/whisper-cli filter=lfs diff=lfs merge=lfs -text
-**/MacOS/ClaudeVoiceHelper filter=lfs diff=lfs merge=lfs -text
+*.pdb   filter=lfs diff=lfs merge=lfs -text
+*.bin   filter=lfs diff=lfs merge=lfs -text
+*.ggml  filter=lfs diff=lfs merge=lfs -text
+*.ict   filter=lfs diff=lfs merge=lfs -text
+**/whisper-bin/whisper-cli   filter=lfs diff=lfs merge=lfs -text
+**/MacOS/ClaudeVoiceHelper   filter=lfs diff=lfs merge=lfs -text

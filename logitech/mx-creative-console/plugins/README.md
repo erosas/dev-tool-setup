@@ -31,12 +31,33 @@ Run `../sync-plugins.sh list` to regenerate this from the plugin metadata.
 
 ## Install on a new Mac
 
+### Fastest: straight from GitHub (no git, no Git LFS)
+
+The plugin folder is bundled as `mx-creative-console-plugins.tar.gz` on the repo's
+[Releases page](https://github.com/erosas/dev-tool-setup/releases). The script downloads
+the latest bundle, verifies its SHA-256, and installs it. Only `curl` and `tar` are needed:
+
 ```sh
-cd logitech/mx-creative-console
-./sync-plugins.sh install            # add --dry-run to preview
+curl -fsSL https://raw.githubusercontent.com/erosas/dev-tool-setup/main/logitech/mx-creative-console/sync-plugins.sh \
+  | bash -s -- install --from-github            # add --dry-run to preview, --tag plugins-YYYY.MM.DD to pin
 ```
 
-The script stops the Logi Plugin Service, copies any existing `Plugins` folder to a
+### From a clone
+
+The binaries in this folder are stored in [Git LFS](https://git-lfs.com). Without
+`git-lfs` installed, a clone gives you small pointer files instead of the real `.dll` /
+`.dylib` files, and the script will refuse to install them.
+
+```sh
+brew install git-lfs && git lfs install       # once per machine, before cloning
+git clone git@github.com:erosas/dev-tool-setup.git
+cd dev-tool-setup/logitech/mx-creative-console
+./sync-plugins.sh install                       # add --dry-run to preview
+```
+
+(Already cloned without LFS? `git lfs install && git lfs pull`, or just use `--from-github`.)
+
+Either way, the script stops the Logi Plugin Service, copies any existing `Plugins` folder to a
 timestamped `Plugins.bak-*` next to it, rsyncs each plugin from this folder into place,
 clears macOS quarantine flags, and restarts the service. Pass `--prune` to also remove
 plugins on the machine that aren't in this repo.
@@ -65,13 +86,24 @@ sudo installer -pkg LogiPluginServiceInstaller.pkg -target /
 ```sh
 cd logitech/mx-creative-console
 ./sync-plugins.sh backup
-git add plugins && git commit -m "Update MX Creative Console plugins"
+git add plugins && git commit -m "Update MX Creative Console plugins" && git push
+./sync-plugins.sh publish                       # refresh the GitHub Release tarball
 ```
+
+## Publish a release
+
+`./sync-plugins.sh publish` tars this folder (minus this README), writes a `.sha256`
+next to it, and creates a GitHub Release tagged `plugins-YYYY.MM.DD` (override with
+`--tag`) marked as *latest*, which is what `install --from-github` downloads. It needs the
+[GitHub CLI](https://cli.github.com) (`brew install gh && gh auth login`). Re-running with
+an existing tag replaces that release's assets.
 
 ## Notes
 
-- Everything here is binary (`.dll`, `.dylib`, `.exe`, `.png`, `.svg`…) and marked as
-  such in `.gitattributes`. Expect ~60 MB.
+- The executables (`.dll`, `.dylib`, `.so`, `.exe`, `.pdb`, `.bin`, `.ggml`, `.ict`, and
+  the two Mach-O helpers under `ClaudeConsole/bin/voice`) are tracked with Git LFS; see
+  `.gitattributes`. Icons (`.svg`, `.png`) and metadata stay in plain git. Expect ~60 MB
+  of LFS objects.
 - Plugins were captured from Logi Options+ 2.9 / Logi Plugin Service 6.4.2 on macOS.
   The Windows halves (`win/` folders, `.exe`) ride along but are untested.
 - `PackageHash.bin` in each `metadata/` folder is Logitech's integrity hash; it's copied
